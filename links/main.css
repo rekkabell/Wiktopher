@@ -1,0 +1,28 @@
+body { background:#111; color:#fff; font-family: 'Alegreya', serif;  overflow-x: hidden;}
+
+p { display: block;max-width: 600px;color: #999;font-size: 23px;margin: 0px auto 30px auto;line-height: 32px;}
+p.main { font-weight: bold; margin-bottom: 30px;}
+p a { color:white; text-decoration: underline; }
+b { font-weight: bold }
+table { margin-bottom: 30px}
+h { display: inline-block;vertical-align: top; width:calc(50% - 5px)}
+hr { clear:both; }
+h3 {display:block; max-width: 600px;font-size: 30px; margin-bottom: 10px; color:black; margin: 0px auto 30px auto;line-height: 32px}
+
+core { display:block; position:relative; background:white;max-width: 100%;margin:0px auto;padding:60px; margin-top:80vh; margin-bottom:100px; padding-bottom:30px;}
+
+background { display:block; background-image:url('../media/content/background.jpg'); position: fixed; width:100vw; height:100vh; top:0px; background-size:cover;background-position: center;}
+
+#social, #projects, #gallery, #games, #books { margin-bottom: 30px }
+#social img { max-width: 2%; border-radius: 3px; margin: 5px }
+
+
+footer { display: block; background:white; color:black; padding-bottom:5px; padding:0px 30px; }
+footer wr { max-width: 880px; padding: 30px 0px; margin:0px auto; display: block; }
+footer wr a.social { display: inline-block;float: right;padding:7px;margin-left:5px;height:17px }
+footer wr a.social img { width:20px; filter: invert(100%); }
+footer wr a.social:hover { opacity: 0.5 }
+footer wr a.kofi { border-radius: 100px; background:#111; color:white; padding:0px 15px; line-height: 30px; display: inline-block; float:right; margin-left:10px;}
+footer wr a.kofi:hover { background:pink; color:black; }
+footer wr a.about { font-weight: bold; display: inline-block; margin-top:5px; }
+footer wr a.about:hover { text-decoration: underline; }
