@@ -11,7 +11,11 @@
   <script type="text/javascript" src="scripts/lib/lightbox.js"></script>
   <script type="text/javascript" src="scripts/lib/indental.js"></script>
   <script type="text/javascript" src="scripts/lib/runic.js"></script>
+  <script type="text/javascript" src="scripts/database/story.tome"></script>
   <script type="text/javascript" src="scripts/database/lexicon.tome"></script>
+  <script type="text/javascript" src="scripts/client.js"></script>
+  <script type="text/javascript" src="scripts/navi.js"></script>
+  <script type="text/javascript" src="scripts/note.js"></script>
 </head>
 <body>
   <background></background>
@@ -21,7 +25,11 @@
   </header>
 
   <core>
-    <div id='container'></div>
+    <div id='client'>
+      <div id='navi'></div>
+      <div id='text'></div>
+      <div id='note'></div>
+    </div>
   </core>
 
   <footer>
@@ -36,33 +44,12 @@
 
   <script type="text/javascript">
 
-    var container = document.getElementById("container")
-    var lexicon = LEXICON;
-
-    // Index
-    var index_html = ""
-    for(id in lexicon){
-      var term = lexicon[id];
-      index_html += `<ln><a href='#${id.to_url()}'>${id.capitalize()}</a></ln>`
-    }
-    index_html = `<list id='index'>${index_html}</list>`
-    
-    // Content
-    var html = index_html
-    for(id in lexicon){
-      var term = lexicon[id];
-      html += `<h2 id='${id.to_url()}'>${id.capitalize()}</h2>`
-      html += `${new Runic(term.TEXT)}`
-    }
-    container.innerHTML = html;
+    var client = new Client(STORY,LEXICON)
+    client.start()
 
     if(window.location.hash == ""){
       window.location.hash = "home"
     }
-
-    var lightbox = new Lightbox();
-
-    lightbox.start();
   </script>
 
 </body>
