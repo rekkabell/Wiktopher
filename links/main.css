@@ -54,7 +54,7 @@ footer .credits a.social { display: inline-block;float: right;padding:7px;margin
 footer .credits a.social img { width:20px; filter: invert(100%); }
 footer .credits a.social:hover { opacity: 0.5 }
 footer .credits a.kofi { border-radius: 100px; background:#111; color:white; padding:0px 15px; line-height: 30px; display: inline-block; float:right; margin-left:10px;}
-footer .credits a.kofi:hover { background:pink; color:black; }
+footer .credits a.kofi:hover { background:#aa3333; color:black; }
 footer .credits a.about { font-weight: bold; display: inline-block; margin-top:5px; }
 footer .credits a.about:hover { text-decoration: underline; }
 
