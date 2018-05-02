@@ -1,13 +1,45 @@
 var LEXICON = new Indental(`
 
 LUPIN
-  & Wears a scarf.
+  & A {*Verido*}, in the running to become Voice of Volare. Lupin is a curious creature, and a tireless skeptic. 
 
 LEVI
-  & Hello.
+  & Lupin's mapa, stricken with an impairment that involves a progressive loss of language, behavior and executive functions. Levi's work as Hand of the Ilk, saved Vol from a major parasitical infection many years ago, one that threatened the creature's digestive system. Nowadays, this Verido still makes the most of life, and very much enjoys sitting on the Ilk's snout. 
+ILK 
+  & {*The giant walkers*} of the Soronan desert. These creatures are old, and walk around the planet all year long. The species' distinctive features include its long neck, narrow chest, a heavy pointed tail, a 'carapace', and collection of hairs on the throat and shoulders. The coat is generally a shade of dark blue, red and green. There are 3 Ilk in existence: Otora, Balandri and Volare (thusly named after the 3 Verido founders). Each Ilk bears a city on its back, its inhabitants are completely self-sufficient, but do rely on outside help to feed the Ilk.
+
+VOLARE
+  & One of three cities, built on the back of the Ilk Vol. Volare is also the name of one of the founders of the 3 cities, the ones who befriended the desert walkers, and that first settled on the Ilk. Lupin and Mago are direct descendants of Volare, which earns them the right to be the Voice of Volare.
+
+VOICE
+  & A Voice, is a direct descendant of one of the 3 founders of the ilk cities, tasked with speaking with the ilk. It is a tradition role, instated to make sure that the desert giants are content and healthy. Only the Voice can converse with the Ilk, whatever is said is then communicated to the rest of the people. 
+
+HAND
+  & The {*Hands of the ilk*}, are responsible for directly caring for the Ilk. They physically inspect the creature's body thoroughly, for signs of disease or wounds. It is dangerous work, many have fallen while on the job. 
+
+VERIDO 
+  & A race of traveling merchants, that reside on the backs of the giant desert walkers. They are divided onto 3 ilks, and the coloured patterns on their bodies reflect this. Verido have sand-colored hair, trumpet-like ears that stick out horizontally, they are not short, nor tall, and they enjoy adorning their hair in bodies with colorful trinkets. 
+
+ARMYN
+  & Parent of Mago, and retired Voice of Volare. 
+
+ISILK
+  & A fabric made from Ilk hair, very rare, and very sought after. It was popular during the Bao era, but the Verido stopped trading it out in fear that others would seek to harm the Ilk for it. Isilk is used by the Verido for clothing, and is braided into ropes. The hairs are dark, but under the sun comes a hue of red, blue or green.
+
+MAPA
+  & A term of endearment, used by the sproutlings of the bearing parent.
 
 ROSMUS
-  & A belt of semi-arable land that circles the planet. A belt of semi-arable land that circles the planet. A belt of semi-arable land that circles the planet.
+  & A Verido, living in the Ilk city of Volare. Rosmus is an avid potter, known for making near-indestructible pots from caparace shavings. 
+
+TRUMPET FLOWERS
+  & A type of flower, bell-shaped, tall and of a bright yellow colour; very popular with the Verido. It is often uprooted, and offered as a gift during green days and other special events. The bottom part, or 'bowl', contains a fluid of the plant's own production, which is syrupy, and that is used to drown its prey. On green days, a strong wine is mixed into the bowl of the plant, and is shared amongsts all who attend the celebrations. 
+
+KLOREA
+  & {*Klorea*} is any of several related green pigments found in the cells of beings of the Soronan desert. It allows them to absorb energy from light.
+
+VOL
+  & {*Vol*} is the short name of the Ilk of Volare.
 
 SORONAN DESERT
   & {*The Soronan Desert*} is a vast desert wildnerness stretching over the Central Rim and the Northern and Southern Plains. It is a continous body of sand which occupies most of the planet.
@@ -25,7 +57,13 @@ CACTUB
   % content/flora.cactub.jpg
 
 MUCKWHEAT
-  & soon
+  & A plant cultivated for its grain-like seeds. These seeds are rich in complex carbohydrates, and can be ground down into flour. It is popular with the Finiku people, made into bread or cooked into stews. 
+
+BONAN WINE
+  & A wine made from the bonan plant, a starchy berry that grows in the central rim. 
+
+BONAN
+  & A berry, with soft flesh rich in starch covered with a rind, which may be orange or purple when ripe. The seeds are roasted and brewed for tea.
 
 SHESHELL CRABS
   & Sheshell crabs are pearly white creatures that bear a shell with a face. It is thought that if you do them harm, they will remember your face and chase you to the ends of the deserts. They have a near indestructible shell, it is used to make pottery and other hard materials. The world used to be populated by many of these creatures, changes in weather have caused many to die, but the disintegrated shells have contributed to much goods in the land. The sheshell crab dust helped form a hard membrane around the pearled-up water, thusly preserving the water of the planet near the surface.
@@ -33,9 +71,8 @@ SHESHELL CRABS
 GENDER NEUTRAL WRITING
   & Wiktopher is written without the use of gender pronouns, this eliminates the tendency to modify our behaviour based on genders.
 
-WHISTLED LANG
-  & he book will feature songs in Ilken, a whistled language spoken by the Verido. These songs will be playable with an instrument.
-  & It is used to speak over long distances, and to converse with the ilks. The language was adapted from ilk tongue, which was first deciphered and adapted to be spoken with lips by Balandri. 
+ILKEN
+  & {*Ilken*} is a whistled language spoken by the Verido, which are also playable with an instrument. It is used to speak over long distances, and to converse with the ilks. The language was adapted from ilk tongue, which was first deciphered and adapted by Verido founder Balandri. 
   & A, E, I, O, U, Y and H are paired with notes and the rest consist of pauses and elongated notes.
   | A Do   | B .    | L ___   | T ....
   | E Re   | C _    | M .__   | U ____

@@ -1,11 +1,10 @@
 body { background:#111; color:#fff; font-family: 'Alegreya', serif;  overflow-x: hidden;}
 
-
 b { font-weight: bold }
 i { font-style: italic; }
 table { margin-bottom: 30px}
 h { display: inline-block;vertical-align: top; width:calc(50% - 5px)}
-hr { clear:both; display: block;background:grey;width:10px;height:10px;margin:0px auto 45px;border-radius: 30px }
+hr { clear:both;  }
 h3 {display:block; max-width: 900px;font-size: 30px; margin-bottom: 10px; color:black; margin: 0px auto 30px auto;line-height: 32px}
 list { display: block }
 list ln { display: block }
@@ -28,6 +27,7 @@ core #text p { display: block;max-width: 900px;color: #505050;font-size: 23px;ma
 core #text p.main { font-weight: bold; margin-bottom: 30px;}
 core #text p word { text-decoration: underline; }
 core #text p word:hover { text-decoration: none; cursor: pointer }
+core #text hr { clear:both; display: block;background:grey;width:10px;height:10px;margin:0px auto 45px;border-radius: 30px }
 
 core #note { right:0px; transition: all 250ms; }
 
@@ -37,18 +37,26 @@ core table { border:1px solid #ccc; color:#333; font-family: courier}
 core table td { padding:10px; }
 background { display:block; background-image:url('../media/content/background.jpg'); position: fixed; width:100vw; height:100vh; top:0px; background-size:cover;background-position: center;}
 
-#social, #projects, #gallery, #games, #books { margin-bottom: 30px }
 #social img { max-width: 2%; border-radius: 3px; margin: 5px }
 
-footer { display: block; background:white; color:black; padding-bottom:5px; padding:0px 30px; }
-footer wr { max-width: 880px; padding: 30px 0px; margin:0px auto; display: block; }
-footer wr a.social { display: inline-block;float: right;padding:7px;margin-left:5px;height:17px }
-footer wr a.social img { width:20px; filter: invert(100%); }
-footer wr a.social:hover { opacity: 0.5 }
-footer wr a.kofi { border-radius: 100px; background:#111; color:white; padding:0px 15px; line-height: 30px; display: inline-block; float:right; margin-left:10px;}
-footer wr a.kofi:hover { background:pink; color:black; }
-footer wr a.about { font-weight: bold; display: inline-block; margin-top:5px; }
-footer wr a.about:hover { text-decoration: underline; }
+footer { display: block;background: #b5b5b5;color: black;padding-bottom: 5px;padding: 0px 30px;z-index: 900;position: relative;padding-top:45px }
+footer h1 { font-size: 55px;text-transform: uppercase;margin-bottom: 30px }
+footer p { font-size: 20px;font-weight: normal;line-height: 28px;color: #333;padding-right: 45px;font-family: 'Alegreya'; margin-bottom: 30px}
+footer wr { width: calc(60% - 120px);margin: 0px auto;padding: 0px 30px;max-width: 700px; display: block }
+footer wr .subscribe form { display: block;width: 300px;color: black;background: #999;border-radius: 80px;text-decoration: none;;text-align: left;padding-bottom: 10px;padding:10px 15px;margin-bottom:30px; position: relative; margin:0px auto; margin-bottom: 30px}
+footer wr .subscribe form:hover { background:#aaa; }
+footer wr .subscribe form input { background:none; }
+footer wr .subscribe form input::placeholder { color:#555;} { background:none; }
+footer wr .subscribe form .button { display: block;color: white;background: #000;border-radius: 80px;text-decoration: none;;text-align: center;margin-bottom: 30px;position: absolute;padding: 5px 15px;text-transform: uppercase;top: 5px;right: 7px;line-height: 22px;font-weight: bold;font-size:11px}
+footer wr .subscribe form .button:hover {background-color: #aa3333; color: #fff; cursor: pointer;}
+footer .credits { padding:45px 60px }
+footer .credits a.social { display: inline-block;float: right;padding:7px;margin-left:5px;height:17px }
+footer .credits a.social img { width:20px; filter: invert(100%); }
+footer .credits a.social:hover { opacity: 0.5 }
+footer .credits a.kofi { border-radius: 100px; background:#111; color:white; padding:0px 15px; line-height: 30px; display: inline-block; float:right; margin-left:10px;}
+footer .credits a.kofi:hover { background:pink; color:black; }
+footer .credits a.about { font-weight: bold; display: inline-block; margin-top:5px; }
+footer .credits a.about:hover { text-decoration: underline; }
 
 columns { display: block;columns: 2;column-gap: 30px;margin-bottom: 45px;margin:0px 10px 30px; padding: 0px 30px }
 columns h2 { display: block;font-size: 30px;color: #fff;margin-bottom: 30px;font-weight: normal;text-transform: uppercase;border-bottom:1px solid white;padding-bottom:20px; break-before: column  }
@@ -58,3 +66,5 @@ columns ul { display: block;margin-left:30px;font-size:18px;margin-bottom:30px;l
 columns ul li {}
 
 img.main { width: 30%;max-width: 30% !important; border-radius: 3px; margin-bottom: 30px }
+
+/* CUSTOM */
