@@ -1,12 +1,13 @@
 body { background:#111; color:#fff; font-family: 'Alegreya', serif;  overflow-x: hidden;}
 
-p { display: block;max-width: 900px;color: #999;font-size: 23px;margin: 0px auto 30px auto;line-height: 32px;}
+p { display: block;max-width: 900px;color: #505050;font-size: 23px;margin: 0px auto 30px auto;line-height: 32px;}
 p.main { font-weight: bold; margin-bottom: 30px;}
 p a { color:white; text-decoration: underline; }
 b { font-weight: bold }
+i { font-style: italic; }
 table { margin-bottom: 30px}
 h { display: inline-block;vertical-align: top; width:calc(50% - 5px)}
-hr { clear:both; }
+hr { clear:both; display: block;background:grey;width:10px;height:10px;margin:0px auto 45px;border-radius: 30px }
 h3 {display:block; max-width: 900px;font-size: 30px; margin-bottom: 10px; color:black; margin: 0px auto 30px auto;line-height: 32px}
 list { display: block }
 list ln { display: block }
