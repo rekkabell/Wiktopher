@@ -8,8 +8,9 @@ function Navi(client)
     var html = ""
     for(id in this.client.story){
       var segment = this.client.story[id];
-      html += `<ln><a href='#${id.to_url()}'>${id.capitalize()}</a></ln>`
+      html += `<ln><a onclick='client.load("${id}")'>${id.capitalize()}</a></ln>`
     }
+    html += `<ln><a onclick='client.load("lexicon")'>Lexicon</a></ln>`
     this.el.innerHTML = `<list>${html}</list>`;
   }
 }
