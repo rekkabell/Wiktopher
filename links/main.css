@@ -68,3 +68,10 @@ columns ul li {}
 img.main { width: 30%;max-width: 30% !important; border-radius: 3px; margin-bottom: 30px }
 
 /* CUSTOM */
+
+@media (max-width: 950px) {
+  core #navi { position:relative; width:calc(100% - 30px); max-width:700px; margin:0px auto; margin-bottom:30px; border-bottom:1px solid #ccc; padding-bottom:30px}
+  core #text { position:relative; width:calc(100% - 30px); }
+  core #note { position:fixed !important; bottom:0px !important; left:0px !important; background:#ccc; width:calc(100vw - 60px); top:auto !important; padding:30px}
+  core #note p { max-width:700px; margin:0px auto}
+}
