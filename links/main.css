@@ -20,7 +20,7 @@ core #client { position: relative   }
 core #navi { left:0px; padding-left:15px; }
 core #navi a:hover { text-decoration: underline; cursor: pointer; }
 
-core #text { width: calc(60% - 120px);margin: 0px auto;padding:0px 30px; max-width: 700px }
+core #text { width: calc(60% - 120px);margin: 0px auto;max-width: 700px }
 core #text h2 { color:black; font-size:34px; margin-bottom:20px; }
 core #text img { max-width: 300px; margin:0px auto 30px; display: block }
 core #text p { display: block;max-width: 900px;color: #505050;font-size: 23px;margin: 0px auto 30px auto;line-height: 32px;}
@@ -72,6 +72,7 @@ img.main { width: 30%;max-width: 30% !important; border-radius: 3px; margin-bott
 @media (max-width: 950px) {
   core #navi { position:relative; width:calc(100% - 30px); max-width:700px; margin:0px auto; margin-bottom:30px; border-bottom:1px solid #ccc; padding-bottom:30px}
   core #text { position:relative; width:calc(100% - 30px); }
-  core #note { position:fixed !important; bottom:0px !important; left:0px !important; background:#ccc; width:calc(100vw - 60px); top:auto !important; padding:30px}
+  core #note { position:fixed !important; bottom:0px !important; left:0px !important; background:#ccc; width:calc(100vw - 90px); top:auto !important; padding:30px 45px}
   core #note p { max-width:700px; margin:0px auto}
+  core #note.hidden { display:none}
 }
