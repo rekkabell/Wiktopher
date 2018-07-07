@@ -15,7 +15,7 @@ header h2 { color:white; }
 
 background { display:block; background-image:url('../media/content/background.jpg'); position: fixed; width:100%; height:100%; top:0px; background-size:cover;background-position: center;}
 
-core { display:block; position:relative; background:white;max-width: 100%;margin:0px auto;padding:60px 30px; margin-top:80vh; padding-bottom:30px;}
+core { display:block; position:relative; background:white;max-width: 100%;margin:0px auto;padding:60px 30px; margin-top:65vh; padding-bottom:30px;}
 core #client { position: relative   }
 core #navi { left:0px; padding-left:15px; }
 core #navi list {  }
