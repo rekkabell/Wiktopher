@@ -19,7 +19,7 @@ core { display:block; position:relative; background:white;max-width: 100%;margin
 core #client { position: relative   }
 core #navi { left:0px; padding-left:15px; }
 core #navi list {  }
-core #navi list ln {  }
+core #navi list ln { line-height: 30px }
 core #navi list ln.chapter { counter-increment:chapter; }
 core #navi list ln.chapter:before { content:"Chapter " counter(chapter) ": "; color:#aaa;  }
 core #navi list ln.chapter.selected:before { color:#000; font-weight: bold }
