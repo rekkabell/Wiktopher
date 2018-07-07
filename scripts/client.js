@@ -19,7 +19,7 @@ function Client(story,lexicon)
   this.load = function(target = Object.keys(this.story)[0])
   {
     if(target == "lexicon"){ this.show_lexicon(); return; }
-    if(target == "HOME"){ target = Object.keys(this.story)[0] }
+    if(target == "HOME" || target == ""){ target = Object.keys(this.story)[0] }
     if(!this.story[target]){ console.warn("Error",target); return; }
 
     window.location.hash = target.to_url()

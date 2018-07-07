@@ -12,10 +12,11 @@ list ln { display: block }
 header { display: block;position: relative;z-index: 9000;top: 45vh; text-align: center;}
 header h1 { font-size: 55px;text-transform: uppercase; }
 header h2 { color:white; }
+header h2 a:hover { text-decoration: underline; }
 
 background { display:block; background-image:url('../media/content/background.jpg'); position: fixed; width:100%; height:100%; top:0px; background-size:cover;background-position: center;}
 
-core { display:block; position:relative; background:white;max-width: 100%;margin:0px auto;padding:60px 30px; margin-top:80vh; padding-bottom:30px;}
+core { display:block; position:relative; background:white;max-width: 100%;margin:0px auto;padding:60px 30px; margin-top:65vh; padding-bottom:30px;}
 core #client { position: relative   }
 core #navi { left:0px; padding-left:15px; }
 core #navi list {  }
@@ -31,7 +32,7 @@ core #text p { display: block;max-width: 900px;color: #505050;font-size: 23px;ma
 core #text p.main { font-weight: bold; margin-bottom: 30px;}
 core #text p word { text-decoration: underline; }
 core #text p word:hover { text-decoration: none; cursor: pointer }
-core #text hr { clear:both; display: block;background:grey;width:10px;height:10px;margin:0px auto 45px;border-radius: 30px }
+core #text hr { clear:both; display: block;background:#fff;width:8px;height:8px;margin:0px auto 30px;border-radius: 30px; border:1.5px solid #666; margin-top:60px; margin-bottom:60px; }
 core #note { right:0px; transition: all 250ms; }
 core #navi, core #note { position: absolute;top:0px;width:20%; padding-top:5px; color:black; font-size:16px; padding:0px 15px; }
 core table { border:1px solid #ccc; color:#333; font-family: courier}
