@@ -1,7 +1,7 @@
 var STORY = new Indental(`
 
 Voice of the ilk
-  & In a dwelling so small, it's a wonder things could get lost in it at all. A scarf of all things! A piece of fabric of considerable length could not stay hidden, or so Lupin thought. This young {{Verido}} was getting desperate. The same thing had happened the week before, and the month prior. It excelled at the art of disappearance. Lupin claimed to have nothing to do with it, that the sentient scarf very much enjoyed eluding its master. Putting the blame on inanimate objects, of course, was easier then admitting to one's own failures to keep things in good order. 
+  & In a dwelling so small, it's a wonder things could get lost in it at all. A scarf of all things! A piece of fabric of considerable length could not stay hidden, or so {{Lupin}} thought. This young {{Verido}} was getting desperate. The same thing had happened the week before, and the month prior. It excelled at the art of disappearance. Lupin claimed to have nothing to do with it, that the sentient scarf very much enjoyed eluding its master. Putting the blame on inanimate objects, of course, was easier then admitting to one's own failures to keep things in good order. 
 
   & There were other scarves hanging on their hooks, but none were worthy of today. The one Lupin was looking for was blue, made of {{isilk}}, a type of thread unique to this city and sought the world over. 
 
@@ -11,41 +11,41 @@ Voice of the ilk
 
   & Lupin glanced outside then, the suns were low in the sky, this meant that the ceremony would start soon. The scarf took its place around the Verido's neck. "Now see, we're late because of you." The scarf did not care to apologize, it lay limp, like a long blue tongue. 
 
-  & Today was a big day, the city would choose a new {{Voice}}, the bridge between the Ilk and the people, a role dating back to when the Verido first settled here. The townspeople thought that they'd continue to prosper if they had a descendant of {{Volare}} at the ear. Lupin was one of two direct descendants, but this Verido did not expect to earn the title. There were two branches of the Volare bloodline, the other had been granted the role of Voice since all began living on the Ilk, and this wasn't about to change.
+  & Today was a big day, the city would choose a new {{Voice}}, the bridge between the Ilk and the people, a role dating back to when the Verido first settled here. The townspeople thought that they'd continue to prosper if they had a descendant of Volare at the ear. Lupin was one of two direct descendants, but this Verido did not expect to earn the title. There were two branches of the Volare bloodline, the other had been granted the role of Voice since all began living on the Ilk, and this wasn't about to change.
 
   & Because of the ceremony, Lupin had to wear appropriate clothing. The traditional ceremonial wear consisted of hair adorned with colourful beads, a necklace of blue thread cascading down from a loop at the neck, a cloth around the waist long enough to cover the knees, as well as a woven mat over the cloth. These garments were topped off with a dark isilk robe. All Verido would be wearing similar outfits, without the robe, which was reserved for the candidates. Lupin's hair was light, like sand, and cut short on the sides, leaving a thick line of hair running along the center of the head. The hair could not be persuaded to lie down neatly. Another important detail, specific to today's events, was that part of the face was painted in blue using the dried and crushed pigments of the fruit of the {{looberry}} plant. Lupin reached into a jar and grabbed a fistful of it, then, mixed it to a bowl with the contents of a freshly-squeezed {{water stone}} and began to apply it. After applying enough, Lupin hurried out the door, but came face to face with {{Rosmus}}, one of the locals.
 
-  & "Morning Voice of Volare!" Rosmus said, dressed in plain clothes, as if unaware of today's events. The visitor held a basket of yellow {{trumpet flowers}}, the stems kept fresh by a layer of earth. No {{Verido}} uprooted flowers without the intention of replanting, or consuming them afterwards. "These are for you Voice!"
+  & "Morning Voice of Volare!" Rosmus said, dressed in plain clothes, as if unaware of today's events. The visitor held a basket of yellow trumpet flowers, the stems kept fresh by a layer of earth. No Verido uprooted flowers without the intention of replanting, or consuming them afterwards. "These are for you Voice!"
 
-  & "I'm not Voice, not yet," Lupin said, trying to inch forward - no simple task. "Aren't you um, going to the celebrations today?"
+  & "I'm not Voice, not yet," Lupin said, trying to inch forward - no simple task. "Aren't you, um, going to the celebrations today?"
 
   & "Yes of course! Everyone will be there! But contrary to popular opinion, I think you'll be Voice, not Mago."
 
-  & "It's just like you to think different of everyone" Lupin said, amused. 
+  & "It's just like you to think the opposite of everyone." Lupin said, amused. 
 
   & "I sense a change in the world, and so I too must adapt! I follow the inner beatings of mine own heart, always have."
 
   & "And what if your inner beatings are wrong?"
 
-  & "Impossible. If anything it means I'm at fault. I haven't been listening enough, I'm still learning and may have misinterpreted my heart's message." Saying this, Rosmus put an open hand on Lupin's chest. "Tu-tump, tu-tump. It's the primordial tongue. A more practiced ear would be able to tell you the exact meanings of it, though there is no such person, yet, but I'm working on changing that as you can see! It offers the truest of truths! Skin reading is a thing of the past, an old tradition that we need to do away with!"
+  & "Impossible. If anything it means I'm at fault, that I haven't been listening enough. I'm still learning and may have misinterpreted my heart's message." Saying this, Rosmus put an open hand on Lupin's chest and gave it a series of light taps, "tu-tump, tu-tump, tu-tump. It's the primordial tongue. A more practiced ear would be able to tell you the exact meanings of it, though there is no such person yet, but I'm working on changing that as you can see! It offers the truest of truths! Skin reading is a thing of the past, an old tradition that we need to do away with!"
 
-  & Lupin smirked at this, "So i take it you won't be doing any readings today."
+  & Lupin smirked at this. "So i take it you won't be doing any readings today."
 
-  & "I already have and I've already told you the truth!"
+  & "I have, and I've already told you everything."
 
-  & All Lupin could think about was how {{Pumra}} would be disappointed. "I have to get going, {{Mago}}'s waiting."
+  & "I have to get going, Mago's waiting."
 
   & "Yes! Yes of course! I'll plant these for you Voice!" Rosmus said, waving a single trumpet flower as the space began to grow between them.
 
   > <hr/>
 
-  & {{Mago}} was standing before the Volare town hall, an imposing edifice on the lowermost area of the {{Ilk}}'s nape. The town was more animated than usual, there were people everywhere, busy wrapping ribbons around poles and hanging wreaths on every door. Everyone waved at Mago, smiling and saying things like, {_"Good luck in there!"_} or, {_"You were born to do it!"_}
+  & {{Mago}} was standing before the Volare town hall, an imposing edifice on the lowermost area of the Ilk's nape. The town was more animated than usual, there were people everywhere, busy wrapping ribbons around poles and hanging wreaths on every door. Everyone waved at Mago, smiling and saying things like, {_"Good luck in there!"_} or, {_"You were born to do it!"_}
 
-  & Mago wondered if they said these things to Lupin too. Like all Verido, this one had pale sandy hair, reaching just below the ears, many strands had beads in them. There was blue paint on Mago's face too, a big stripe from the top of the head to the chin, covering the nose and the eyes, with two thinner ones running alongside it. There were a lot of similarities between the patterns of the two candidates, they were cousins after all. Only those with the blood of Volare could become Voice.
+  & Mago wondered if they said these things to Lupin too. Like all Verido, this one had pale sandy hair, reaching just below the ears and heavy with decorative beads. There was blue paint on Mago's face too, a big stripe from the top of the head to the chin, covering the nose and the eyes, with two thinner ones running alongside it. There were a lot of similarities between the patterns of the two candidates, they were cousins after all. 
 
-  & "Mago!" {{Armyn}} called out, approaching in great strides. Mago's mapa Arymn hurried over, pushing past the crowd that was slowly gathering around the town hall. "Mago!" Armyn called again.
+  & "Mago!" {{Armyn}} called out, approaching in great strides. Mago's mapa hurried over, pushing past the crowd that was gathering around the town hall. "Mago!" Armyn called again.
 
-  & The young one was stressed with today's events, their family had always been Voice. Armyn had retired a week ago, Mago's mapa was over a hundred years old, and the legs could no longer support the body, not for climbs up to the Ilk's head anyway.
+  & Mago was stressed with today's events, their family had {_always_} been Voice. Armyn had retired a week ago, being over a hundred years old the legs could no longer support the body – not for climbs up to the Ilk's head anyway.
 
   & "Anyone in there?" Armyn said, fixing the collar on Mago's robe. "Answer me space child."
 
@@ -53,21 +53,25 @@ Voice of the ilk
 
   & "Yes you do, and no I don't know."
 
-  & Mago groaned, "I'm nervous okay, you know I am."
+  & Mago groaned. "I'm nervous okay, you know I am."
 
-  & "Yes, but you forget that I went through the same with cousin Levi, and my mapa went through it too with cousin {{Laggra}}. I'm here, right now, telling you that you have nothing to worry about! Our family line is strong." Armyn paused to re-arrange Mago's robe, "It happened ages ago, but looking at you now... it's strange, like being on the wrong side of a mirror!"
+  & "Yes, but you forget that I went through the same with cousin Levi, and my mapa went through it too with cousin {{Laggra}}. I'm here, right now, telling you that you have nothing to worry about! Our family line is strong." Armyn stopped to remove a stray drop of blue paint from the youngling's cheek. "It happened ages ago, but looking at you now, it's strange, like being on the wrong side of a mirror."
 
-  & "Cousin Levi was really good huh?"
+  & "Cousin Levi was really good, I head the stories."
 
-  & "Yes, that's true, but the elders saw sickness in Levi, it shows in your skin, it can be read like letters in a book," Armyn paused, saddened at these words, but only for a moment. "Lupin is good, but not as good as you. I have to go, but I'll see you in there!" Saying, Armyn rushed away and disappeared into the town hall, passing under a banner with the words "Voice of Volare". A small child stood under it, trying to sound the words out in {{ilken}}, with little success. 
+  & "Yes, that's true, but the elders saw sickness in Levi. It shows in your skin, it can be read like letters in a book," Armyn paused, saddened at these words, but only for a moment. "Lupin is good, but not as good as you, don't you forget it. I have to go, but I'll see you in there!" Saying, Armyn rushed away and disappeared into the town hall, passing under a banner with the words "Voice of Volare". 
 
-  & "That doesn't sound right at all," the child whined.
+  & A small child stood near the banner, trying to sound the words written on it in {{ilken}} – with little success. 
 
-  & Mago joined the infant under the banner. "You almost got it you know! Watch me." Hands moved into place, cupping the mouth in the right way, then came a collection of whistles...
+  & "That doesn't sound right at all." The sproutling whined.
+
+  & Mago joined the child under the banner. "You almost got it you know! Watch me." Hands moved into place, cupping the mouth in the right way, then came a collection of whistles...
 
   & Fa(.___) SiMi() RE(_) SiFa() Sol(__) Fa(.___) Do(___) Re(._.)
 
-  & The sounds varied in pitch and rhythm, {{ilken}} was a whistled language used to communicate with the Ilk. Only the Voice used it for that purpose though, for everyone else in the city, learning it was a tradition. Ilken could be whistled, and it could also be played with a plucked instrument like the traditional {{donmol}} or the humble {{koutra}}. "See? Voice-of-Volare. You try it, watch out for the pitch on the vowels." Eyes wide, the child positioned both hands and lips in the same way, and tried again with much success. 
+  & The sounds varied in pitch and rhythm, {{ilken}} was a whistled language used to communicate with the Ilk. Only the Voice used it for that purpose though, everyone else in the city learned it for tradition's sake. Ilken could be whistled, and it could also be played with a plucked instrument like the traditional {{donmol}} or the humble {{koutra}}. 
+
+  & Mago whistled it a second time, to make sure the child had heard it right. "See? Voice-of-Volare. You try it, watch out for the pitch on the vowels." Eyes wide, the child positioned both hands and lips in the same way, and tried again with much success. 
 
   & Lupin arrived then, taking Mago's side. "Well! If it isn't the tongue wart of the Ilk!" 
 
@@ -95,17 +99,17 @@ Voice of the ilk
 
   & Lupin shrugged, "in the end, Levi just kept adding lengths to it without stopping, saying I would need it long. Never really gave me a straight answer when I asked why. Can't imagine how long it would have been if I hadn't hidden those last skeins."
 
-  & Mago laughed, relaxing for the first time in a week. They had been friends since they were little, and always knew how to make each other laugh.
+  & Mago laughed, relaxing for the first time in a week. They had been close since they were little, and always knew how to make each other laugh.
 
   & "Rosmus isn't coming today. Wasn't even wearing the proper clothes or anything."
 
-  & "Pumra's going to be angry," Mago said. 
+  & "Uh, oh. Pumra's going to be angry." Mago said, "so much for tradition."
 
-  & A large crowd encircled them at the town hall then, all were dressed for the occasion and shouted words of encouragement to the two candidates. Even a funny-looking scarf wouldn't be enough to calm Mago's nerves now, but Lupin always knew what to say…
+  & A large crowd encircled them at the town hall then, the suns were about to set, it was time. Everyone around fell quiet, and watched as the doors leading inside the town hall swung open. Lupin gulped, even a funny-looking scarf wouldn't be enough to calm Mago's nerves now, but a friend always knew what to say…
 
-  & "We should go inside, oh, Venerable Nose Hair of the Ilk!"
+  & "Let's go inside, OH Venerable Nose Hair of the Ilk!"
 
-  & "Don't say that too loud!" Mago said with a laugh, as both made their way inside. The crowd cheered, waving flags of blue and shouting their names.
+  & "Don't say that too loud!" Mago said with a laugh, as both entered the building. The crowd cheered, waving flags of blue and shouting their names.
 
   > <hr/>
 
@@ -227,9 +231,7 @@ Voice of the ilk
 
   & A sense of dread overcame the Verido then, "this can't be real. It can't be. They'll blame me for it, they'll think I did it." Mago felt dizzy, and continued to pull, "this can't be real." Then came the end of the line, and no Lupin. Tears welled up in Mago's eyes. "LUPIN!"
 
-
 Bed of dust
-
   & Lupin could hear a scream – or was it the wind? Or was it the sound of life leaving this body? 
 
   & The Verido dangled from a chute, hands gripping the crossbars tightly, its presence helped slow the fall, but Vol's leg caught one of the bars and caused the chute to collapse. The ground was coming fast, and Lupin's body met with it, hard. 
