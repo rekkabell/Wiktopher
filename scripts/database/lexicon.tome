@@ -9,6 +9,7 @@ LEVI
 ILK
 
   & The {*Ilks*} or {*The giant walkers*} of the Soronan desert. These creatures are old, and walk around the planet all year long. The species' distinctive features include its long neck, narrow chest, a heavy pointed tail, a 'carapace', and collection of hairs on the throat and shoulders. The coat is generally a shade of dark blue, red and green. There are 3 Ilk in existence: Otora, Balandri and Volare (thusly named after the 3 Verido founders). Each Ilk bears a city on its back, its inhabitants are completely self-sufficient, but do rely on outside help to feed the Ilk.
+  % content/fauna.ilk.jpg
 
 VOLARE
   & One of three cities, built on the back of the Ilk Vol. Volare is also the name of one of the founders of the 3 cities, the ones who befriended the desert walkers, and that first settled on the Ilk. Lupin and Mago are direct descendants of Volare, which earns them the right to be the Voice of Volare.
@@ -26,19 +27,22 @@ DONMOL
   & The donmol is a traditional Verido plucked instrument, it has 4 double strings, a long neck and a raised fingerboard. It has a flat back, with the soundholes being triangular-shaped.
 
 NONO
-  & A Finiku I met in the desert, the captain of a sandfin and grand-sprout of Etyl.
+  & A {*Finiku*}, and captain of a sandfin. Grand-sprout of famous sandfinner {*Etyl*}.
 
 KOUTRA
   & The koutra is a homemade-style plucked instrument, usually made and used by children. It has a small round body, made from the hard outer shell of a looberry plant, and is affixed to the body with braids of isilk. The neck is about a metre long, and pierces the body. There are two tunable isilk strings.
 
 LAGGRA
-  & Levi's parent, the one who built their family home and that helped to create the security system to the Ilk's head, following the death of a Voice who fell after the Ilk stumbled.
+  & {*Levi*}'s parent, the one who built their family home and that helped to create the security system to the Ilk's head, following the death of a Voice who fell after the Ilk stumbled.
 
 VERIDO
   & A race of traveling merchants, that reside on the backs of the giant desert walkers. They are divided onto 3 ilks, and the coloured patterns on their bodies reflect this. Verido have sand-colored hair, trumpet-like ears that stick out horizontally, they are not short, nor tall, and they enjoy adorning their hair in bodies with colorful trinkets.
 
 ARMYN
   & Parent of Mago, and now retired Voice of Volare.
+
+EKA
+  & The red-haired wonder, found asleep in a bed of green. Companion of Lupin, they travel together on {*Hush*}. Not much is known of Eka, the being has round ears, which is a rare trait amongst the habitants of this world. 
 
 ADEL
   & Armyn's mapa, and Mago's grandmapa. Adel fell from the Ilk's head early as Voice, this loss motivated Laggra, Adel's cousin, to add security lines leading to the head. 
@@ -105,6 +109,7 @@ EKA
 
 HYROO
   & Hyroos are large creatures with big rounded ears and strong hind legs, they have sand-colored fur, with darker spots on their bodies. Their snouts are large, they can smell and hear things from far away. These beasts are known for being able to run and jump long distances with little effort, they grow in moist environments, although they are thought to be extinct.
+  % content/fauna.hyroo.jpg
 
 HUSH
   & A hyroo and friend of Eka, and the one that carries the two travelers across the desert plains. 
@@ -113,13 +118,13 @@ KIT
   & A hyroo and friend of Uno.
 
 PROTUS
-  & One of the moons circling Wiktopher, commonly referred to as the twins. 
+  & One of the moons circling this planet, commonly referred to as the twins. 
 
 ENCELA
-  & One of the moons circling Wiktopher, commonly referred to as the twins.
+  & One of the moons circling this planet, commonly referred to as the twins.
 
 SKY ROCK
-  & Sky rocks is what Wiktopher habitants call the celestial bodies in the sky. 
+  & Sky rocks is what the world's habitants call the celestial bodies in the sky. 
 
 TEAWEET
   & One of most common grains in the {*Soronan desert*}, the cheapest too. It is easy to grow, and requires little attention or water. It is a staple for many of the worlds habitants, and the main food source of the Ilks.
