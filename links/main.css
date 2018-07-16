@@ -25,7 +25,7 @@ core #navi { left:0px; padding-left:15px; }
 core #navi list {  }
 core #navi list ln { line-height: 30px }
 core #navi list ln.chapter { counter-increment:chapter; }
-core #navi list ln.chapter:before { content:"Chapter " counter(chapter) ": "; color:#aaa;  }
+core #navi list ln.chapter:before { content:"Ch " counter(chapter) ": "; color:#aaa;  }
 core #navi list ln.chapter.selected:before { color:#000; font-weight: bold }
 core #navi a:hover { text-decoration: underline; cursor: pointer; }
 core #text { width: calc(60% - 120px);margin: 0px auto;max-width: 700px }
