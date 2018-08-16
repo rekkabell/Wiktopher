@@ -632,22 +632,22 @@ The sandfin
 
   % content/flora.cactub.jpg
 
-  & Eka, Lupin and Hush wandered the desert, quenching their thirst with waterstones. Hush could no longer stand any weight on its back and walked behind them, panting. They could not get to Montore fast enough, though the thought of cake and tea did offer some motivation. During the walk, Eka sang about bam cakes, listing the ingredients aloud in song. Every song ended with a solo of groans and growls, courtesy of Lupin's empty belly.
+  & Eka, Lupin and {{Hush}} wandered the desert, quenching their thirst with {{waterstones}}. Hush could no longer stand any weight on its back and walked behind them, panting. They could not get to Montore fast enough, though the thought of cake and tea did offer some motivation. During the walk, Eka sang about bam cakes, listing the ingredients aloud in song. Every song ended with a solo of groans and growls, courtesy of Lupin's empty belly.
 
-  & "Ba-ba-ba-bam cakes! Ba-ba-ba-bam cakes!"
+  & {_"Ba-ba-ba-bam cakes! Ba-ba-ba-bam cakes!"_}
 
   > <hr/>
 
   > <ul>
-  > <li>Bam cakes recipe:</li><br>
-  > <li>700 plbs bams</li>
-  > <li>2 may leaves</li>
-  > <li>2 avoka nuts</li>
-  > <li>350 plbs nutshroos</li>
-  > <li>115 plbs bonions</li>
-  > <li>8 plbs dilly herbs</li>
-  > <li>50 plbs teaweet flour</li><br>
-  > <li>Instructions:</li><br>
+  > <li>{*Bam cakes recipe:*}</li><br>
+  > <li>{_700 plbs bams_}</li>
+  > <li>{_2 may leaves_}</li>
+  > <li>{_2 avoka nuts_}</li>
+  > <li>{_350 plbs nutshroos_}</li>
+  > <li>{_115 plbs bonions_}</li>
+  > <li>{_8 plbs dilly herbs_}</li>
+  > <li>{_50 plbs teaweet flour_}</li><br>
+  > <li>{*Instructions:*}</li><br>
   > <li>Remove skins from bams, and dice into cubes. Boil with a may leaf until soft.  While bams are softening, crack one avoka nut in a pan and sautee diced bonions and chopped nutshroos. Cook until all the liquid has evaporated, then let brown for an extra 5 minutes. Chop the dilly herbs, add to pan with nutshroos. Mix together and take off heat.</li><br>
   > <li>Drain bams, mash with a stone mortar and let cool. Add teaweet flour to mashed bams. Take a handful of bam dough and flatten into a disk, add some nutshroo mix into the center and cover with more bam dough. Crack another avoka oil in a pan, and fry for 5 minutes until golden, flip, and repeat.</li>
   > </ul>
@@ -655,7 +655,7 @@ The sandfin
 
   & "Please stop singing about food." Lupin said. 
 
-  & They'd tried to ration the teaweet bread, but Hush raided their stores in the night and all 5 loaves had already been digested. Both kept waterstones in their mouths, it helped in the absence of food. Saliva helped to draw out the water, in economical doses.
+  & They'd tried to ration the {{teaweet}} bread, but Hush raided their stores in the night and all 5 loaves had already been digested. Both kept waterstones in their mouths, it helped in the absence of food. Saliva helped to draw out the water, in economical doses.
 
   & "We're going to die out here."
 
@@ -665,7 +665,7 @@ The sandfin
 
   & "Because it's too hot!"
 
-  & "Of course, only idiots would be out here in this heat."
+  & "Of course, only {_idiots_} would be out here in this heat."
 
   & "The things you say, it's like you're not of this world! When nightfall we should be able to find some."
 
@@ -675,7 +675,11 @@ The sandfin
 
   & "We'll set camp here."
 
-  & Lupin was too tired and too hungry to complain. And so, using the chute, they built a makeshift tent. Come nightfall, Eka waited outside it, staring at the ground.
+  & Lupin was too tired and too hungry to complain. And so, using the chute, they built a makeshift tent. 
+
+  > <hr/>
+
+  & Come nightfall, Eka waited outside it, staring at the ground.
 
   & "Lew. Pssst! LEW! Come here."
 
@@ -689,7 +693,7 @@ The sandfin
 
   & "You're terrible at this."
 
-  & "This? I have no idea what THIS is!"
+  & "This? I have no idea what {*THIS*} is!"
 
   & "Lower your voice–" Eka commanded, "–and be still. When the stems come back out and the leaves open up, clap your hands together real fast. It'll stun them, and you can grab one – haven't you ever harvested cactubs before?
 
@@ -697,9 +701,15 @@ The sandfin
 
   & Eka laughed. "Only the best vegetable ever. I'll do it. Watch me."
 
-  & Like before, the cactub stems emerged, and the leaves opened up in a fan. Eka neared two hands to one of them, and then CLAP! Red grabbed the stem and pulled it out. The cactub was a bulbous root vegetable, purple and covered in little round nubs. They peeled the skin off, and ate slices of it for dinner. Cactub was soft and sweet on the inside, and had many seeds. 
+  & Like before, the {{cactub}} stems emerged, and the leaves opened up in a fan. Eka neared two hands to one of them, and then...
+
+  & {*CLAP!*} 
+
+  & Red grabbed the stem and pulled it out. The cactub was a bulbous root vegetable, purple and covered in little round nubs. They peeled the skin off, and ate slices of it for dinner. Cactub was soft and sweet on the inside, and had many seeds. 
 
   & "You can eat these too, or toss them. They'll grow back from the seed if you do that. For every two I eat, I toss one," saying this, Eka tossed one seed over the left shoulder.
+
+  & "Eat one-" Lupin said, chewing on a seed, "-toss one!" The other found its way back into the earth. They did this for a long while, smiling with every mention of {_'eat one'_} and {_'toss one.'_} 
 
   & Now with food in their bellies, they huddled-in together to stay warm, and to try to get some sleep. Their bodies ached, keeping them all very much awake. Eka looked at the sky and the stars, a finger tracing along the visible constellations and calling them by name.
 
@@ -715,17 +725,17 @@ The sandfin
 
   & Lupin didn’t like this idea at all. In part because somewhere within, lived a fear that the wonder would leave and not return. This Verido had lost too much already, and decided to get up to chase red. It was easy to spot that wild head of hair in the dark. They arrived at the low star, which turned out to be a light affixed to the stern of a vessel. It lay on its side, half-buried in the sand.
 
-  & “It’s a sandfin!” Lupin said circling it, making out the details of it in the dark was difficult. The hull was yellow, and flat-bottomed. Then Eka pointed to one of the portholes, there was the faint glow of a light. Someone was inside.
+  & “It’s a {{sandfin}}!” Lupin said circling it, making out the details of it in the dark was difficult. The hull was yellow, and flat-bottomed. Then Eka pointed to one of the portholes, there was the faint glow of a light. Someone was inside.
 
   & “Who’s in there?” Lupin called out.
 
   & A thin-eyed, short thing, came peering out of one of the portholes. 
 
-  & “I am most fearsome! I'm warning you!" a shrill voice said. "Where are you? Show yourself!" 
+  & “I am most fearsome! I'm warning you!" a shrill voice said. "Where are you? {*Show yourself*}!" 
 
-  & The creature stuck its face in the porthole, it contoured its large head perfectly. It looked like the sandfin had a face growing out of its side. The creature was a {{Finiku}}, large-eared with a wide flat face. The Finiku's hair was light and wild, not a single strand seemed to point in the same direction. Eka giggled, and watched as Lupin approached the porthole so the Finiku could see better. Even when standing close, still, the sandfinner's eyes looked everywhere but in the right place.
+  & The creature stuck its face in the porthole, it contoured its large head perfectly. It looked like the sandfin had a face growing out of its side. The creature was a {{Finiku}}, large-eared with a wide flat face. The Finiku's hair was light and wild, not a single strand seemed to point in the same direction. Eka giggled, and watched as Lupin approached the porthole so the Finiku could see better. Even when standing close, still, the {{sandfinner}}'s eyes looked everywhere but in the right place.
 
-  & "Are you apparitions?! Where are your bodies! Oh no, no, no, no! Did I stumble into the ash plains again? The sights I took this morning were no good! No good at all!"
+  & "Are you apparitions?! Where are your bodies! Oh no, no, no, no! Did I stumble into the {{ash plains}} again? The sights I took this morning were no good! No good at all!"
 
   & “What? No. We're fleshy people. We're right in front of you, can’t you see us?”
 
@@ -775,9 +785,11 @@ The sandfin
 
   & Nono nodded, the shaking of the head had ceased then too. "Of course! Finikus are prepared for anything! We can make another rudder. No problem. No, no, no problem at all! I have all the materials, everything we need!"
 
-  & All 3 got to work. Lupin realized just how terrible Nono's vision was. No one in their right mind would allow someone so blind to captain a ship. Eka gathered materials from inside the cabin, and all 3 began to devise a plan to build Nono’s sandfin a new rudder. They removed bits of the old one and took measurements. The rough shape they drew on the surface of a thick board, which Lupin believed, had once been a dinner table. They found a hacksaw too, stashed under a pile of spare lines. It was a quality tool, made of thin but strong metal. The name 'Ren' was inscribed on the handle. 
+  > <hr/>
 
-  & "Renate steel!" Nono said, "the very best sort!"
+  & All 3 got to work. Lupin realized just how terrible Nono's vision was. No one in their right mind would allow someone so blind to captain a ship. Eka gathered materials from inside the cabin, and all 3 began to devise a plan to build Nono’s sandfin a new rudder. They removed bits of the old one and took measurements. The rough shape they drew on the surface of a thick board, which Lupin believed, had once been a dinner table. They found a hacksaw too, stashed under a pile of spare lines. It was a quality tool, made of thin but strong metal. The name {_'Ren'_} was inscribed on the handle. 
+
+  & "{{Renate}} steel!" Nono said, "the very best sort!"
 
   & By then, each had their own task to perform. Lupin cut the board, Eka was shaving the skin from a banaboo stalk to make the rudder post, and Nono was busy retrieving bolts and nuts that would fit it. Tools and spares took up most of the space in the cabin, Eka wondered where Nono slept. They later learned that the sink was in fact a bed, all the bunks were dangerous due to the presence of lost bits of metal.
 
@@ -795,9 +807,9 @@ The sandfin
 
   & Lupin had heard of this, but did not think it to be true. Nono explained that while the sandfin had no need of fuel there was always a can stored on this vessel. Many towns had need of it, many used it for cooking fuel. And so, carrying some aboard meant that Nono could help out those who had no access to it - which was most people. The company responsible for the supply ships restricted access to it, but sometimes some of it would end up in the hands of people like Nono.
 
-  & "As a Verido, you know, know, know how big Ilk droppings can get! Supply ships follow the Ilk and wait – they process it all aboard afterwards, very profitable business, very profitable! My mapa always hoped I'd work on a supply ship and would always say 'you would make good coin!', on and on and on–" Nono's head shook again, recalling the things parents often said to their sproutlings. "You are so like your grand-mapa Etyl, not a coin in your pocket and always out there sandfinning."
+  & "As a Verido, you know, know, know how big Ilk droppings can get! {{Beobug}} supply ships follow the Ilk and wait – they process it all aboard afterwards, very profitable business, very profitable! My mapa always hoped I'd work on a supply ship and would always say 'you would make good coin!', on and on and on–" Nono's head shook again, recalling the things parents often said to their sproutlings. "You are so like your grand-mapa Etyl, not a coin in your pocket and always out there sandfinning."
 
-  & "Etyl is your grand-mapa?" Eka asked. "That name is known all over! First one to travel the whole of the land by sandfin!"
+  & "{{Etyl}} is your grand-mapa?" Eka asked. "That name is known all over! First one to travel the whole of the land by sandfin!"
 
   & Nono nodded. "Yes, yes! Did it alone too!" 
 
@@ -815,15 +827,15 @@ The sandfin
 
   & Lupin asked about other sandfinners, Nono knew many, but made a point of saying that most were not nearly as qualified. The shock of that reply caused a chunk of looma root (a Volare favorite) to lodge itself in the Verido's throat. A few coughs and gasps and the piece flew across the cabin, and onto the wall. If Nono was the best sandfinner, it was terrifying to imagine what the others were like. Lupin pictured sandfins in piles lining a city, hulls kinked-up and full of holes with Nonos at the wheel. All were sickly-eyed and yelling out orders while pressing a crew - that had long since mutinied - to get under way. The worse of it being that these sure-footed captains, were unaware of the fact that their vessels lay broken and unmoving.
 
-  & Nono had brief moments of clarity, noting changes in the landscape with surprising accuracy. The crew thought it strange, surely there was no such thing as a condition that would better and worsen itself at random like this. Eka did not want to believe that Nono was a bad sandfinner. They spent a lot of time together on the vessel, and after a while they noticed a pattern. Nono's vision was especially bad after drinking from the water stone tank. To extract the water out of the stones, there was a foot pump in the galley. The pump would press the stones down, the water would then be funnelled down a tube and come out of a tap in the sink. Eka and Lupin still used their personal stock of stones for water, and so one morning they opened the tank. It was full of {{mudbears}}, tiny insects that burrow in wet stones, and that ooze a substance that contaminates the water inside. Nono had been drinking bad water this whole time, it was the cause of these recurring bouts of blurry vision and disorientation. Eka offered Nono wet stones from their supply, and after drinking from a good source the symptoms wore off. Nono's eyes no longer had that sick look, a pair of healthy orbs seemed to have changed the rest of the face completely. Eka went ahead and showed the contents of the tank to their skipper.
+  & Nono had brief moments of clarity, noting changes in the landscape with surprising accuracy. The crew thought it strange, surely there was no such thing as a condition that would better and worsen itself at random like this. Eka did not want to believe that Nono was a bad sandfinner. They spent a lot of time together on the vessel, and after a while they noticed a pattern. Nono's vision was especially bad after drinking from the water stone tank. To extract the water out of the stones, there was a foot pump in the galley. The pump would press the stones down, the water would then be funnelled down a tube and come out of a tap in the sink. Eka and Lupin still used their personal stock of stones for water, and so one morning they opened the tank. It was full of {{mudbears}}, tiny insects that burrow in waterstones, and that ooze a substance that contaminates the water inside. Nono had been drinking bad water this whole time, it was the cause of these recurring bouts of blurry vision and disorientation. Eka offered Nono wet stones from their supply, and after drinking from a good source the symptoms wore off. Nono's eyes no longer had that sick look, a pair of healthy orbs seemed to have changed the rest of the face completely. Eka went ahead and showed the contents of the tank to their skipper.
 
   & “Oh, no, no, no! That explains a lot! Usually, my passages are not so so so difficult! I thought this was due to the land of variable sands.” 
 
-  & Nono laughed, realizing how terrible it would have been to not have met them, no doubt that the sandfin would still be rudderless. Lupin was against handing the tiller over at first, but Eka explained that the sickness was to blame and that all Finiku were fantastic sand-finners. This was a fact, everyone knew this, most were born and raised in those vessels. It was in their {{klorea}}.
+  & Nono laughed, realizing how terrible it would have been to not have met them, no doubt that the sandfin would still be rudderless. Lupin was against handing the tiller over at first, but Eka explained that the sickness was to blame and that all Finiku were fantastic sandfinners. This was a fact, everyone knew this, most were born and raised in those vessels. It was in their {{klorea}}.
 
   & They arrived at their destination, within a few days time. Nono thanked them for their help.
 
-  & “Must have caught those mudbears when I filled up at that old waterstone pit in Kippu. The villagers said it was a clean source. It's possible that they too, had these symptoms. I do do remember the Kippuans running into still objects a whole lot.”
+  & “Must have caught those mudbears when I filled up at that old waterstone pit in {{Kippu}}. The villagers said it was a clean source. It's possible that they too, had these symptoms. I do do remember the Kippuans running into still objects a whole lot.”
 
 `).parse();
 

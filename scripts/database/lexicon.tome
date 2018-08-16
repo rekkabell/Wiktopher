@@ -1,5 +1,29 @@
 var LEXICON = new Indental(`
 
+KIPPU
+  & A Finiku road-side town of the {{Soronan desert}}.
+
+SANDFIN
+  & A vessel for desert travel, that uses wind to propel itself forward. The sandfin is a Finiku invention, in fact, in the old times most were nomadic and traveled the desert in this way. The vessel is flat-bottomed, with two fins on either side to prevent it from tipping in big weather. A rudder and tiller is affixed to the stern and aids in steering the vessel, although the main way to steer with a sandfin is by means of trimming the sails, kept up with a tall mast. Sandfinners carry a wide variety of sails, for many sorts of wind. Some sandfins, like the {{Beobug}} supply ships, are much larger and can have two or more masts. These also, use other means of propulsion like gas, which they also process and produce onboard. 
+
+SANDFINNERS
+  & Those who travel the desert by sandfin, a vessel powered by wind.
+
+BEOBUG
+  & A Montore company that owns 5 large sandfins, that follow the Ilk to catch their droppings. They use this, to make into gas. 
+
+GREE
+  & A Finiku, an old acquaintance of {{Nono}}, and captain of Beobug II. 
+
+POMPARU
+  & A creature, feared by all, because of its horrid stink. Pomparu are plump, pale, six-legged creatures, they bear spots over their bodies. They like stinky things, and are drawn to them. 
+
+RENATE
+  & Renate is an old refugee town, many sought shelter there after the Iridi Raids of Bao. A famous steel-master resides there. 
+
+EDONOR
+  & The birthplace of {{Orin}} the tailor, and their grand-mapa {{Nok}}. Edonor is a modern city, a fortress, made this way to keep out the Iridi foot soldiers during the raids. It is now inhabited by a mixture of Finiku, Terins and Aodals. 
+
 LUPIN
   & A {*Verido*}, in the running to become Voice of Volare. Lupin is a curious creature, and a tireless skeptic.
 
@@ -31,7 +55,7 @@ DONMOL
   & The donmol is a traditional Verido plucked instrument, it has 4 double strings, a long neck and a raised fingerboard. It has a flat back, with the soundholes being triangular-shaped.
 
 NONO
-  & A {*Finiku*}, and captain of a sandfin. Grand-sprout of famous sandfinner {*Etyl*}.
+  & A {*Finiku*}, appreciator of Bonan wine, and captain of a {{sandfin}}. Grand-sprout of famous sandfinner {*Etyl*}.
 
 KOUTRA
   & The koutra is a homemade-style plucked instrument, usually made and used by children. It has a small round body, made from the hard outer shell of a looberry plant, and is affixed to the body with braids of isilk. The neck is about a metre long, and pierces the body. There are two tunable isilk strings.
@@ -64,7 +88,7 @@ KIT
   & A {{Hyroo}}, traveling with {{Uno}}. 
 
 ROSMUS
-  & A Verido, and child of Pumra, living in the Ilk city of Volare. Rosmus is being trained as a pattern reader, but cares more for pottery, being known for making near-indestructible pots from caparace shavings. 
+  & A Verido, and sproutling of Pumra, living in the Ilk city of Volare. Rosmus is being trained as a pattern reader, but cares more for pottery nowadays.
 
 TRUMPET FLOWERS
   & A type of flower, bell-shaped, tall and of a bright yellow colour; very popular with the Verido. It is often uprooted, and offered as a gift during green days and other special events. The bottom part, or 'bowl', contains a fluid of the plant's own production, which is syrupy, and that is used to drown its prey. On green days, a strong wine is mixed into the bowl of the plant, and is shared amongsts all who attend the celebrations.
@@ -94,7 +118,7 @@ MUCKWHEAT
   & A plant cultivated for its grain-like seeds. These seeds are rich in complex carbohydrates, and can be ground down into flour. It is popular with the Finiku people, made into bread or cooked into stews.
 
 BONAN WINE
-  & A wine made from the bonan plant, a starchy berry that grows in the central rim.
+  & A strong wine made from the bonan plant, a starchy berry that grows in the central rim.
 
 BONAN
   & A berry, with soft flesh rich in starch covered with a rind, which may be orange or purple when ripe. The seeds are roasted and brewed for tea.
@@ -119,7 +143,7 @@ KIT
   & A hyroo and friend of Uno.
 
 PROTUS
-  & One of the moons circling this planet, commonly referred to as the twins. 
+  & One of the moons circling this planet, commonly referred to as the twins. Also, the name of a famous {{Iridi}}.
 
 ENCELA
   & One of the moons circling this planet, commonly referred to as the twins.
