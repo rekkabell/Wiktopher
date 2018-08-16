@@ -2,45 +2,49 @@ var STORY = new Indental(`
 
 Voice of the ilk
   % content/fauna.ilk.jpg
-  & In a dwelling so small, it's a wonder things could get lost in it at all. A scarf of all things! A piece of fabric of considerable length could not stay hidden, or so {{Lupin}} thought. This young {{Verido}} was getting desperate. The same thing had happened the week before, and the month prior. It excelled at the art of disappearance. Lupin claimed to have nothing to do with it, that the sentient scarf very much enjoyed eluding its master. Putting the blame on inanimate objects, of course, was easier then admitting to one's own failures to keep things in good order. 
+  & In a dwelling so small, it's a wonder things could get lost in it at all. A scarf of all things! A piece of fabric of considerable length could not stay hidden, or so {*{{Lupin}}*} thought. This young {*{{Verido}}*} was getting desperate. The same thing had happened the week before, and the month prior. It excelled at the art of disappearance. Lupin claimed to have nothing to do with it, that the sentient scarf very much enjoyed eluding its master. Putting the blame on inanimate objects, of course, was easier then admitting to one's own failures to keep things in good order. 
 
   & There were other scarves hanging on their hooks, but none were worthy of today. The one Lupin was looking for was blue, made of {{isilk}}, a type of thread unique to this city and sought the world over. 
 
-  & "It comes from the mane of our {{Ilk}}, the one that carries this very house," {{Levi}} had told a young sprouting Lupin once. "The clothes on my back and on that of our neighbours here in {{Volare}}, all, are gifts from Vol." 
+  & "It comes from the mane of our {*{{Ilk}}*}, the one that carries this very house," {*{{Levi}}*} had told a young sprouting Lupin once. "The clothes on my back and on that of our neighbours here in {*{{Volare}}*}, all, are gifts from {*Vol*}." 
 
-  & The young one was too little to understand, in a sprout's mind the world is no bigger than the gap between it and it's {{mapa}}. The idea that their lives depended on a large desert creature did not sink in right away. For most Verido, the world ends with the Ilk, everything outside is decorative, unimportant, serving the same purpose as a painted backdrop in a play. Lupin had sprouted into a young adult now, no baby leaves remained, the only way to know the true age of a Verido was to look at the ears. The ears of young adults had a single twist, full adults had two, and the eldest had multiple, as for sproutlings, they had no twists at all and their ears looked like {{trumpet flowers}}. This Verido, had one twist, although the left ear had not coiled up fully, {{Mago}}, Lupin's best friend, liked to make fun of it. 
+  & The young one was too little to understand, in a sprout's mind the world is no bigger than the gap between it and its {*{{mapa}}*}. The idea that their lives depended on a large desert creature did not sink in right away. For most Verido, the world ends with the Ilk, everything outside is decorative, unimportant, serving the same purpose as a painted backdrop in a play. Lupin had sprouted into a young adult now, no baby leaves remained, the only way to know the true age of a Verido was to look at their ears. 
 
-  & Then, the knitted wizard revealed itself, wedged between Lupin's desk and the wall. All large objects in the room were permanent fixtures, carved out of one solid block. One couldn't push the desk to the wall, not with the legs attached to the ground. Having a house on the back of a moving giant meant you had to take precautions. Most times objects stayed in their place, but there were times when the Ilk did stumble, whether it be because of a patch of soft soil, or a wreck buried in the ground, because they couldn't know or predict accidents, it was better to always be careful. "A stable table will keep you able," was a motto of the city, referring to the many hurt by loose objects.
+  & After some time spent searching, the knitted wizard revealed itself, wedged between Lupin's desk and the wall. All large objects in the room were permanent fixtures, carved out of one solid block - one couldn't push the desk to the wall, not with the legs attached to the ground. Having a house on the back of a moving giant meant you had to take precautions. Most times objects stayed in their place, but there were times when the Ilk did stumble, whether it be because of a patch of soft soil, or a wreck buried in the ground, because they couldn't know or predict accidents, it was better to always be careful. 
+
+  & "A stable table will keep you able," was a motto of the city, referring to the many hurt by loose objects.
 
   & Lupin glanced outside then, the suns were low in the sky, this meant that the ceremony would start soon. The scarf took its place around the Verido's neck. 
 
-  & "Now see, we're late because of you." The scarf did not care to apologize, it lay limp, like a long blue tongue. 
+  & "Now see, we're late because of you." 
 
-  & Today was a big day, the city would choose a new {{Voice}}, the bridge between the Ilk and the people, a role dating back to when the Verido first settled here. The townspeople thought that they'd continue to prosper if they had a descendant of Volare at the ear. Lupin was one of two direct descendants, but this Verido did not expect to earn the title. There were two branches of the Volare bloodline, the other had been granted the role of Voice since all began living on the Ilk, and this wasn't about to change.
+  & The scarf did not care to apologize, it lay limp, like a long blue tongue. 
+
+  & Today was a big day, the city would choose a new {{Voice}}, the bridge between the Ilk and the people, a role dating back to when the Verido first settled here. The townspeople thought that they'd continue to prosper if they had a descendant of Volare at the ear. Lupin was one of two direct descendants, but this Verido did not expect to earn the title. There were two branches of the Volare {{klorealine}}, the other had been granted the role of Voice since all began living on the Ilk, and this wasn't about to change.
 
   & Because of the ceremony, Lupin had to wear appropriate clothing. The traditional ceremonial wear consisted of hair adorned with colourful beads, a necklace of blue thread cascading down from a loop at the neck, a cloth around the waist long enough to cover the knees, as well as a woven mat over the cloth. These garments were topped off with a dark isilk robe. All Verido would be wearing similar outfits, without the robe, which was reserved for the candidates. Lupin's hair was light, like sand, and cut short on the sides, leaving a thick line of hair running along the center of the head. The hair could not be persuaded to lie down neatly. Another important detail, specific to today's events, was that part of the face was painted in blue using the dried and crushed pigments of the fruit of the {{looberry}} plant. Lupin reached into a jar and grabbed a fistful of it, then, mixed it to a bowl with the contents of a freshly-squeezed {{water stone}} and began to apply it. After applying enough, Lupin hurried out the door, but came face to face with {{Rosmus}}, one of the locals.
 
   & "Morning Voice of Volare!" Rosmus said, dressed in plain clothes, as if unaware of today's events. The visitor held a basket of yellow trumpet flowers, the stems kept fresh by a layer of earth. No Verido uprooted flowers without the intention of replanting, or consuming them afterwards. "These are for you Voice!"
 
-  & "I'm not Voice, not yet," Lupin said, trying to inch forward - no simple task. "Aren't you, um, going to the celebrations today?"
+  & "I'm not Voice, not yet," Lupin said, trying to inch forward - no simple task. "Aren't you, um, going to do readings at the celebrations today?"
 
-  & "Yes of course! Everyone will be there! But contrary to popular opinion, I think you'll be Voice, not Mago."
+  & "No I am not! All that doesn't matter, I already know the outcome. You'll be Voice, not Mago."
 
   & "It's just like you to think the opposite of everyone." Lupin said, amused. 
 
-  & "I sense a change in the world, and so I too must adapt! I follow the inner beatings of mine own heart, always have."
+  & "I follow the inner beatings of mine own heart, always have."
 
   & "And what if your inner beatings are wrong?"
 
-  & "Impossible. If anything it means I'm at fault, that I haven't been listening enough. I'm still learning and may have misinterpreted my heart's message." Saying this, Rosmus put an open hand on Lupin's chest and gave it a series of light taps, "tu-tump, tu-tump, tu-tump. It's the primordial tongue. A more practiced ear would be able to tell you the exact meanings of it, though there is no such person yet, but I'm working on changing that as you can see! It offers the truest of truths! Skin reading is a thing of the past, an old tradition that we need to do away with!"
+  & "Impossible. There are too many signs. The eyes and ears communicate it to the flesh and the rest." Rosmus put an open hand on Lupin's chest and gave it a series of light taps, "tu-tump, tu-tump, tu-tump. Listen well. It speaks and offers the truest of truths, if only you'd lend it an ear."
 
-  & Lupin smirked at this. "So i take it you won't be doing any readings today."
+  & Lupin smirked at this, "So you're saying my body knows it's going to be Voice, but somehow I don't believe it?"
 
-  & "I have, and I've already told you everything."
+  & "Tu-tump tu-tump Lupin! Your flesh is shouting it to you, and has been for some time! It's curious that you can't hear it, very curious indeed - but then again... you are young. You did shed your last leaf recently."
 
-  & "I have to get going, Mago's waiting."
+  & "Recently? I shed it 4 years ago!" Lupin said, outraged, hands passing over to where the stem of the leaf had been, as if to make sure it wasn't really there still. "I have to get going, Mago's waiting." Although in truth, Lupin had enough of this nonsense. Both Verido were close, but Rosmus was great in small doses.
 
-  & "Yes! Yes of course! I'll plant these for you Voice!" Rosmus said, waving a single trumpet flower as the space began to grow between them.
+  & "Yes! Yes of course! I'll plant these for you Voice!" Rosmus said, waving a single trumpet flower as the space began to grow between them. 
 
   > <hr/>
 
@@ -106,7 +110,7 @@ Voice of the ilk
 
   & Mago laughed, relaxing for the first time in a week. They had been close since they were little, and always knew how to make each other laugh.
 
-  & "Rosmus isn't coming today. Wasn't even wearing the proper clothes or anything."
+  & "Rosmus isn't going to do the reading today, said it didn't matter. Wasn't even wearing the proper clothes or anything."
 
   & "Uh, oh. Pumra's going to be angry." Mago said, "so much for tradition."
 
@@ -142,11 +146,15 @@ Voice of the ilk
 
   & The singing came to a full stop, all in the room quieted, the councillor motioned for Lupin to continue the song in {{ilken}}. The candidates always performed the last chorus alone, as proof of their mastery of the language. Lupin did well enough, despite missing a few notes, while Mago's performance was pitch perfect. There were other tests, which included recitations and improvised verses, again, Mago triumphed. Lupin's improvisations were noteworthy too, no one else could perform a verse as informative as the nutritional value of a looma root. Then, came the last trial, a reading of their family history. Every Verido's skin bore patterns, a series of lines and dots, etched in deep, like veins on a leaf. Few could read them, here in Volare there was {{Pumra}}, a Verido of 233 years. 
 
-  & "Disrobe please," Pumra said, standing up and approaching Lupin first. The counsellor was short, and had long wispy brows, it was hard to resist reaching forward to tie them up together in a bow, it was likely that Mago had that same thought, a smile danced on both of their mouths. Pumra's finger traced along Lupin’s body, following the blue lines, "my mind has lost none of its precision, but these hands do tremble a great deal more than I'd like" the elder said in a whisper, looking more sad than angry, no doubt that Pumra feared that this was the end of the practice of skin reading.
+  & "Disrobe please," Pumra said, standing up and approaching Lupin first. The counsellor was short, and had long wispy brows, it was hard to resist reaching forward to tie them up together in a bow, it was likely that Mago had that same thought, a smile danced on both of their mouths. Pumra's finger traced along Lupin’s body, following the blue lines, "my mind has lost none of its precision, but these hands do tremble a great deal more than I'd like" the elder said in a whisper, looking more sad than angry, "Rosmus came to you?"
 
-  & "Maybe you can train another?" Lupin said.
+  & "Yes, but showed little interest in today's events, I'm sorry to say. Maybe you can train another?" Lupin said.
 
-  & "There is no time," Pumra let out a deep sigh, "I am... proud. Susceptible to overestimating the health of my mind." The counsellor returned to reading, muttering names and words in a hushed voice for some time, and then the reading ended. “Very good." 
+  & "There is no time," Pumra let out a deep sigh, "I can't bear the thought of this skill being lost to the world... how else will we know to read the names of those who haven't sprouted yet?"
+
+  & Lupin had no words, "I'll speak to Rosmus."
+
+  & Pumra was relieved to hear this, and gave a light nod to show thanks. The counsellor returned to reading, muttering names and words in a hushed voice for some time, and then the reading ended. “Lupin, Levi, Laggra & Lunav. Sproutlings of Volare, same {{klorea}} coursing through your veins. Very good." 
 
   & Then came Mago's turn, Pumra followed the patterns, mumbling. The set of wrinkled hands then touched a patch of rough skin, a burn, the counsellor looked dismayed. “I cannot read you.” The finger lay on an old wound, carved there, on Mago's backside. Armyn was distraught, recalling the event that caused it. Years ago, the Ilk stepped into a deep crevice - a rare occurrence. The violence of the motion made the city tremble. Armyn, a hot kettle in hand, lost control and the scalding liquid left a lasting mark on Mago. Mago knew what this meant, and began to sweat.
 
@@ -192,25 +200,29 @@ Voice of the ilk
 
   & Rosmus was busy putting another pot together, grinding carapace shavings into a fine powder with a mortar and pestle, "Vol is well?"
 
-  & Lupin nodded, "I'm not though. What did you mean when you said times are changing?"
+  & Lupin nodded, "Yea. I'm not though. Mago has been avoiding me."
 
-  & "Can't you feel it? I do, in my head and in my gut."
+  & "Mago needs time, that is all."
 
-  & "Are you sure it's not sickness? Or indigestion?"
+  & "Pumra did the reading in your stead, I know you weren't going to do it but you should have been there."
 
-  & Rosmus mixed a handful of powder with a crushed water stone, and began to massage it into shape, gradually adding more water or more powder as needed. "We are not bound by anything, we never were. Others create rules and traditions to keep us contained and content, I am not content, I decided I did not want this, I have too much ambition for that, and so do you!"
+  & "Should? No. I chose another path, that's all." Rosmus mixed a handful of powder with a crushed water stone, and began to massage it into shape, gradually adding more water or more powder as needed. "Others create rules and traditions to keep us contained and content. I am not content. I decided I did not want this, I have too much ambition for that, and so do you!"
 
   & "Are you leaving the Ilk? It sounds like you are."
 
-  & "I follow my heart."
+  & "I follow my tu-tumping heart."
 
-  & Lupin was upset, "does Pumra know? Pattern reading is a dying art, and it will die with you if you leave."
+  & Lupin was upset. "Does Pumra know? Pattern reading is a dying art, and it will die with you if you leave."
 
-  & "And what of it? Our history now sits in books, our letterer makes sure of it. Vol doesn't care about patterns or bloodlines, we do, we rely on surpersition and half-baked rituals because we are afraid."
+  & "It's an art yes, well, it used to be. Name interpretation, um, I like that part of it still. We don't need this though. land-dwellers name themselves, did you know this?" Rosmus smiled, saying this. "Pattern reading, as it is now, has become a matter of supersition. Vol doesn't care about patterns or klorealines, we do. We rely on half-baked rituals because we are afraid."
 
-  & "Afraid of what?" Lupin asked, but in truth, did not want to know the answer.
+  & "Afraid of what? What do you know?" Lupin asked, but in truth, did not want to know the answer.
 
-  & "Hm, maybe you need more years on you, we'll talk again when your left ear gets its twist." While talking, Rosmus had already shaped the ball into a recipient, which was then placed onto Lupin's lap, "what I can tell you, is that we shape our own lives Lupin."
+  & "That our future is not certain, and that your presence at the ear doesn't guarantee a thing," while talking, Rosmus had already shaped the ball into a recipient, which was then placed onto Lupin's lap. "Here, I made you tea cup." A braid of isilk was coiled around its handle, "You can tie it to your belt with it, carry it around, maybe have a cup at the ear. Tea is good for thinking."
+
+  & "I already have a tea cup."
+
+  & "Yea, I've seen it, this one is better. The vessel is just as important as its contents, remember that."
 
   > <hr/>
 
@@ -791,7 +803,7 @@ The sandfin
 
   & “Oh, no, no, no! That explains a lot! Usually, my passages are not so so so difficult! I thought this was due to the land of variable sands.” 
 
-  & Nono laughed, realizing how terrible it would have been to not have met them, no doubt that the sandfin would still be rudderless. Lupin was against handing the tiller over at first, but Eka explained that the sickness was to blame and that all Finiku were fantastic sand-finners. This was a fact, everyone knew this, most were born and raised in those vessels. It was in their blood.
+  & Nono laughed, realizing how terrible it would have been to not have met them, no doubt that the sandfin would still be rudderless. Lupin was against handing the tiller over at first, but Eka explained that the sickness was to blame and that all Finiku were fantastic sand-finners. This was a fact, everyone knew this, most were born and raised in those vessels. It was in their {{klorea}}.
 
   & They arrived at their destination, within a few days time. Nono thanked them for their help.
 
