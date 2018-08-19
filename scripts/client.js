@@ -18,7 +18,13 @@ function Client(story,lexicon)
 
   this.load = function(target = Object.keys(this.story)[0])
   {
-    if(target == "lexicon"){ this.show_lexicon(); return; }
+    if(target.trim().toLowerCase() == "lexicon"){ 
+      this.show_lexicon(); 
+      window.location.hash = target.to_url(); 
+      this.navi.update(); 
+      return; 
+    }
+
     if(target == "HOME" || target == ""){ target = Object.keys(this.story)[0] }
     if(!this.story[target]){ console.warn("Error",target); return; }
 
@@ -41,11 +47,24 @@ function Client(story,lexicon)
   this.show_lexicon = function()
   {
     var html = ""
+    // Navi
+    var cats = {}
     for(id in this.lexicon){
       var segment = this.lexicon[id];
-      html += `<h2>${id.capitalize()}</h2>`
-      html += new Runic(segment).toString();
+      if(!cats[segment.TYPE]){ cats[segment.TYPE] = {}; }
+      cats[segment.TYPE][id] = segment;
     }
+
+    html += "<list>"
+    for(id in cats){
+      var cat = cats[id];
+      html += `<h2>${id}</h2>`
+      for(i in cat){
+        var segment = cat[i]
+        html += `<h3>${i.capitalize()}</h3>${new Runic(segment.TEXT)}`;
+      }
+    }
+    html += "</list>"
 
     this.text_el.innerHTML = html;
   }

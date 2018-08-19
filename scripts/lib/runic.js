@@ -149,7 +149,17 @@ String.prototype.to_markup = function()
     var target = content.indexOf("|") > -1 ? content.split("|")[1] : content;
     var name = content.indexOf("|") > -1 ? content.split("|")[0] : content;
     var external = (target.indexOf("https:") > -1 || target.indexOf("http:") > -1 || target.indexOf("dat:") > -1);
-    html = html.replace(`{{${content}}}`,external ? `<a href='${target}' class='external' target='_blank'>${name}</a>` : `<word data='${target}'>${name}</word>`)
+
+    var exists = client.note.find(content);
+
+    if(external){
+      html = html.replace(`{{${content}}}`,`<a href='${target}' class='external' target='_blank'>${name}</a>`)  
+    }
+    else{
+      if(!exists){ console.warn("Missing item to lexicon:",content); }
+      html = html.replace(`{{${content}}}`,`<word data='${target}' class='${!exists ? 'redlink' : ''}'>${name}</word>`)  
+    }
+    
   }
   return html;
 }

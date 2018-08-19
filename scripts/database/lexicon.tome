@@ -1,186 +1,305 @@
 var LEXICON = new Indental(`
 
+~ Locations
+
 KIPPU
-  & A Finiku road-side town of the {{Soronan desert}}.
-
-SANDFIN
-  & A vessel for desert travel, that uses wind to propel itself forward. The sandfin is a Finiku invention, in fact, in the old times most were nomadic and traveled the desert in this way. The vessel is flat-bottomed, with two fins on either side to prevent it from tipping in big weather. A rudder and tiller is affixed to the stern and aids in steering the vessel, although the main way to steer with a sandfin is by means of trimming the sails, kept up with a tall mast. Sandfinners carry a wide variety of sails, for many sorts of wind. Some sandfins, like the {{Beobug}} supply ships, are much larger and can have two or more masts. These also, use other means of propulsion like gas, which they also process and produce onboard. 
-
-SANDFINNERS
-  & Those who travel the desert by sandfin, a vessel powered by wind.
-
-BEOBUG
-  & A Montore company that owns 5 large sandfins, that follow the Ilk to catch their droppings. They use this, to make into gas. 
-
-GREE
-  & A Finiku, an old acquaintance of {{Nono}}, and captain of Beobug II. 
-
-POMPARU
-  & A creature, feared by all, because of its horrid stink. Pomparu are plump, pale, six-legged creatures, they bear spots over their bodies. They like stinky things, and are drawn to them. 
-
-RENATE
-  & Renate is an old refugee town, many sought shelter there after the Iridi Raids of Bao. A famous steel-master resides there. 
-
-EDONOR
-  & The birthplace of {{Orin}} the tailor, and their grand-mapa {{Nok}}. Edonor is a modern city, a fortress, made this way to keep out the Iridi foot soldiers during the raids. It is now inhabited by a mixture of Finiku, Terins and Aodals. 
-
-LUPIN
-  & A {*Verido*}, in the running to become Voice of Volare. Lupin is a curious creature, and a tireless skeptic.
-
-LEVI
-  & Lupin's parent, now deceased, was stricken with an impairment that involves a progressive loss of language, behavior and executive functions in the end. Levi's work as Hand of the Ilk, saved Vol from a major parasitical infection many years ago, one that threatened the creature's digestive system.
-
-ILK
-
-  & The {*Ilks*} or {*The giant walkers*} of the Soronan desert. These creatures are old, and walk around the planet all year long. The species' distinctive features include its long neck, narrow chest, a heavy pointed tail, a 'carapace', and collection of hairs on the throat and shoulders. The coat is generally a shade of dark blue, red and green. There are 3 Ilk in existence: Otora, Balandri and Volare (thusly named after the 3 Verido founders). Each Ilk bears a city on its back, its inhabitants are completely self-sufficient, but do rely on outside help to feed the Ilk.
-  % content/fauna.ilk.jpg
-
-WOTH
-  & Messenger woths are sturdy creatures, they fit in the palm of your hand. They have excellent memories, and can travel long distances. Many use them as a means of sending messages to other cities.
-  % content/fauna.woth.jpg
+  TYPE : Locations
+  TEXT
+    & A Finiku road-side town of the {{Soronan desert}}.
 
 VOLARE
-  & One of three cities, built on the back of the Ilk Vol. Volare is also the name of one of the founders of the 3 cities, the ones who befriended the desert walkers, and that first settled on the Ilk. Lupin and Mago are direct descendants of Volare, which earns them the right to be the Voice of Volare.
-
-VOICE
-  & A Voice, is a direct descendant of one of the 3 founders of the ilk cities, tasked with speaking with the ilk. It is a tradition role, instated to make sure that the desert giants are content and healthy. Only the Voice can converse with the Ilk, whatever is said is then communicated to the rest of the people.
-
-HAND
-  & The {*Hands of the ilk*}, are responsible for directly caring for the Ilk. They physically inspect the creature's body thoroughly, for signs of disease or wounds. It is dangerous work, many have fallen while on the job.
-
-LOOBERRY
-  & Looberry is a fruit with a hard outer shell, once cut open, the sweet fruit inside can be harvested and eaten. It can be grown on the Ilk, and feeds off of the fungi living in the numerous creases of its carapace. The looberries are dried and ground into powder, and used to paint the face during special events and celebrations. The looberry plant is represented on the insignia of the city of Volare, and is widely used as a dye for clothing.
-
-DONMOL
-  & The donmol is a traditional Verido plucked instrument, it has 4 double strings, a long neck and a raised fingerboard. It has a flat back, with the soundholes being triangular-shaped.
-
-NONO
-  & A {*Finiku*}, appreciator of Bonan wine, and captain of a {{sandfin}}. Grand-sprout of famous sandfinner {*Etyl*}.
-
-KOUTRA
-  & The koutra is a homemade-style plucked instrument, usually made and used by children. It has a small round body, made from the hard outer shell of a looberry plant, and is affixed to the body with braids of isilk. The neck is about a metre long, and pierces the body. There are two tunable isilk strings.
-
-LAGGRA
-  & {*Levi*}'s parent, the one who built their family home and that helped to create the security system to the Ilk's head, following the death of a Voice who fell after the Ilk stumbled.
-
-VERIDO
-  & A race of traveling merchants, that reside on the backs of the giant desert walkers. They are divided onto 3 ilks, and the coloured patterns on their bodies reflect this. Verido have sand-colored hair, trumpet-like ears that stick out horizontally, they are not short, nor tall, and they enjoy adorning their hair in bodies with colorful trinkets.
-
-ARMYN
-  & Parent of Mago, and now retired Voice of Volare.
-
-ADEL
-  & Armyn's mapa, and Mago's grandmapa. Adel fell from the Ilk's head early as Voice, this loss motivated Laggra, Adel's cousin, to add security lines leading to the head. 
-
-MAGO 
-  & Child of Armyn, and in the running to become Voice of Volare, and also best friend to Lupin. 
-
-ISILK
-  & A fabric made from Ilk hair, very rare, and very sought after. It was popular during the Bao era, but the Verido stopped trading it out in fear that others would seek to harm the Ilk for it. Isilk is used by the Verido for clothing, and is braided into ropes. The hairs are dark, but under the sun comes a hue of red, blue or green.
-
-MAPA
-  & A term of endearment, used by the sproutling of the bearing parent.
-
-UNO
-  & A giant, often seen atop a Hyroo named Kit. Not much is known of this being, but is thought that Uno is very, very ancient.
-
-KIT
-  & A {{Hyroo}}, traveling with {{Uno}}. 
-
-ROSMUS
-  & A Verido, and sproutling of Pumra, living in the Ilk city of Volare. Rosmus is being trained as a pattern reader, but cares more for pottery nowadays.
-
-TRUMPET FLOWERS
-  & A type of flower, bell-shaped, tall and of a bright yellow colour; very popular with the Verido. It is often uprooted, and offered as a gift during green days and other special events. The bottom part, or 'bowl', contains a fluid of the plant's own production, which is syrupy, and that is used to drown its prey. On green days, a strong wine is mixed into the bowl of the plant, and is shared amongsts all who attend the celebrations.
-
-KLOREA
-  & {*Klorea*} is any of several related green pigments found in the cells of beings of the Soronan desert. It allows them to absorb energy from light.
-
-VOL
-  & {*Vol*} is the short name of the Ilk of Volare.
+  TYPE : Locations
+  TEXT
+    & One of three cities, built on the back of the Ilk Vol. Volare is also the name of one of the founders of the 3 cities, the ones who befriended the desert walkers, and that first settled on the Ilk. Lupin and Mago are direct descendants of Volare, which earns them the right to be the Voice of Volare.
 
 SORONAN DESERT
-  & {*The Soronan Desert*} is a vast desert wildnerness stretching over the Central Rim and the Northern and Southern Plains. It is a continous body of sand which occupies most of the planet.
+  TYPE : Locations
+  TEXT
+    & {*The Soronan Desert*} is a vast desert wildnerness stretching over the Central Rim and the Northern and Southern Plains. It is a continous body of sand which occupies most of the planet.
 
 THE CENTRAL RIM
-  & A belt of semi-arable land that circles the planet. Most of the water stone wells are situated in this area, others can found elsewhere but may be further apart and more difficult to locate.
-
-WATERSTONE
-  & {*Waterstones*} are a liquid essential to life, that is preserved in a hard membrane. The water can be extracted, usually with a water stone press, or a heavy tool. There is also the possibility of putting the stone in the mouth; overtime, liquid will seep from a collection of pores on the water stone's surface. Using this technique can aid to prevent dehydration, especially when traveling long distances in the desert.
-  & The water stones are found in pockets of air underground, some wells may carry as much as thousand stones or as little as a hundred. Waterlillies are used to locate the wells, they typically grow overtop of such sites in great numbers.
-  & Is it thought that the planet originally had no water, and that it came via asteroids. There are 4 craters: the Loran crater, the Tyko crater, the Nordlok crater and the Reita crater. All of these were once basins full of water. Overtime, the water receded into the soil and began to pearl; a result of the composition of the sand on the planet, which helped to form a hard membrane. Because the planet is mostly sand dunes, some of the craters were partially filled.
-
-CACTUB
-  & A Cactub is a nutritious, bulbous root vegetable primarily found in the Northern Plains, where water stones are scarce. Their outer core is hard, and covered in tiny protrusions called 'nubs'. These nubs helps the cactub move in and out of the ground. The flesh is a white colour, and has a markedly higher fat content than other vegetables. It can be made into cactub oil, it has a high smoke point, making it the ideal cooking oil. Cactubs are a Finiku favourite, served sliced on muckwheat bread. They spend most of their time underground, and only emerge at night to gather moisture from the surrounding air. Cactubs are sensititive to loud noises and movements, and they temporarily seize when panicked.
-  % content/flora.cactub.jpg
-
-MUCKWHEAT
-  & A plant cultivated for its grain-like seeds. These seeds are rich in complex carbohydrates, and can be ground down into flour. It is popular with the Finiku people, made into bread or cooked into stews.
-
-BONAN WINE
-  & A strong wine made from the bonan plant, a starchy berry that grows in the central rim.
-
-BONAN
-  & A berry, with soft flesh rich in starch covered with a rind, which may be orange or purple when ripe. The seeds are roasted and brewed for tea.
+  TYPE : Locations
+  TEXT
+    & A belt of semi-arable land that circles the planet. Most of the water stone wells are situated in this area, others can found elsewhere but may be further apart and more difficult to locate.
 
 TIPUTA VILLAGE
-  & A road-side down in the Soronan desert, inhabited by a handful of Finiku.
+  TYPE : Locations
+  TEXT
+    & A road-side down in the Soronan desert, inhabited by a handful of Finiku.
+  
+RENATE
+  TYPE : Locations
+  TEXT
+    & Renate is an old refugee town, many sought shelter there after the Iridi Raids of Bao. A famous steel-master resides there. 
 
-PUMRA
-  & The eldest in the village, at 233 years old, Pumra is the only one who can interpret Verido markings and assign a new Voice. 
+EDONOR
+  TYPE : Locations
+  TEXT
+    & The birthplace of {{Orin}} the tailor, and their grand-mapa {{Nok}}. Edonor is a modern city, a fortress, made this way to keep out the Iridi foot soldiers during the raids. It is now inhabited by a mixture of Finiku, Terins and Aodals. 
 
-EKA
-  & A red haired wonder, that Lupin awoke atop the mountain with no name. They now travel together, although there is a lot of mystery around this Eka.
+~ Characters
 
-HYROO
-  & Hyroos are large creatures with big rounded ears and strong hind legs, they have sand-colored fur, with darker spots on their bodies. Their snouts are large, they can smell and hear things from far away. These beasts are known for being able to run and jump long distances with little effort, they grow in moist environments, although they are thought to be extinct.
-  % content/fauna.hyroo.jpg
+UNO
+  TYPE : Characters
+  TEXT
+    & A giant, often seen atop a Hyroo named Kit. Not much is known of this being, but is thought that Uno is very, very ancient.
 
-HUSH
-  & A hyroo and friend of Eka, and the one that carries the two travelers across the desert plains. 
+SANDFINNERS
+  TYPE : Characters
+  TEXT
+    & Those who travel the desert by sandfin, a vessel powered by wind.
+
+GREE
+  TYPE : Characters
+  TEXT
+    & A Finiku, an old acquaintance of {{Nono}}, and captain of Beobug II. 
+
+LUPIN
+  TYPE : Characters
+  TEXT
+    & A {*Verido*}, in the running to become Voice of Volare. Lupin is a curious creature, and a tireless skeptic.
+
+LEVI
+  TYPE : Characters
+  TEXT
+    & Lupin's parent, now deceased, was stricken with an impairment that involves a progressive loss of language, behavior and executive functions in the end. Levi's work as Hand of the Ilk, saved Vol from a major parasitical infection many years ago, one that threatened the creature's digestive system.
+
+NONO
+  TYPE : Characters
+  TEXT
+    & A {*Finiku*}, appreciator of Bonan wine, and captain of a {{sandfin}}. Grand-sprout of famous sandfinner {*Etyl*}.
+
+LAGGRA
+  TYPE : Characters
+  TEXT
+    & {*Levi*}'s parent, the one who built their family home and that helped to create the security system to the Ilk's head, following the death of a Voice who fell after the Ilk stumbled.
 
 KIT
-  & A hyroo and friend of Uno.
+  TYPE : Characters
+  TEXT
+    & A {{Hyroo}}, traveling with {{Uno}}. 
 
-PROTUS
-  & One of the moons circling this planet, commonly referred to as the twins. Also, the name of a famous {{Iridi}}.
+ROSMUS
+  TYPE : Characters
+  TEXT
+    & A Verido, and sproutling of Pumra, living in the Ilk city of Volare. Rosmus is being trained as a pattern reader, but cares more for pottery nowadays.
 
-ENCELA
-  & One of the moons circling this planet, commonly referred to as the twins.
+HUSH
+  TYPE : Characters
+  TEXT
+    & A hyroo and friend of Eka, and the one that carries the two travelers across the desert plains. 
 
-SKY ROCK
-  & Sky rocks is what the world's habitants call the celestial bodies in the sky. 
+KIT
+  TYPE : Characters
+  TEXT
+    & A hyroo and friend of Uno.
 
-TEAWEET
-  & One of most common grains in the {*Soronan desert*}, the cheapest too. It is easy to grow, and requires little attention or water. It is a staple for many of the worlds habitants, and the main food source of the Ilks.
+ARMYN
+  TYPE : Characters
+  TEXT
+    & Parent of Mago, and now retired Voice of Volare.
 
-MEPPERPINT
-  & A green plant with a thick stem, and tiny rounded bulbs hanging from the central stem. It is a Finiku favourite, they brew tea with the dried and crushed leaves. It is often consumed with {{bam}} cakes, and consuming too much of it is said to make your ears sprout.
+ADEL
+  TYPE : Characters
+  TEXT
+    & Armyn's mapa, and Mago's grandmapa. Adel fell from the Ilk's head early as Voice, this loss motivated Laggra, Adel's cousin, to add security lines leading to the head. 
+
+MAGO 
+  TYPE : Characters
+  TEXT
+    & Child of Armyn, and in the running to become Voice of Volare, and also best friend to Lupin. 
+
+VOL
+  TYPE : Characters
+  TEXT
+    & {*Vol*} is the short name of the Ilk of Volare.
+
+PUMRA
+  TYPE : Characters
+  TEXT
+    & The eldest in the village, at 233 years old, Pumra is the only one who can interpret Verido markings and assign a new Voice. 
+
+EKA
+  TYPE : Characters
+  TEXT
+    & A red haired wonder, that Lupin awoke atop the mountain with no name. They now travel together, although there is a lot of mystery around this Eka.
+
+~ Fauna
+
+POMPARU
+  TYPE : Fauna
+  TEXT
+    & A creature, feared by all, because of its horrid stink. Pomparu are plump, pale, six-legged creatures, they bear spots over their bodies. They like stinky things, and are drawn to them. 
+
+ILK
+  TYPE : Fauna
+  TEXT
+    & The {*Ilks*} or {*The giant walkers*} of the Soronan desert. These creatures are old, and walk around the planet all year long. The species' distinctive features include its long neck, narrow chest, a heavy pointed tail, a 'carapace', and collection of hairs on the throat and shoulders. The coat is generally a shade of dark blue, red and green. There are 3 Ilk in existence: Otora, Balandri and Volare (thusly named after the 3 Verido founders). Each Ilk bears a city on its back, its inhabitants are completely self-sufficient, but do rely on outside help to feed the Ilk.
+    % content/fauna.ilk.jpg
+
+WOTH
+  TYPE : Fauna
+  TEXT
+    & Messenger woths are sturdy creatures, they fit in the palm of your hand. They have excellent memories, and can travel long distances. Many use them as a means of sending messages to other cities.
+    % content/fauna.woth.jpg
+
+HYROO
+  TYPE : Fauna
+  TEXT
+    & Hyroos are large creatures with big rounded ears and strong hind legs, they have sand-colored fur, with darker spots on their bodies. Their snouts are large, they can smell and hear things from far away. These beasts are known for being able to run and jump long distances with little effort, they grow in moist environments, although they are thought to be extinct.
+    % content/fauna.hyroo.jpg
 
 SHESHELL CRABS
-  & Sheshell crabs are pearly white creatures that bear a shell with a face. It is thought that if you do them harm, they will remember your face and chase you to the ends of the deserts. They have a near indestructible shell, it is used to make pottery and other hard materials. The world used to be populated by many of these creatures, changes in weather have caused many to die, but the disintegrated shells have contributed to much goods in the land. The sheshell crab dust helped form a hard membrane around the pearled-up water, thusly preserving the water of the planet near the surface.
+  TYPE : Fauna
+  TEXT
+    & Sheshell crabs are pearly white creatures that bear a shell with a face. It is thought that if you do them harm, they will remember your face and chase you to the ends of the deserts. They have a near indestructible shell, it is used to make pottery and other hard materials. The world used to be populated by many of these creatures, changes in weather have caused many to die, but the disintegrated shells have contributed to much goods in the land. The sheshell crab dust helped form a hard membrane around the pearled-up water, thusly preserving the water of the planet near the surface.
+
+~ Flora
+
+LOOBERRY
+  TYPE : Flora
+  TEXT
+    & Looberry is a fruit with a hard outer shell, once cut open, the sweet fruit inside can be harvested and eaten. It can be grown on the Ilk, and feeds off of the fungi living in the numerous creases of its carapace. The looberries are dried and ground into powder, and used to paint the face during special events and celebrations. The looberry plant is represented on the insignia of the city of Volare, and is widely used as a dye for clothing.
+
+CACTUB
+  TYPE : Flora
+  TEXT
+    & A Cactub is a nutritious, bulbous root vegetable primarily found in the Northern Plains, where water stones are scarce. Their outer core is hard, and covered in tiny protrusions called 'nubs'. These nubs helps the cactub move in and out of the ground. The flesh is a white colour, and has a markedly higher fat content than other vegetables. It can be made into cactub oil, it has a high smoke point, making it the ideal cooking oil. Cactubs are a Finiku favourite, served sliced on muckwheat bread. They spend most of their time underground, and only emerge at night to gather moisture from the surrounding air. Cactubs are sensititive to loud noises and movements, and they temporarily seize when panicked.
+    % content/flora.cactub.jpg
+
+MUCKWHEAT
+  TYPE : Flora
+  TEXT
+    & A plant cultivated for its grain-like seeds. These seeds are rich in complex carbohydrates, and can be ground down into flour. It is popular with the Finiku people, made into bread or cooked into stews.
+
+TRUMPET FLOWERS
+  TYPE : Flora
+  TEXT
+    & A type of flower, bell-shaped, tall and of a bright yellow colour; very popular with the Verido. It is often uprooted, and offered as a gift during green days and other special events. The bottom part, or 'bowl', contains a fluid of the plant's own production, which is syrupy, and that is used to drown its prey. On green days, a strong wine is mixed into the bowl of the plant, and is shared amongsts all who attend the celebrations.
+
+TEAWEET
+  TYPE : Flora
+  TEXT
+    & One of most common grains in the {*Soronan desert*}, the cheapest too. It is easy to grow, and requires little attention or water. It is a staple for many of the worlds habitants, and the main food source of the Ilks.
+
+MEPPERPINT
+  TYPE : Flora
+  TEXT
+    & A green plant with a thick stem, and tiny rounded bulbs hanging from the central stem. It is a Finiku favourite, they brew tea with the dried and crushed leaves. It is often consumed with {{bam}} cakes, and consuming too much of it is said to make your ears sprout.
+
+BONAN
+  TYPE : Flora
+  TEXT
+    & A berry, with soft flesh rich in starch covered with a rind, which may be orange or purple when ripe. The seeds are roasted and brewed for tea.
+
+WATERSTONE
+  TYPE : Flora
+  TEXT
+    & {*Waterstones*} are a liquid essential to life, that is preserved in a hard membrane. The water can be extracted, usually with a water stone press, or a heavy tool. There is also the possibility of putting the stone in the mouth; overtime, liquid will seep from a collection of pores on the water stone's surface. Using this technique can aid to prevent dehydration, especially when traveling long distances in the desert.
+    & The water stones are found in pockets of air underground, some wells may carry as much as thousand stones or as little as a hundred. Waterlillies are used to locate the wells, they typically grow overtop of such sites in great numbers.
+    & Is it thought that the planet originally had no water, and that it came via asteroids. There are 4 craters: the Loran crater, the Tyko crater, the Nordlok crater and the Reita crater. All of these were once basins full of water. Overtime, the water receded into the soil and began to pearl; a result of the composition of the sand on the planet, which helped to form a hard membrane. Because the planet is mostly sand dunes, some of the craters were partially filled.
+
+~ Constellations
+
+PROTUS
+  TYPE : Constellations
+  TEXT
+    & One of the moons circling this planet, commonly referred to as the twins. Also, the name of a famous {{Iridi}}.
+
+ENCELA
+  TYPE : Constellations
+  TEXT
+    & One of the moons circling this planet, commonly referred to as the twins.
+
+SKY ROCK
+  TYPE : Constellations
+  TEXT
+    & Sky rocks is what the world's habitants call the celestial bodies in the sky. 
+
+~ Others
+
+SANDFIN
+  TYPE : Misc
+  TEXT
+    & A vessel for desert travel, that uses wind to propel itself forward. The sandfin is a Finiku invention, in fact, in the old times most were nomadic and traveled the desert in this way. The vessel is flat-bottomed, with two fins on either side to prevent it from tipping in big weather. A rudder and tiller is affixed to the stern and aids in steering the vessel, although the main way to steer with a sandfin is by means of trimming the sails, kept up with a tall mast. Sandfinners carry a wide variety of sails, for many sorts of wind. Some sandfins, like the {{Beobug}} supply ships, are much larger and can have two or more masts. These also, use other means of propulsion like gas, which they also process and produce onboard. 
+
+BEOBUG
+  TYPE : Misc
+  TEXT
+    & A Montore company that owns 5 large sandfins, that follow the Ilk to catch their droppings. They use this, to make into gas. 
+
+VOICE
+  TYPE : Misc
+  TEXT
+    & A Voice, is a direct descendant of one of the 3 founders of the ilk cities, tasked with speaking with the ilk. It is a tradition role, instated to make sure that the desert giants are content and healthy. Only the Voice can converse with the Ilk, whatever is said is then communicated to the rest of the people.
+
+HAND
+  TYPE : Misc
+  TEXT
+    & The {*Hands of the ilk*}, are responsible for directly caring for the Ilk. They physically inspect the creature's body thoroughly, for signs of disease or wounds. It is dangerous work, many have fallen while on the job.
+
+DONMOL
+  TYPE : Misc
+  TEXT
+    & The donmol is a traditional Verido plucked instrument, it has 4 double strings, a long neck and a raised fingerboard. It has a flat back, with the soundholes being triangular-shaped.
+
+KOUTRA
+  TYPE : Misc
+  TEXT
+    & The koutra is a homemade-style plucked instrument, usually made and used by children. It has a small round body, made from the hard outer shell of a looberry plant, and is affixed to the body with braids of isilk. The neck is about a metre long, and pierces the body. There are two tunable isilk strings.
+
+VERIDO
+  TYPE : Misc
+  TEXT
+    & A race of traveling merchants, that reside on the backs of the giant desert walkers. They are divided onto 3 ilks, and the coloured patterns on their bodies reflect this. Verido have sand-colored hair, trumpet-like ears that stick out horizontally, they are not short, nor tall, and they enjoy adorning their hair in bodies with colorful trinkets.
+
+ISILK
+  TYPE : Misc
+  TEXT
+    & A fabric made from Ilk hair, very rare, and very sought after. It was popular during the Bao era, but the Verido stopped trading it out in fear that others would seek to harm the Ilk for it. Isilk is used by the Verido for clothing, and is braided into ropes. The hairs are dark, but under the sun comes a hue of red, blue or green.
+
+MAPA
+  TYPE : Misc
+  TEXT
+    & A term of endearment, used by the sproutling of the bearing parent.
+
+KLOREA
+  TYPE : Misc
+  TEXT
+    & {*Klorea*} is any of several related green pigments found in the cells of beings of the Soronan desert. It allows them to absorb energy from light.
+
+BONAN WINE
+  TYPE : Misc
+  TEXT
+    & A strong wine made from the bonan plant, a starchy berry that grows in the central rim.
 
 GENDER NEUTRAL WRITING
-  & Wiktopher is written without the use of gender pronouns, this eliminates the tendency to modify our behaviour based on genders.
+  TYPE : Misc
+  TEXT
+    & Wiktopher is written without the use of gender pronouns, this eliminates the tendency to modify our behaviour based on genders.
 
 ILKEN
-  & {*Ilken*} is a whistled language spoken by the Verido, which are also playable with an instrument. It is used to speak over long distances, and to converse with the ilks. The language was adapted from ilk tongue, which was first deciphered and adapted by Verido founder Balandri.
-  & A, E, I, O, U, Y and H are paired with notes and the rest consist of pauses and elongated notes.
-  | A Do   | B .    | L ___   | T ....
-  | E Re   | C _    | M .__   | U ____
-  | I Mi   | D ..   | N .._   | V .___
-  | O Fa   | F __   | P __.   | W ..__
-  | U Sol  | G ._   | Q _..   | X ___.
-  | Y La   | J _.   | R ._.   | Y __..
-  | H Si   | K ...  | S _._   | Z .__.
-  * Example
-  & VOLARE = Fa(.___) Do(___) Re(._.)<br>
-  & VO V(.___) O(Fa)
-  * Using Silent Consonants
-  & To create single vowel sounds or words, the syllable is sounded by sliding from {_Si_}, toward the target vowel. For instance, to make the sound O, or Ho, the sound will be that of a sliding tone from {_Si_} to {_Fa_}.
+  TYPE : Misc
+  TEXT
+    & {*Ilken*} is a whistled language spoken by the Verido, which are also playable with an instrument. It is used to speak over long distances, and to converse with the ilks. The language was adapted from ilk tongue, which was first deciphered and adapted by Verido founder Balandri.
+    & A, E, I, O, U, Y and H are paired with notes and the rest consist of pauses and elongated notes.
+    | A Do   | B .    | L ___   | T ....
+    | E Re   | C _    | M .__   | U ____
+    | I Mi   | D ..   | N .._   | V .___
+    | O Fa   | F __   | P __.   | W ..__
+    | U Sol  | G ._   | Q _..   | X ___.
+    | Y La   | J _.   | R ._.   | Y __..
+    | H Si   | K ...  | S _._   | Z .__.
+    * Example
+    & VOLARE = Fa(.___) Do(___) Re(._.)<br>
+    & VO V(.___) O(Fa)
+    * Using Silent Consonants
+    & To create single vowel sounds or words, the syllable is sounded by sliding from {_Si_}, toward the target vowel. For instance, to make the sound O, or Ho, the sound will be that of a sliding tone from {_Si_} to {_Fa_}.
 
 IRIDI
-  & The Iridi reside within the protective ridge of Mount Nui. They revere the light of the chloromyce shroos, their very way of life is centred around the harvesting and ingesting of this fungi. Like the chloromyce, they live and operate in the night, and sleep during the day. Ingesting the fungi, have caused the Iridi to become sensitive to light. The entire realm is alit with chloromyce, especially the reigning monarch who wears them.
+  TYPE : Misc
+  TEXT
+    & The Iridi reside within the protective ridge of Mount Nui. They revere the light of the chloromyce shroos, their very way of life is centred around the harvesting and ingesting of this fungi. Like the chloromyce, they live and operate in the night, and sleep during the day. Ingesting the fungi, have caused the Iridi to become sensitive to light. The entire realm is alit with chloromyce, especially the reigning monarch who wears them.
 
 `).parse();
 

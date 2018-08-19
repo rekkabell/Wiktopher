@@ -9,7 +9,15 @@ function Note(client)
   {
     this.el.className = ""
     this.el.style.top = `${y}px`
-    this.el.innerHTML = this.client.lexicon[target.toUpperCase()] ? new Runic(this.client.lexicon[target.toUpperCase()]).toString() : `<p>Unknown ${target} item.</p>`
+
+    var entry = this.find(target);
+
+    this.el.innerHTML = entry ? `<h2>${target.capitalize()}</h2>${new Runic(entry.TEXT)}` : `<h2>${target.capitalize()}</h2><p>Unknown lexicon item <b>${target}</b>,<br />will be added shortly.</p>`
+  }
+
+  this.find = function(target)
+  {
+    return this.client.lexicon[target.toUpperCase()];
   }
   
   this.hide = function()
