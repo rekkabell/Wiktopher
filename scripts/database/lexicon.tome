@@ -39,6 +39,11 @@ EDONOR
 
 ~ Characters
 
+PONOPO
+  TYPE : Characters
+  TEXT : 
+    & Nono's dependable messenger {*woth*}, knows the whole of the land by heart!
+
 UNO
   TYPE : Characters
   TEXT
@@ -73,11 +78,6 @@ LAGGRA
   TYPE : Characters
   TEXT
     & {*Levi*}'s parent, the one who built their family home and that helped to create the security system to the Ilk's head, following the death of a Voice who fell after the Ilk stumbled.
-
-KIT
-  TYPE : Characters
-  TEXT
-    & A {{Hyroo}}, traveling with {{Uno}}. 
 
 ROSMUS
   TYPE : Characters
