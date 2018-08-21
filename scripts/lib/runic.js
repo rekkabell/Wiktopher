@@ -12,7 +12,7 @@ function Runic(raw)
     "%":{glyph:"%"},
     "?":{glyph:"?",tag:"note",class:""},
     ":":{glyph:":",tag:"info",class:""},
-    "*":{glyph:"*",tag:"h2",class:""},
+    "*":{glyph:"*",tag:"h1",class:""},
     "=":{glyph:"=",tag:"h3",class:""},
     "+":{glyph:"+",tag:"hs",class:""},
     ">":{glyph:">",tag:"",class:""},

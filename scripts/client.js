@@ -33,7 +33,11 @@ function Client(story,lexicon)
     this.index = target
 
     this.navi.update();
-    this.text_el.innerHTML = new Runic(this.story[this.index]).toString();
+
+    var html = ''
+
+    html += new Runic(this.story[this.index]).toString();
+    this.text_el.innerHTML = html;
   }
 
   this.click = function(c)
@@ -46,7 +50,7 @@ function Client(story,lexicon)
 
   this.show_lexicon = function()
   {
-    var html = ""
+    var html = "<h1>The Lexicon</h1><hs>Additional content</hs>"
     // Navi
     var cats = {}
     for(id in this.lexicon){

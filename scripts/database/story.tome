@@ -1,6 +1,8 @@
 var STORY = new Indental(`
 
 Voice of the ilk
+  * Voice of the ilk
+  + Chapter 1
   % content/fauna.ilk.jpg
   & Losing one's own things in a small, small space, is very irritating – a scarf of all things! A piece of fabric of considerable length could not stay hidden, or so {{Lupin}} thought. This young {{Verido}} was getting desperate. The same thing had happened the week before, and the month prior. It excelled at the art of disappearance. Lupin claimed to have nothing to do with it, that the sentient scarf very much enjoyed eluding its master. Putting the blame on inanimate objects, of course, was easier then admitting to one's own failures to keep things in good order. 
 
@@ -297,6 +299,8 @@ Voice of the ilk
   & A sense of dread overcame the Verido then, "this can't be real. It can't be. They'll blame me for it, they'll think I did it." Mago felt dizzy, and continued to pull, "this can't be real." Then came the end of the line, and no Lupin. Tears welled up in Mago's eyes. "LUPIN!"
 
 Bed of dust
+  * Bed of dust
+  + Chapter 2
   % content/fauna.hyroo.jpg
   & Lupin could hear a scream – was it the wind? Or was it the sound of life leaving this body? If there could ever be such a thing. The sound was unbearable, a prolonged high-pitched cry that caused this heart great pain. This mind did fear death, but didn't think that it would part with the flesh in flight, contrary to what the elders in Volare believed.
 
@@ -495,7 +499,8 @@ Bed of dust
   & Lupin waved at the illogical giant, the one who looked down and extracted that sad, broken, pile of a creature from its deathbed. A thought came to mind then too, perhaps this body chose to fall off Vol's back, heavy with ambition and eager to see the world. It was silly to think such things, this Verido knew better. Like Rosmus purposely chose to not be a pattern reader, Lupin fell, having chosen not to learn how to tie decent knots.
 
 The mountain with no name
-
+  * The mountain with no name
+  + Chapter 3
   % content/fauna.vennec.jpg
 
   & Lupin marched towards the mountain, carrying a bag plump with supplies. Uno gave ample food for the difficult journey ahead, the bag contained a dozen waterstones, these would need to be rationed because these shoulders could not carry more. The bag also contained 5 loaves of {{teaweet}} bread and some root vegetables.
@@ -632,7 +637,8 @@ The mountain with no name
   & Hush bounded off and carried them forward, this time there was nothing to fear, it was okay to join Eka in a laugh. This Verido of Volare was one step closer to forgetting life on the Ilk, that person was dead. Lupin was a creature of the world now. There was much mystery around Eka, but there would be time for answers later, for now, Lupin wanted to live in the present.
   
 The sandfin
-
+  * The sandfin
+  + Chapter 4
   % content/flora.cactub.jpg
 
   & Eka, Lupin and {{Hush}} wandered the desert, quenching their thirst with {{waterstones}}. Hush could no longer stand any weight on its back and walked behind them, panting. They could not get to Montore fast enough, though the thought of cake and tea did offer some motivation. During the walk, Eka sang about bam cakes, listing the ingredients aloud in song. Every song ended with a solo of groans and growls, courtesy of Lupin's empty belly.
