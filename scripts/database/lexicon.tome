@@ -17,7 +17,32 @@ SORONAN DESERT
   TEXT
     & {*The Soronan Desert*} is a vast desert wildnerness stretching over the Central Rim and the Northern and Southern Plains. It is a continous body of sand which occupies most of the planet.
 
-THE CENTRAL RIM
+ASH PLAINS
+  TYPE : Locations
+  TEXT
+    & The {*Ash Plains*} is a dead zone, where nothing grows and nothing lives. The land is covered with salt. Terrible storms brew here.
+
+DORAKE'S PASSAGE
+  TYPE : Locations
+  TEXT 
+    & {*Dorake's passage*} is a long pass south of the Nui Mountain ridge, a pass that has claimed many sandfinners over the years.
+
+MOUNT NUI
+  TYPE : Locations
+  TEXT
+    & A mountaineous ridge, bordered in the south by the Southern Dust Plains, to the NW by Renate, and to the NE by Edonor. On the North end of the Mountain, is the city of Iride, the realm of the Iridi's. 
+
+SOUTHERN DUST PLAINS   
+  TYPE : Locations
+  TEXT 
+    & A region of flat lands which rims the planet, and where little grows. Many sandfinners travel through here to make quick passages to other areas, since the land has no protusions, the wind screams by unhindered.
+
+THE RUPTURE
+  TYPE : Locations
+  TEXT
+    & {*The Rupture*}, although feared by many, is place of passing. It is a deep chasm, seemingly infinite, a rip in the ground. The dying, or the sick, accompanied by family, will journey there to take a leap into the Rupture.
+
+CENTRAL RIM
   TYPE : Locations
   TEXT
     & A belt of semi-arable land that circles the planet. Most of the water stone wells are situated in this area, others can found elsewhere but may be further apart and more difficult to locate.
@@ -48,6 +73,11 @@ UNO
   TYPE : Characters
   TEXT
     & A giant, often seen atop a Hyroo named Kit. Not much is known of this being, but is thought that Uno is very, very ancient.
+
+ETYL
+  TYPE : Characters
+  TEXT
+    & {*Etyl*} is a {{Finiku}}, grand-mapa of {{Nono}}. This Finiku is a {{sandfinner}} known the world over, for having traversed the whole of the ladn - including the ash plains and Dorake's passage - alone by sandfin.
 
 SANDFINNER
   TYPE : Characters
@@ -222,7 +252,7 @@ BONAN
   TEXT
     & A berry, with soft flesh rich in starch covered with a rind, which may be orange or purple when ripe. The seeds are roasted and brewed for tea.
 
-WATERSTONE
+WATERSTONES
   TYPE : Flora
   TEXT
     & {*Waterstones*} are a liquid essential to life, that is preserved in a hard membrane. The water can be extracted, usually with a water stone press, or a heavy tool. There is also the possibility of putting the stone in the mouth; overtime, liquid will seep from a collection of pores on the water stone's surface. Using this technique can aid to prevent dehydration, especially when traveling long distances in the desert.
