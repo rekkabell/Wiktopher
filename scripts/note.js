@@ -22,6 +22,7 @@ function Note(client)
   
   this.hide = function()
   {
+    console.log("Hide node");
     this.el.className = "hidden"
   }
 }

@@ -32,6 +32,7 @@ function Client(story,lexicon)
     document.title = `Wiktopher — ${target.capitalize()}`
     this.index = target
 
+    this.note.hide();
     this.navi.update();
 
     var html = ''
