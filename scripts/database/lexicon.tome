@@ -82,12 +82,12 @@ UNO
 ETYL
   TYPE : Characters
   TEXT
-    & {*Etyl*} is a {{Finiku}}, grand-mapa of {{Nono}}. This Finiku is a {{sandfinner}} known the world over, for having traversed the whole of the ladn - including the ash plains and Dorake's passage - alone by sandfin.
+    & {*Etyl*} is a famous {*Finiku*}, grand-mapa of {*Nono*}. This Finiku is a sandfinner, known the world over, for having traversed the whole of the land - including the {*ash plains*} and {*Dorake's passage*} - alone by sandfin.
 
 SANDFINNER
   TYPE : Characters
   TEXT
-    &  Those who travel the desert by sandfin, a vessel powered by wind.
+    &  Those who travel the desert by {*sandfin*}, a vessel powered by wind.
 
 GREE
   TYPE : Characters
