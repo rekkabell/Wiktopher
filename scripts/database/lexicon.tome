@@ -30,7 +30,12 @@ DORAKE'S PASSAGE
 MOUNT NUI
   TYPE : Locations
   TEXT
-    & A mountaineous ridge, bordered in the south by the Southern Dust Plains, to the NW by Renate, and to the NE by Edonor. On the North end of the Mountain, is the city of Iride, the realm of the Iridi's. 
+    & A mountaineous ridge, bordered in the south by the Southern Dust Plains, to the NW by {*Renate*}, and to the NE by {*Edonor*}. On the North end of the Mountain, is the city of {*Irideri*}, the realm of the Iridi. 
+
+IRIDERI
+  TYPE : Locations
+  TEXT
+    & The capital, and only city of the feared {*Iridi*}. The city is protected, lying in the mountainous ridge belt of {*Mount Nui*}. The city is exposed to light, but connects to numerous passes that lead inside the mountain itself.    
 
 SOUTHERN DUST PLAINS   
   TYPE : Locations
@@ -139,6 +144,11 @@ ARMYN
   TEXT
     & Parent of Mago, and now retired Voice of Volare.
 
+BAO
+  TYPE : Characters
+  TEXT 
+    & The second monarch of the {*Iridi*}, stern but just, this leader thought it necessary to put a stop to the raids, and attempted to make peace with the world, but it was poorly received, given how many were still held captive in the mines. Bao thought it best then, to close the kingdom of {*Irediri*} to the world. 
+
 ADEL
   TYPE : Characters
   TEXT
@@ -237,6 +247,16 @@ TRUMPET FLOWERS
   TEXT
     & A type of flower, bell-shaped, tall and of a bright yellow colour; very popular with the Verido. It is often uprooted, and offered as a gift during green days and other special events. The bottom part, or 'bowl', contains a fluid of the plant's own production, which is syrupy, and that is used to drown its prey. On green days, a strong wine is mixed into the bowl of the plant, and is shared amongsts all who attend the celebrations.
 
+BAM
+  TYPE : Flora
+  TEXT 
+    & A starchy tuber, pink on the inside, that becomes nice and soft when cooked. 
+
+CHLOROMYCE SHROOS
+  TYPE : Flora
+  TEXT
+    & A type of fungi that emits strong phosphorescent light, it grows in caves, underground where there is no light. It is an object of desire for the {*Iridi*}, who have fought wars in its name. 
+
 TEAWEET
   TYPE : Flora
   TEXT
@@ -323,10 +343,20 @@ VERIDO
   TEXT
     & {*Verido*} are a race of traveling merchants, that reside on the backs of the giant desert walkers. They are divided onto 3 ilks, and the coloured patterns on their bodies reflect this. Verido have sand-colored hair, trumpet-like ears that stick out horizontally, they are not short, nor tall, and they enjoy adorning their hair in bodies with colorful trinkets.
 
+IRIDI
+  TYPE : Misc
+  TEXT 
+    & {*The Iridi*} reside within the protective ridge of {*Mount Nui*} in the city of {*Irediri*}. They revere the light of the {*Chloromyce shroos*}, their very way of life is centred around the harvesting and ingesting of this fungi. Like the chloromyce, they live and operate in the night, and sleep during the day. Ingesting the fungi, have caused the Iridi to become sensitive to light. The entire realm is alit with chloromyce, especially the reigning monarch who wears them.
+
 FINIKU
   TYPE : Misc
   TEXT
     & {*Finiku*} are a race of sandfin travelers, or at least, they used to be, many have left their nomadic ways to settle in towns. They are sandfin experts, and know the world, all nooks and crannies of the Soronan desert by heart. They are very short, pot-bellied creatures, with long droopy ears and large wet globulous eyes. Their skin is tan, their faces round and flat. Finiku also have small hands and feet. They love to drink, every household produces their own wine. 
+
+ETYL
+  TYPE : Characters
+  TEXT
+    & {*Etyl*} is a {{Finiku}}, grand-mapa of {{Nono}}. This Finiku is a {{sand$
 
 ISILK
   TYPE : Misc
@@ -371,10 +401,4 @@ ILKEN
     * Using Silent Consonants
     & To create single vowel sounds or words, the syllable is sounded by sliding from {_Si_}, toward the target vowel. For instance, to make the sound O, or Ho, the sound will be that of a sliding tone from {_Si_} to {_Fa_}.
 
-IRIDI
-  TYPE : Misc
-  TEXT
-    & The Iridi reside within the protective ridge of Mount Nui. They revere the light of the chloromyce shroos, their very way of life is centred around the harvesting and ingesting of this fungi. Like the chloromyce, they live and operate in the night, and sleep during the day. Ingesting the fungi, have caused the Iridi to become sensitive to light. The entire realm is alit with chloromyce, especially the reigning monarch who wears them.
-
-`).parse();
-
+`).parse
