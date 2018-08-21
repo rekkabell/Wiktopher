@@ -400,5 +400,4 @@ ILKEN
     & VO V(.___) O(Fa)
     * Using Silent Consonants
     & To create single vowel sounds or words, the syllable is sounded by sliding from {_Si_}, toward the target vowel. For instance, to make the sound O, or Ho, the sound will be that of a sliding tone from {_Si_} to {_Fa_}.
-
-`).parse
+`).parse()
