@@ -22,7 +22,7 @@ THE CENTRAL RIM
   TEXT
     & A belt of semi-arable land that circles the planet. Most of the water stone wells are situated in this area, others can found elsewhere but may be further apart and more difficult to locate.
 
-TIPUTA VILLAGE
+TIPUTA
   TYPE : Locations
   TEXT
     & A road-side down in the Soronan desert, inhabited by a handful of Finiku.
@@ -41,7 +41,7 @@ EDONOR
 
 PONOPO
   TYPE : Characters
-  TEXT : 
+  TEXT 
     & Nono's dependable messenger {*woth*}, knows the whole of the land by heart!
 
 UNO
@@ -49,10 +49,10 @@ UNO
   TEXT
     & A giant, often seen atop a Hyroo named Kit. Not much is known of this being, but is thought that Uno is very, very ancient.
 
-SANDFINNERS
+SANDFINNER
   TYPE : Characters
   TEXT
-    & Those who travel the desert by sandfin, a vessel powered by wind.
+    &  Those who travel the desert by sandfin, a vessel powered by wind.
 
 GREE
   TYPE : Characters
@@ -62,8 +62,18 @@ GREE
 LUPIN
   TYPE : Characters
   TEXT
-    & A {*Verido*}, in the running to become Voice of Volare. Lupin is a curious creature, and a tireless skeptic.
+    & A {{Verido}}, in the running to become Voice of Volare. Lupin is a curious creature, and a tireless skeptic.
 
+MALISS
+  TYPE : Characters
+  TEXT  
+    & A {{Verido}} and head of the {{Volare}} nursery, responsible for ensuring the sprouts grow healthy, and for making sure that the population on the {{Ilk}} is kept in good numbers.
+
+ENCE
+  TYPE : Characters
+  TEXT 
+    & {*Ence*} is a {{Verido}} and skilled builder, currently sits in the town council.
+ 
 LEVI
   TYPE : Characters
   TEXT
@@ -123,6 +133,26 @@ EKA
   TYPE : Characters
   TEXT
     & A red haired wonder, that Lupin awoke atop the mountain with no name. They now travel together, although there is a lot of mystery around this Eka.
+
+MELANZA
+  TYPE : Characters
+  TEXT 
+    & {*Melanza*} is a {{Terin}}, infinitely kind and generous, known for traveling amongst the 3 Ilks to give them advice, on how to grow food with limited resources. Melanza, like many other Terins, has disappeared. 
+
+ORIN
+  TYPE : Characters
+  TEXT 
+    & {*Orin*} is a {{Finiku}}, sprout of {{Nok}} and grand-mapa of {{Bou}}. Orin is a skilled tailor, trained by Nok, both worked in their workshop in {{Edonor}}. Orin loves fine thread, and loves to make risque items, using bright colours and complex patterns. Orin recently retired from work, and moved with Bou to {{Tiputa}}. 
+
+NOK
+  TYPE : Characters
+  TEXT 
+    & Grand-mapa of {{Orin}}, a {{Finiku}}, and renowned tailor from the town of {{Edonor}}.
+
+BOU
+  TYPE : Characters
+  TEXT  
+    & Sprout of {{Orin}}, a {{Finiku}} that lives in the road-town of {{Tiputa}}. Bou is a mechanic, has a shop in the village and tends to the repairs needed by travelers, and inhabitants of the small city.
 
 ~ Fauna
 
@@ -248,10 +278,25 @@ KOUTRA
   TEXT
     & The koutra is a homemade-style plucked instrument, usually made and used by children. It has a small round body, made from the hard outer shell of a looberry plant, and is affixed to the body with braids of isilk. The neck is about a metre long, and pierces the body. There are two tunable isilk strings.
 
+TERIN
+  TYPE : Misc
+  TEXT : 
+    & {*Terins*} are a race of growers and carers, they have green thumbs and can make any garden, and population healthy. Their numbers are fewer these days, given the Iridi raids in Bao's time. They have dark skin, bright eyes dark eye. They have larger foreams and fingers, thick legs and two-toed feet, their physique is strong and permits long hours working the soil, these beings don't tire easily. 
+
+AODALS
+  TYPE : Misc
+  TEXT :
+    & {*Aodals*} is the most common race in the Soronan desert, they are of medium height, and have small pointed ears, their skin is brown and their hair comes in a variety in browns and blacks. Their faces are relatively flat, and round, with thin eyes. 
+
 VERIDO
   TYPE : Misc
   TEXT
-    & A race of traveling merchants, that reside on the backs of the giant desert walkers. They are divided onto 3 ilks, and the coloured patterns on their bodies reflect this. Verido have sand-colored hair, trumpet-like ears that stick out horizontally, they are not short, nor tall, and they enjoy adorning their hair in bodies with colorful trinkets.
+    & {*Verido*} Are a race of traveling merchants, that reside on the backs of the giant desert walkers. They are divided onto 3 ilks, and the coloured patterns on their bodies reflect this. Verido have sand-colored hair, trumpet-like ears that stick out horizontally, they are not short, nor tall, and they enjoy adorning their hair in bodies with colorful trinkets.
+
+FINIKU
+  TYPE : Misc
+  TEXT : 
+    & {*Finiku*} are a race of sandfin travelers, or at least, they used to be, many have left their nomadic ways to settle in towns. They are sandfin experts, and know the world, all nooks and crannies of the Soronan desert by heart. They are very short, pot-bellied creatures, with long droopy ears and large wet globulous eyes. Their skin is tan, their faces round and flat. Finiku also have small hands and feet. They love to drink, every household produces their own wine. 
 
 ISILK
   TYPE : Misc
@@ -266,7 +311,7 @@ MAPA
 KLOREA
   TYPE : Misc
   TEXT
-    & {*Klorea*} is any of several related green pigments found in the cells of beings of the Soronan desert. It allows them to absorb energy from light.
+    & {*Klorea*} is any of several related green pigments found in the cells of beings of the Soronan desert. It allows them to absorb energy from light. Klorealines are important to the {{Verido}} and the {{Iridi}}.
 
 BONAN WINE
   TYPE : Misc
