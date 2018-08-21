@@ -60,7 +60,7 @@ TIPUTA
 RENATE
   TYPE : Locations
   TEXT
-    & Renate is an old refugee town, many sought shelter there after the Iridi Raids of Bao. A famous steel-master resides there. 
+    & Renate is an old refugee town, many sought shelter there after the {*Iridi*} Raids of {*Moera*}. A famous steel-master resides there. 
 
 EDONOR
   TYPE : Locations
@@ -148,6 +148,11 @@ BAO
   TYPE : Characters
   TEXT 
     & The second monarch of the {*Iridi*}, stern but just, this leader thought it necessary to put a stop to the raids, and attempted to make peace with the world, but it was poorly received, given how many were still held captive in the mines. Bao thought it best then, to close the kingdom of {*Irediri*} to the world. 
+
+MOERA
+  TYPE : Characters
+  TEXT 
+    & The first monarch of the {*Iridi*}, responsible for the infamous Iridi Raids. This monarch was obssessed with the {*Chloromyce shroos*}, this caused the Iridi to become a fighting, cruel nation. Moera renounced the sun entirely, and brought the Iridi people into an age of perpetual darkness.
 
 ADEL
   TYPE : Characters
