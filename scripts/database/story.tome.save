@@ -1,52 +1,60 @@
 var STORY = new Indental(`
 
 Voice of the ilk
+  * Voice of the ilk
+  + Chapter 1
   % content/fauna.ilk.jpg
-  & In a dwelling so small, it's a wonder things could get lost in it at all. A scarf of all things! A piece of fabric of considerable length could not stay hidden, or so {{Lupin}} thought. This young {{Verido}} was getting desperate. The same thing had happened the week before, and the month prior. It excelled at the art of disappearance. Lupin claimed to have nothing to do with it, that the sentient scarf very much enjoyed eluding its master. Putting the blame on inanimate objects, of course, was easier then admitting to one's own failures to keep things in good order. 
+  & Losing one's own things in a small, small space, is very irritating – a scarf of all things! A piece of fabric of considerable length could not stay hidden, or so {{Lupin}} thought. This young {{Verido}} was getting desperate. The same thing had happened the week before, and the month prior. It excelled at the art of disappearance. Lupin claimed to have nothing to do with it, that the sentient scarf very much enjoyed eluding its master. Putting the blame on inanimate objects, of course, was easier then admitting to one's own failures to keep things in good order. 
 
-  & There were other scarves hanging on their hooks, but none were worthy of today. The one Lupin was looking for was blue, made of {{isilk}}, a type of thread unique to this city and sought the world over. 
+  & There were other scarves hanging on their hooks, none worthy of today, the one Lupin was looking for was blue, made of {{isilk}}.
 
-  & "It comes from the mane of our {{Ilk}}, the one that carries this very house," {{Levi}} had told a young sprouting Lupin once. "The clothes on my back and on that of our neighbours here in {{Volare}}, all, are gifts from Vol." 
+  & "It comes from the mane of our {{Ilk}}, the one that carries this very house," {{Levi}} had told a sprouting Lupin once. "The clothes on my back and on those of our neighbours, here, in {{Volare}}. All, are gifts from {{Vol}}." 
 
-  & The young one was too little to understand, in a sprout's mind the world is no bigger than the gap between it and it's {{mapa}}. The idea that their lives depended on a large desert creature did not sink in right away. For most Verido, the world ends with the Ilk, everything outside is decorative, unimportant, serving the same purpose as a painted backdrop in a play. Lupin had sprouted into a young adult now, no baby leaves remained, the only way to know the true age of a Verido was to look at the ears. The ears of young adults had a single twist, full adults had two, and the eldest had multiple, as for sproutlings, they had no twists at all and their ears looked like {{trumpet flowers}}. This Verido, had one twist, although the left ear had not coiled up fully, {{Mago}}, Lupin's best friend, liked to make fun of it. 
+  & The sproutling was too little to understand, in a young mind, the world is no bigger than the gap between it and its {{mapa}}. The idea that their lives depended on a large desert creature did not sink in right away, although it was taught, and noticed early on. For most {{Verido}}, the world ends with the Ilk, everything outside is decorative, unimportant, serving the same purpose as a painted backdrop in a play, a mere embellishment. Lupin had sprouted into a young adult now, no baby leaves remained.
 
-  & Then, the knitted wizard revealed itself, wedged between Lupin's desk and the wall. All large objects in the room were permanent fixtures, carved out of one solid block. One couldn't push the desk to the wall, not with the legs attached to the ground. Having a house on the back of a moving giant meant you had to take precautions. Most times objects stayed in their place, but there were times when the Ilk did stumble, whether it be because of a patch of soft soil, or a wreck buried in the ground, because they couldn't know or predict accidents, it was better to always be careful. "A stable table will keep you able," was a motto of the city, referring to the many hurt by loose objects.
+  & The Verido was still busy upturning the place, lifting every book, every loose item, Lupin did find other things thought to be lost, but these stayed in their spot, to be forgotten and rediscovered again at a later, more convenient time. Then finally, the knitted wizard revealed itself, wedged between the desk and the wall. All large objects in the room were permanent fixtures, carved out of one solid block. One couldn't push the desk to the wall, not with the legs attached to the ground. Having a house on the back of a moving giant meant you had to take precautions. Most times objects stayed in their place, but there were times when the Ilk did stumble, whether it be because of a patch of soft soil, or a wreck buried in the ground, because they couldn't know or predict accidents, it was better to always be careful. 
 
-  & Lupin glanced outside then, the suns were low in the sky, this meant that the ceremony would start soon. The scarf took its place around the Verido's neck. 
+  & "A stable table will keep you able," was a motto of the city, referring to the many hurt by loose objects. 
 
-  & "Now see, we're late because of you." The scarf did not care to apologize, it lay limp, like a long blue tongue. 
+  & Lupin glanced outside then, the suns were low in the sky, the ceremony would start soon. The scarf took its place around the Verido's neck.
 
-  & Today was a big day, the city would choose a new {{Voice}}, the bridge between the Ilk and the people, a role dating back to when the Verido first settled here. The townspeople thought that they'd continue to prosper if they had a descendant of Volare at the ear. Lupin was one of two direct descendants, but this Verido did not expect to earn the title. There were two branches of the Volare bloodline, the other had been granted the role of Voice since all began living on the Ilk, and this wasn't about to change.
+  & "Now see, we're late because of you." 
 
-  & Because of the ceremony, Lupin had to wear appropriate clothing. The traditional ceremonial wear consisted of hair adorned with colourful beads, a necklace of blue thread cascading down from a loop at the neck, a cloth around the waist long enough to cover the knees, as well as a woven mat over the cloth. These garments were topped off with a dark isilk robe. All Verido would be wearing similar outfits, without the robe, which was reserved for the candidates. Lupin's hair was light, like sand, and cut short on the sides, leaving a thick line of hair running along the center of the head. The hair could not be persuaded to lie down neatly. Another important detail, specific to today's events, was that part of the face was painted in blue using the dried and crushed pigments of the fruit of the {{looberry}} plant. Lupin reached into a jar and grabbed a fistful of it, then, mixed it to a bowl with the contents of a freshly-squeezed {{water stone}} and began to apply it. After applying enough, Lupin hurried out the door, but came face to face with {{Rosmus}}, one of the locals.
+  & The scarf did not care to apologize, it lay limp, like a long blue tongue. 
 
-  & "Morning Voice of Volare!" Rosmus said, dressed in plain clothes, as if unaware of today's events. The visitor held a basket of yellow trumpet flowers, the stems kept fresh by a layer of earth. No Verido uprooted flowers without the intention of replanting, or consuming them afterwards. "These are for you Voice!"
+  & Today was a big day, the city would choose a new {{Voice}}, the bridge between the Ilk and the people.
 
-  & "I'm not Voice, not yet," Lupin said, trying to inch forward - no simple task. "Aren't you, um, going to the celebrations today?"
+  & Lupin had to wear appropriate clothing, traditional ceremonial consisting of a necklace of blue thread cascading down from a loop at the neck, a cloth around the waist, long enough to cover the knees, as well as a woven mat over the cloth. These garments were topped off with a dark isilk robe. All Verido would be wearing similar outfits - without the robe, which was reserved for the two candidates. 
 
-  & "Yes of course! Everyone will be there! But contrary to popular opinion, I think you'll be Voice, not Mago."
+  & The mapa usually helped the youngling during such events, but Lupin had to do these things alone. The hardest part, was to apply blue face paint – another tradition – made from the dried and crushed pigments of the fruit of the {{looberry}} plant. Lupin reached into a jar and grabbed a fistful of it, then, mixed it into a bowl with the contents of a freshly-squeezed {{waterstone}} and began to apply it, roughly over the skin. The suns were even lower now, there was no time to do this properly. Lupin gave theses hands a good cleaning, although it was likely they would stay blue for some time, then hurried out the door. 
 
-  & "It's just like you to think the opposite of everyone." Lupin said, amused. 
+  & "Morning Voice of Volare! Wow! Nice face paint!" Rosmus said, standing right outside Lupin's door, dressed in plain clothes as if unaware of today's events. The visitor held a basket of yellow trumpet flowers, the stems kept fresh by a layer of earth - no Verido uprooted flowers without the intention of replanting, or consuming them afterwards. "These are for you Voice!"
 
-  & "I sense a change in the world, and so I too must adapt! I follow the inner beatings of mine own heart, always have."
+  & "I'm not Voice, not yet," Lupin said, trying to inch forward - no simple task. "Aren't you, um, going to do readings at the celebrations today?"
+
+  & "I'll be there, but won't be doing that no. All those theatrics don't matter because I already know the outcome. You'll be Voice, not Mago."
+
+  & "It's just like you to think the opposite of everyone." Lupin said, amused. Mago's family had been at the ear since the beginning, and this wasn't about to change.
+
+  & "I follow the inner beatings of mine own heart, always have."
 
   & "And what if your inner beatings are wrong?"
 
-  & "Impossible. If anything it means I'm at fault, that I haven't been listening enough. I'm still learning and may have misinterpreted my heart's message." Saying this, Rosmus put an open hand on Lupin's chest and gave it a series of light taps, "tu-tump, tu-tump, tu-tump. It's the primordial tongue. A more practiced ear would be able to tell you the exact meanings of it, though there is no such person yet, but I'm working on changing that as you can see! It offers the truest of truths! Skin reading is a thing of the past, an old tradition that we need to do away with!"
+  & "Impossible. There are too many signs. The eyes and ears communicate it to the flesh and the rest." Rosmus put an open hand on Lupin's chest and gave it a series of light taps, "tu-tump, tu-tump, tu-tump. Listen well. It speaks and offers the truest of truths, if only you'd lend it an ear."
 
-  & Lupin smirked at this. "So i take it you won't be doing any readings today."
+  & Lupin smirked at this, "So you're saying my body knows it's going to be Voice, but somehow I don't believe it?"
 
-  & "I have, and I've already told you everything."
+  & "Tu-tump tu-tump Lupin! Your flesh is shouting it to you, and has been for some time! It's curious that you can't hear it, very curious indeed - but then again... you are young. You did shed your last leaf recently."
 
-  & "I have to get going, Mago's waiting."
+  & "Recently? I shed it 4 years ago!" Lupin said, outraged, hands passing over to where the stem of the leaf had been, as if to make sure it wasn't really there still. "I have to get going, Mago's waiting." Although in truth, Lupin had enough of this nonsense. Both Verido were close, but Rosmus was great in small doses.
 
-  & "Yes! Yes of course! I'll plant these for you Voice!" Rosmus said, waving a single trumpet flower as the space began to grow between them.
+  & "Yes! Yes of course! I'll plant these for you Voice!" Rosmus said, waving a single trumpet flower as the space began to grow between them. 
 
   > <hr/>
 
   & {{Mago}} was standing before the Volare town hall, an imposing edifice on the lowermost area of the Ilk's nape. The town was more animated than usual, there were people everywhere, busy wrapping ribbons around poles and hanging wreaths on every door. Everyone waved at Mago, smiling and saying things like, {_"Good luck in there!"_} or, {_"You were born to do it!"_}
 
-  & Mago wondered if they said these things to Lupin too. Like all Verido, this one had pale sandy hair, reaching just below the ears and heavy with decorative beads. There was blue paint on Mago's face too, a big stripe from the top of the head to the chin, covering the nose and the eyes, with two thinner ones running alongside it. There were a lot of similarities between the patterns of the two candidates, they were cousins after all. 
+  & Mago wondered if they said these things to Lupin too. Like all Verido, Mago had pale sandy hair, reaching just below the ears and heavy with decorative beads. The youngling's face had decorative blue paint too, a big stripe from the top of the head to the chin, covering the nose and the eyes, with two thinner ones running alongside it. There were a lot of similarities between the patterns of the two candidates, they were cousins after all. 
 
   & "Mago!" {{Armyn}} called out, approaching in great strides. Mago's mapa hurried over, pushing past the crowd that was gathering around the town hall. "Mago!" Armyn called again.
 
@@ -72,11 +80,17 @@ Voice of the ilk
 
   & Mago joined the child under the banner. "You almost got it you know! Watch me." Hands moved into place, cupping the mouth in the right way, then came a collection of whistles...
 
-  & Fa(.___) SiMi() RE(_) SiFa() Sol(__) Fa(.___) Do(___) Re(._.)
+  & {_Fa(.___) SiMi() RE(_) SiFa() Sol(__) Fa(.___) Do(___) Re(._.)_}
 
-  & The sounds varied in pitch and rhythm, {{ilken}} was a whistled language used to communicate with the Ilk. Only the Voice used it for that purpose though, everyone else in the city learned it for tradition's sake. Ilken could be whistled, and it could also be played with a plucked instrument like the traditional {{donmol}} or the humble {{koutra}}. 
+  & The sounds varied in pitch and rhythm, the sound of it was otherworldly, played at such high volume that if strangers, who knew nothing of the language, heard it they would think it belonged to a giant. Mago whistled it a second time, to make sure the child had heard it right. "See? Voice-of-Volare. You try it, watch out for the pitch on the vowels." 
 
-  & Mago whistled it a second time, to make sure the child had heard it right. "See? Voice-of-Volare. You try it, watch out for the pitch on the vowels." Eyes wide, the child positioned both hands and lips in the same way, and tried again with much success. 
+  & Eyes wide, the child positioned both hands and lips in the same way, and tried again with much success. "Do you really talk to the Ilk?"
+
+  & Mago smiled, "Not yet, but if I'm Voice then yes – we'll talk everyday!"
+
+  & "WOW!" stars appeared in the young sprout's eyes, at the thought of Mago being able to converse with 'The Great Carrier'.
+
+  & Volare villagers were setting up a small stage near the town hall, they would be playing music here tonight, songs in {{ilken}} by way of plucked instruments like the traditional {{donmol}}, or the humble {{koutra}}. Mago loved the sounds of these instruments, most younglings were raised with music at their lips and fingers. 
 
   & Lupin arrived then, taking Mago's side. "Well! If it isn't the tongue wart of the Ilk!" 
 
@@ -88,13 +102,13 @@ Voice of the ilk
 
   & "FINE! Fine. I'm the wart!"
 
-  & "You should have asked someone else to do your face paint, it looks like a child did it" Mago said, releasing the ear.
+  & "You should have asked someone to do your face paint, it looks like a child did it," Mago said, releasing the ear.
 
-  & "I am a child," Lupin said with a sly grin, while trying to get some feeling back in that bruised ear. "Hey is my ear yellowing? It feels yellow."
+  & "I am a child," Lupin said with a sly grin, while trying to get some feeling back in that pained ear. "Hey is my ear bruising? It feels bruised"
 
-  & "Why would it go yellow? I barely squeezed it!" Mago noticed the scarf then. "OH WOW! You're wearing your freaky scarf!"
+  & "Why would it bruise? I barely squeezed it!" Mago noticed the scarf then. "OH WOW – you're wearing your freaky scarf!"
 
-  & "Is it not freaky, long isn't freaky."
+  & "It's not freaky. Long isn't freaky."
 
   & "I love it. Coiled around like that makes it look like you have no neck."
 
@@ -106,10 +120,6 @@ Voice of the ilk
 
   & Mago laughed, relaxing for the first time in a week. They had been close since they were little, and always knew how to make each other laugh.
 
-  & "Rosmus isn't coming today. Wasn't even wearing the proper clothes or anything."
-
-  & "Uh, oh. Pumra's going to be angry." Mago said, "so much for tradition."
-
   & A large crowd encircled them at the town hall then, the suns were about to set, it was time. Everyone around fell quiet, and watched as the doors leading inside the town hall swung open. Lupin gulped, even a funny-looking scarf wouldn't be enough to calm Mago's nerves now, but a friend always knew what to say…
 
   & "Let's go inside, OH Venerable Nose Hair of the Ilk!"
@@ -118,11 +128,11 @@ Voice of the ilk
 
   > <hr/>
 
-  & The town hall was a modest size, there were no mansions or grand palaces in this city, everyone lived as equals, this building was a reflection of this. The walls had murals painted on, images of the Ilk as well as a depiction of their founder and great leader Volare. A beautiful embroided cloth covered the long table, at which sat all of the council members, Mago's grandmapa {{Adel}} had made it.
+  & The town hall was a modest size, there were no mansions or grand palaces in this city, everyone lived as equals, this building was a reflection of this. The walls had murals painted on, images of the Ilk as well as a depiction of their founder and great leader Volare. A beautiful embroided cloth covered the long table, at which sat all of the council members, Mago's grand-mapa {{Adel}} had made it.
 
   & The two cousins now stood before a row of 6 elders, Armyn sat on the far left and couldn't resist a smile, the others they knew, Volare was a small city after all. The 6 Veridos were all over 150 years of age, they'd been nominated by the people and did not sit here idly, each had a profession. Ence, who sat next to Armyn, was a skilled builder, and had helped in maintaining all of the houses here in Volare, another two seats down, was a letterer, and would write their people's history so all could remember it. Everyone in this room was an expert in their field, a great asset, and together they formed this council
 
-  & "Happy you could join us. Today, our Armyn is retiring from being Voice, after 150 years of service," Ence said aloud, smiling at the two younglings. 
+  & "Happy you could join us. Today, our Armyn is retiring from being Voice, after 150 years of service,"{{Ence}} said aloud, smiling at the two younglings. 
 
   & Armyn stood up, "I will miss being at the ear, but my body gave me clear signs that it's time to let someone else delight in this experience. I've learned much of the world through {{Vol}}, our Ilk. I've no doubt that the new Voice will do grand things. I will be preparing to leap from the Ilk's snout in the coming week, I will want to speak to each of you before I go, you, whom I love. I take this love with me to my death." 
 
@@ -134,19 +144,19 @@ Voice of the ilk
 
   & "Balance in Volare has never been better, and it's all because of your work Maliss."
 
-  & "I've got Melanzana to thank for this. If it were not for the {{Terin}}'s teachings we would not be here." Maliss said, reminding others that the work of another had ensured their survival here, on the Ilk. Growing food on the back of a creature was not simple, in the old days, many had died of malnutrition because of it. Their future on the Ilk was only guaranteed when Volare asked for the help of a Terin. Maliss had tried many times to get another Terin to come to the city, but there were few around these days.
+  & "I've got {{Melanza}} to thank for this. If it were not for the {{Terin}}'s teachings we would not be here." Maliss said, reminding others that the work of another had ensured their survival here, on the Ilk. 
 
   & Ence nodded at these words, "You are right, we have many to thank for it. Let us thank them in song." The councillor began to whistle, and all others in the room chimed in. The song, was a re-telling of the history of this city and of its founders. Lupin liked to hear of the moment when the 3 founders first encountered the Ilks. Most Veridos never left their protector's back, few knew what it was like to stare up at its immensity. Lupin had never stepped off, the councillors had been grown and raised here and they too, never dared it. 
 
   & The Ilk walked with the seasons, and stopped often in small villages so that the town artisans could trade goods with the land-dwellers. Walking and living on still ground made little sense to a Verido, they knew nothing else, and wanted nothing else. Some had left the Ilk, but this was rare, the artisans who did step off almost always returned green-faced, sick from a lifetime of absent stillness. It was something one could get used to, but it would mean spending more time on land, and the Ilk never remained in town long enough to permit this. 
 
-  & The singing came to a full stop, all in the room quieted, the councillor motioned for Lupin to continue the song in {{ilken}}. The candidates always performed the last chorus alone, as proof of their mastery of the language. Lupin did well enough, despite missing a few notes, while Mago's performance was pitch perfect. There were other tests, which included recitations and improvised verses, again, Mago triumphed. Lupin's improvisations were noteworthy too, no one else could perform a verse as informative as the nutritional value of a looma root. Then, came the last trial, a reading of their family history. Every Verido's skin bore patterns, a series of lines and dots, etched in deep, like veins on a leaf. Few could read them, here in Volare there was {{Pumra}}, a Verido of 233 years. 
+  & The singing came to a full stop. All in the room quieted, and the councillor motioned for Lupin to continue the song in {{ilken}}. The candidates always performed the last chorus alone, as proof of their mastery of the language. Lupin did well enough, despite missing a few notes, while Mago's performance was pitch perfect. There were other tests, which included recitations and improvised verses, again, Mago triumphed. Lupin's improvisations were noteworthy too, no one else could perform a verse as informative as the nutritional value of a looma root. Then, came the last trial, a reading of their family history. Every Verido's skin bore patterns, a series of lines and dots, etched in deep, like veins on a leaf. Few could read them, here in Volare there was {{Pumra}}, a Verido of 233 years, and Rosmus.
 
-  & "Disrobe please," Pumra said, standing up and approaching Lupin first. The counsellor was short, and had long wispy brows, it was hard to resist reaching forward to tie them up together in a bow, it was likely that Mago had that same thought, a smile danced on both of their mouths. Pumra's finger traced along Lupin’s body, following the blue lines, "my mind has lost none of its precision, but these hands do tremble a great deal more than I'd like" the elder said in a whisper, looking more sad than angry, no doubt that Pumra feared that this was the end of the practice of skin reading.
+  & "Disrobe please," Pumra said, standing up and approaching Lupin first. The counsellor was short, and had long wispy brows, it was hard to resist reaching forward to tie them up together in a bow, it was likely that Mago had that same thought, a smile danced on both of their mouths. Pumra's finger traced along Lupin’s body, following the blue lines. "My mind has lost none of its precision, but these hands do tremble a great deal more than I'd like," the elder said in a whisper, looking more sad than angry. "I can't bear the thought of this skill being lost to the world... how else will we know to read the names of those who haven't sprouted yet?"
 
-  & "Maybe you can train another?" Lupin said.
+  & "I'll speak to Rosmus," Lupin said.
 
-  & "There is no time," Pumra let out a deep sigh, "I am... proud. Susceptible to overestimating the health of my mind." The counsellor returned to reading, muttering names and words in a hushed voice for some time, and then the reading ended. “Very good." 
+  & Pumra was relieved to hear this, and gave a light nod to show thanks. The counsellor returned to reading, muttering names and words in a hushed voice for some time, and then the reading ended. “Lupin, Levi, Laggra & Lunav. Sproutlings of Volare, same {{klorea}} coursing through your veins. Very good." 
 
   & Then came Mago's turn, Pumra followed the patterns, mumbling. The set of wrinkled hands then touched a patch of rough skin, a burn, the counsellor looked dismayed. “I cannot read you.” The finger lay on an old wound, carved there, on Mago's backside. Armyn was distraught, recalling the event that caused it. Years ago, the Ilk stepped into a deep crevice - a rare occurrence. The violence of the motion made the city tremble. Armyn, a hot kettle in hand, lost control and the scalding liquid left a lasting mark on Mago. Mago knew what this meant, and began to sweat.
 
@@ -192,25 +202,41 @@ Voice of the ilk
 
   & Rosmus was busy putting another pot together, grinding carapace shavings into a fine powder with a mortar and pestle, "Vol is well?"
 
-  & Lupin nodded, "I'm not though. What did you mean when you said times are changing?"
+  & Lupin nodded, "Yea. I'm not though. Mago has been avoiding me."
 
-  & "Can't you feel it? I do, in my head and in my gut."
+  & "Mago needs time, that is all."
 
-  & "Are you sure it's not sickness? Or indigestion?"
+  & "Did you know Mago had a burn?"
 
-  & Rosmus mixed a handful of powder with a crushed water stone, and began to massage it into shape, gradually adding more water or more powder as needed. "We are not bound by anything, we never were. Others create rules and traditions to keep us contained and content, I am not content, I decided I did not want this, I have too much ambition for that, and so do you!"
+  & Rosmus did not look at Lupin, and continued to pulverise some more shavings, "I did, yes."
 
-  & "Are you leaving the Ilk? It sounds like you are."
+  & "So that's how you knew."
 
-  & "I follow my heart."
+  & "Ears and eyes Lupin."
 
-  & Lupin was upset, "does Pumra know? Pattern reading is a dying art, and it will die with you if you leave."
+  & "Is that why you don't want to do readings anymore?"
 
-  & "And what of it? Our history now sits in books, our letterer makes sure of it. Vol doesn't care about patterns or bloodlines, we do, we rely on surpersition and half-baked rituals because we are afraid."
+  & "I can't abide supersition, nor do I care for tradition for the sake of tradition. Muddy pft, what nonsense. Mago's lineage was clear as day." Rosmus mixed a handful of powder with a crushed water stone, and began to massage it into shape, gradually adding more water or more powder as needed. 
 
-  & "Afraid of what?" Lupin asked, but in truth, did not want to know the answer.
+  & "If you'd done the reading, you could have changed things!" Because Rosmus said nothing, Lupin piped up again, "so what are you going to do then?"
 
-  & "Hm, maybe you need more years on you, we'll talk again when your left ear gets its twist." While talking, Rosmus had already shaped the ball into a recipient, which was then placed onto Lupin's lap, "what I can tell you, is that we shape our own lives Lupin."
+  & "I follow my tu-tumping heart, and right now it's telling me that pottery is the most important thing. Thinking of going off to sell my wares, Finiku love Verido pottery."
+
+  & Lupin was upset. "You're leaving the Ilk? Pattern reading is a dying art, and it will die with you if you leave!"
+
+  & "It's an art yes – well, it used to be. Name interpretation. Um. I like that part of it still. We don't need this though. Land-dwellers name themselves – did you know this?" Rosmus smiled, saying this. "Pattern reading, as it is now, has become a matter of supersition. Vol doesn't care about patterns or klorealines, we do. We rely on half-baked rituals because we are afraid."
+
+  & "Afraid of what? What do you know?" Lupin asked, but in truth, did not want to know the answer.
+
+  & "That our future is not certain, and that your presence at the ear doesn't guarantee a thing," while talking, Rosmus had already shaped the ball into a recipient, and was about to start carving shapes onto the outer sides of the bowl, but decided instead to reach into a bag for an object, which was then placed onto Lupin's lap. "Here, I made you a tea cup." A braid of isilk was coiled around its handle, "You can tie it to your belt with it, carry it around, maybe have a cup at the ear. Tea is good for thinking."
+
+  & "I already have a tea cup."
+
+  & "Yea, I've seen it, this one is better." Rosmus grabbed the cup again, and set it atop Lupin's head, "it's a thinking cup. Forces you to look at the world, to question everything. If you need to have a long think, fill it with tea and set it atop your head. It works, you'll see."
+
+  & Lupin did not believe this. Not at all. And wanted to hear more of the uncertainty of their future on the Ilk, but in truth this mind did not want to think of it. "I don't need a cup of tea on my head to think," the Verido said, removing the cup from its perch, "I'll look ridiculous."
+
+  & Rosmus laughed, but said nothing else and continued to crush more powder - making other 'thinking tea cups' maybe. 
 
   > <hr/>
 
@@ -230,19 +256,15 @@ Voice of the ilk
 
   & Mago had heard everything. It was true that Armyn's paranoia did make things worse, "it's the Ilk's fault... it's the Ilk. It made me do it, I didn't mean to drop the kettle". They fed each other poison, one with this unending silence and the other with misguided accusations, this night ushered in a veil of unease in which many dark thoughts had time to take root and unfold themselves. Every night, Mago had dreams, it was always the same.
 
-  & {_They were at the Ilk's ear, Mago had hands on Lupin’s shoulders, sharp nails digging in deep. Words sounded from Mago's throat, but the voice was foreign and cruel.
-
-  & "You asked the Ilk to burn me didn't you? It was you!"
-
-  & The voice came from a dormant thing that had long festered inside this body, Mago smiled then, and pushed Lupin backwards and off the Ilk with surprising ease.
-
-  & The body hit the side of the Ilk's neck as it went down, the bones cracked with every contact.
-
-  & "Crack, crick, crack!"
-
-  & Lupin seemed to weigh a ton, there was crick-cracking all the way down, like the body was coming apart. All sounds had vanished from the world, all, but the crick-cracking of Lupin's bones. 
-
-  & When the body hit the sand floor, it cracked into pieces, like a brittle piece of stone._}
+  > <ul>
+  > <li>{_"They were at the Ilk's ear, Mago had hands on Lupin’s shoulders, sharp nails digging in deep. Words sounded from Mago's throat, but the voice was foreign and cruel.</li><br>
+  > <li>"You asked the Ilk to burn me didn't you? It was you!"</li><br>
+  > <li>The voice came from a dormant thing that had long festered inside this body, Mago smiled then, and pushed Lupin backwards and off the Ilk with surprising ease.
+  > <li>The body hit the side of the Ilk's neck as it went down, the bones cracked with every contact.</li><br>
+  > <li>"{*Crack, crick, crack!*}"</li><br>
+  > <li>Lupin seemed to weigh a ton, there was crick-cracking all the way down, like the body was coming apart. All sounds had vanished from the world, all, but the <li>crick-cracking of Lupin's bones. </li><br>
+  > <li>When the body hit the sand floor, it cracked into pieces, like a brittle piece of stone."_}</li>
+  > </ul>
 
   & Each time Mago would wake, feeling nauseous and guilty, no amount of positive thinking could chase those horrible images away. Lupin was a friend, one Mago cared very much for, getting rid of this rage was more important than grieving, there was no telling how such thoughts could affect the mind. Already, there was an itch there, a dark sludgy patch that was hard at work assimilating Mago's remaining good thoughts. No doubt Armyn too, had fallen prey to it. The only way to get rid of the sludgy patch, was to find Lupin, and to apologize for disappearing. Mago had been a bad friend. It was time to let go and to move on to something else, otherwise it would destroy this family. There were plenty of things to do on the Ilk, in fact, Lupin had hoped to become a Hand after the ceremony. Hands were responsible for ridding the Ilk of parasites. They would inspect every inch of the creature for wounds.
 
@@ -277,6 +299,8 @@ Voice of the ilk
   & A sense of dread overcame the Verido then, "this can't be real. It can't be. They'll blame me for it, they'll think I did it." Mago felt dizzy, and continued to pull, "this can't be real." Then came the end of the line, and no Lupin. Tears welled up in Mago's eyes. "LUPIN!"
 
 Bed of dust
+  * Bed of dust
+  + Chapter 2
   % content/fauna.hyroo.jpg
   & Lupin could hear a scream – was it the wind? Or was it the sound of life leaving this body? If there could ever be such a thing. The sound was unbearable, a prolonged high-pitched cry that caused this heart great pain. This mind did fear death, but didn't think that it would part with the flesh in flight, contrary to what the elders in Volare believed.
 
@@ -290,21 +314,27 @@ Bed of dust
 
   > <hr/>
 
-  & {_"The seeds we sow, we sow. _}
-  & {_The leaves, the light, they know, they know. _}
-  & {_The sprouts, they grow, they grow._}
-  & {_Heart and mind, below, below. _}
-  & {_This song they follow, they follow, _}
-  & {_Out of the earth. Oh, beautiful ones._}
-  & {_Hello, hello."_}
+  > <ul>
+  > <li>{_"The seeds we sow, we sow. _}</li>
+  > <li>{_The leaves, the light, they know, they know. _}</li>
+  > <li>{_The sprouts, they grow, they grow._}</li>
+  > <li>{_Heart and mind, below, below. _}</li>
+  > <li>{_This song they follow, they follow, _}</li>
+  > <li>{_Out of the earth. Oh, beautiful ones._}</li>
+  > <li>{_Hello, hello."_}</li>
+  > </ul>
 
   > <hr/>
 
-  & {_"Hello, hello."_} 
+  > <ul>
+  > <li>{_"Hello, hello."_} </li>
+  > </ul>
 
   & With eyes closed, the Verido could feel sand amassing over the legs and torso. The desert was not wasting time burying this body, nothing would be left of it soon. 
 
-  & {_"Below, below."_}
+  > <ul>
+  > <li>{_"Below, below."_}</li>
+  > </ul>
 
   & Bits of broken crossbars lay scattered in the sand. Small breaths escaped Lupin's mouth, but inside, the lungs longed for a rest.
 
@@ -338,13 +368,17 @@ Bed of dust
 
   &  to let go, to let go...
 
-  & {_"The seeds, we sow, we sow."_}
+  > <ul>
+  > <li>{_"The seeds, we sow, we sow."_}</li>
+  > </ul>
 
   > <hr/>
 
   & Lupin awoke again to a pained body, and more sorrowful thoughts some hours later. Though, at this point, even the brain had too little energy and will to conjure up such thoughts. 
 
-  & {_"The leaves, they grow, they grow."_}
+  > <ul>
+  > <li>{_"The leaves, they grow, they grow."_}</ul>
+  > </ul>
 
   & The song came easy, no effort required. It was a pleasant tune, the only thing tethering this mind to the earth.
 
@@ -384,7 +418,7 @@ Bed of dust
 
   & "Retna, Alpaninsis–"
 
-  & Uno pulled out some long poles and began to put up a tent, all this done with surprising speed, as if they'd erected it a thousand times. A vibrant orange carpet was set on the ground inside it, and the rest of the gear unpacked. Out of a large bag, the stranger pulled out a collection of herbs, a small kettle, mugs, some grains, plates, a crate of wet stones, plus a bag-full of other items. 
+  & Uno pulled out some long poles and began to put up a tent, all this done with surprising speed, as if they'd erected it a thousand times. A vibrant orange carpet was set on the ground inside it, and the rest of the gear unpacked. Out of a large bag, the stranger pulled out a collection of herbs, a small kettle, mugs, some grains, plates, a crate of waterstones, plus a bag-full of other items. 
 
   & Before long, Uno walked back over to Lupin, smiling. "You're only missing Aristollo."
 
@@ -452,7 +486,7 @@ Bed of dust
 
   > <hr/>
   
-  & They spent a few more weeks together, until Lupin was at near full strength. Uno packed up the patterned carpet and fabric, the herbs and wet stones too. With everything packed onto Kit, they looked like true world travellers. Kit was strong and could stand to have all this stuff as well as the weight of a rider. Before they parted ways, Uno presented a copy of "The tale of 3" and handed it to Lupin. 
+  & They spent a few more weeks together, until Lupin was at near full strength. Uno packed up the patterned carpet and fabric, the herbs and waterstones too. With everything packed onto Kit, they looked like true world travellers. Kit was strong and could stand to have all this stuff as well as the weight of a rider. Before they parted ways, Uno presented a copy of "The tale of 3" and handed it to Lupin. 
 
   & “For you,” the book was bound beautifully. "I transcribed it from an original, it's all true, all about your people. You may enjoy it." There was another gift too, but like the scarf, it already belonged to the Verido. The gift was Lupin's safety chute, the Verido had forgotten all about it, it had failed early on during the fall. The chute was taken apart and rolled up tight, it was now the size of a small loaf of bread. "Salvaged this for you, it was torn badly, I mended it. Fabric is hard to come by in these parts. You can use it for shelter." Uno also gave the 4 crossbars, these could also be used to give the shelter a proper shape.
 
@@ -465,7 +499,8 @@ Bed of dust
   & Lupin waved at the illogical giant, the one who looked down and extracted that sad, broken, pile of a creature from its deathbed. A thought came to mind then too, perhaps this body chose to fall off Vol's back, heavy with ambition and eager to see the world. It was silly to think such things, this Verido knew better. Like Rosmus purposely chose to not be a pattern reader, Lupin fell, having chosen not to learn how to tie decent knots.
 
 The mountain with no name
-
+  * The mountain with no name
+  + Chapter 3
   % content/fauna.vennec.jpg
 
   & Lupin marched towards the mountain, carrying a bag plump with supplies. Uno gave ample food for the difficult journey ahead, the bag contained a dozen waterstones, these would need to be rationed because these shoulders could not carry more. The bag also contained 5 loaves of {{teaweet}} bread and some root vegetables.
@@ -514,11 +549,12 @@ The mountain with no name
 
   & The air at the foot of the mountain was always thick with sand, but here, it was clear, and its perfume varied depending on the time of day. Maybe there was a flower guild, regulating smells using a timetable with slots allocated to each flower type. There was no need to cover one's nose with a scarf here, nor to cover skin from the harshness of the desert sun, Lupin had no need of a sweater either, it sat at the waist along with the vest that was underneath it. Lupin found a spot in the grass next to the wonder, and went to lie in it. Then sleep grabbed hold, and would not let go. The scent of the place and the softness of the bed of grass, a combination that could rob travel-worn visitors of their wakefulness with ease.
 
-  & Lupin dreamt of a city erected on the back of a giant hyroo. The inhabitants had braided the fur on its back into elaborate houses, patches of fur had been cut away to make space for people to walk unhindered. The children would play hide-and-seek in the forest of hair, laughter all around. A hatter made elaborate hats from the fur, twisted into high spirals or matted into various geometric shapes. Life here was idyllic and peaceful, a thing of envy. Lupin was a hyroo whisperer and would go to the head to laugh and whoop with the hyroo, the whooping sound traveling far across the world. In this dream then, Mago arrived and spoke so loudly, that the force of it threw the city, along with all its inhabitants off the hyroo's back. Again, the whisperer plummeted, but there was no end in sight. The hyroo leapt from one planet to the other, and bodies were adrift in space. This was not a fall, but a slow drift that would take you away into a sea of black, there were no stars here, the hyroo vanished in the distance. Shouting for help did nothing, the surrounding space was devoid of life. The suns had gone, this body did not feel the cold left it its absence, it was the same temperature as the surrounding air. Panicked, Lupin wept.
-
-  & "Not alone, not again." The voice fell on deaf ears, but the fear was too great. 
-
-  & "Not again!"
+  > <ul>
+  > <li>{_Lupin dreamt of a city erected on the back of a giant hyroo. The inhabitants had braided the fur on its back into elaborate houses, patches of fur had been cut away to make space for people to walk unhindered. The children would play hide-and-seek in the forest of hair, laughter all around. A hatter made elaborate hats from the fur, twisted into high spirals or matted into various geometric shapes. Life here was idyllic and peaceful, a thing of envy. Lupin was a hyroo whisperer and would go to the head to laugh and whoop with the hyroo, the whooping sound traveling far across the world._}</li><br>
+  > <li> {_In this dream then, Mago arrived and spoke so loudly, that the force of it threw the city, along with all its inhabitants off the hyroo's back. Again, the whisperer plummeted, but there was no end in sight. The hyroo leapt from one planet to the other, and bodies were adrift in space. This was not a fall, but a slow drift that would take you away into a sea of black, there were no stars here, the hyroo vanished in the distance. Shouting for help did nothing, the surrounding space was devoid of life. The suns had gone, this body did not feel the cold left it its absence, it was the same temperature as the surrounding air. Panicked, Lupin wept._}</li><br>
+  > <li> {_"Not alone, not again." The voice fell on deaf ears, but the fear was too great._}</li><br>
+  > <li> {_"Not again!"_}</li>
+  > </ul>
 
   & Then a noise propelled the Verido back into existence, the whooping sound from the dream was real! With eyes open, looking up, Lupin saw a large figure passing through the thick layer of clouds above, it landed opposite of the bed of grass, landing without a sound and without disturbing any of the droplets on the leaves. The beast had large round ears, like Kit, in fact, it looked very much like Kit.
 
@@ -578,7 +614,7 @@ The mountain with no name
 
   & It was possible the wonder had been asleep for ages, anyone else present would say that this behaviour was odd indeed. The Verido tried to ignore this, focusing on the question instead.  
 
-  & "Vol went by it a few years ago, not much left there. When the wet stone pit went dry everyone left."
+  & "Vol went by it a few years ago, not much left there. When the waterstone pit went dry everyone left."
 
   & Eka paced back and forth, making a mental note of this. "Um. Okay. Then Montore it is!"
 
@@ -599,26 +635,28 @@ The mountain with no name
   & Lupin fell silent, suddenly very afraid of Mepperpint.
 
   & Hush bounded off and carried them forward, this time there was nothing to fear, it was okay to join Eka in a laugh. This Verido of Volare was one step closer to forgetting life on the Ilk, that person was dead. Lupin was a creature of the world now. There was much mystery around Eka, but there would be time for answers later, for now, Lupin wanted to live in the present.
+  
 The sandfin
-
+  * The sandfin
+  + Chapter 4
   % content/flora.cactub.jpg
 
-  & Eka, Lupin and Hush wandered the desert, quenching their thirst with waterstones. Hush could no longer stand any weight on its back and walked behind them, panting. They could not get to Montore fast enough, though the thought of cake and tea did offer some motivation. During the walk, Eka sang about bam cakes, listing the ingredients aloud in song. Every song ended with a solo of groans and growls, courtesy of Lupin's empty belly.
+  & Eka, Lupin and {{Hush}} wandered the desert, quenching their thirst with {{waterstones}}. Hush could no longer stand any weight on its back and walked behind them, panting. They could not get to Montore fast enough, though the thought of cake and tea did offer some motivation. During the walk, Eka sang about bam cakes, listing the ingredients aloud in song. Every song ended with a solo of groans and growls, courtesy of Lupin's empty belly.
 
-  & "Ba-ba-ba-bam cakes! Ba-ba-ba-bam cakes!"
+  & {_"Ba-ba-ba-bam cakes! Ba-ba-ba-bam cakes!"_}
 
   > <hr/>
 
   > <ul>
-  > <li>Bam cakes recipe:</li><br>
-  > <li>700 plbs bams</li>
-  > <li>2 may leaves</li>
-  > <li>2 avoka nuts</li>
-  > <li>350 plbs nutshroos</li>
-  > <li>115 plbs bonions</li>
-  > <li>8 plbs dilly herbs</li>
-  > <li>50 plbs teaweet flour</li><br>
-  > <li>Instructions:</li><br>
+  > <li>{*Bam cakes recipe:*}</li><br>
+  > <li>{_700 plbs bams_}</li>
+  > <li>{_2 may leaves_}</li>
+  > <li>{_2 avoka nuts_}</li>
+  > <li>{_350 plbs nutshroos_}</li>
+  > <li>{_115 plbs bonions_}</li>
+  > <li>{_8 plbs dilly herbs_}</li>
+  > <li>{_50 plbs teaweet flour_}</li><br>
+  > <li>{*Instructions:*}</li><br>
   > <li>Remove skins from bams, and dice into cubes. Boil with a may leaf until soft.  While bams are softening, crack one avoka nut in a pan and sautee diced bonions and chopped nutshroos. Cook until all the liquid has evaporated, then let brown for an extra 5 minutes. Chop the dilly herbs, add to pan with nutshroos. Mix together and take off heat.</li><br>
   > <li>Drain bams, mash with a stone mortar and let cool. Add teaweet flour to mashed bams. Take a handful of bam dough and flatten into a disk, add some nutshroo mix into the center and cover with more bam dough. Crack another avoka oil in a pan, and fry for 5 minutes until golden, flip, and repeat.</li>
   > </ul>
@@ -626,7 +664,7 @@ The sandfin
 
   & "Please stop singing about food." Lupin said. 
 
-  & They'd tried to ration the teaweet bread, but Hush raided their stores in the night and all 5 loaves had already been digested. Both kept waterstones in their mouths, it helped in the absence of food. Saliva helped to draw out the water, in economical doses.
+  & They'd tried to ration the {{teaweet}} bread, but Hush raided their stores in the night and all 5 loaves had already been digested. Both kept waterstones in their mouths, it helped in the absence of food. Saliva helped to draw out the water, in economical doses.
 
   & "We're going to die out here."
 
@@ -634,19 +672,23 @@ The sandfin
 
   & "You know I haven't," Lupin said, every mention of the word 'eat' was the stomach's cue to start whining again, "and if what you're saying is true, then why aren't we finding anything."
 
-& "Because it's too hot!"
+  & "Because it's too hot!"
 
-& "Of course, only idiots would be out here in this heat."
+  & "Of course, only {_idiots_} would be out here in this heat."
 
-& "The things you say, it's like you're not of this world! When nightfall we should be able to find some."
+  & "The things you say, it's like you're not of this world! When nightfall we should be able to find some."
 
-& Lupin mumbled some words under breath, if anyone wasn't of this world it was Eka. It was true that this Verido, despite having read many books, did not know much of the desert. 
+  & Lupin mumbled some words under breath, if anyone wasn't of this world it was Eka. It was true that this Verido, despite having read many books, did not know much of the desert. 
 
   & They hadn't been traveling together long, but the Verido knew already that Eka didn't like to explain things. They walked for some time, and then stopped in a spot, that looked no different than anywhere else - to the untrained eye.
 
   & "We'll set camp here."
 
-  & Lupin was too tired and too hungry to complain. And so, using the chute, they built a makeshift tent. Come nightfall, Eka waited outside it, staring at the ground.
+  & Lupin was too tired and too hungry to complain. And so, using the chute, they built a makeshift tent. 
+
+  > <hr/>
+
+  & Come nightfall, Eka waited outside it, staring at the ground.
 
   & "Lew. Pssst! LEW! Come here."
 
@@ -660,7 +702,7 @@ The sandfin
 
   & "You're terrible at this."
 
-  & "This? I have no idea what THIS is!"
+  & "This? I have no idea what {*THIS*} is!"
 
   & "Lower your voice–" Eka commanded, "–and be still. When the stems come back out and the leaves open up, clap your hands together real fast. It'll stun them, and you can grab one – haven't you ever harvested cactubs before?
 
@@ -668,9 +710,15 @@ The sandfin
 
   & Eka laughed. "Only the best vegetable ever. I'll do it. Watch me."
 
-  & Like before, the cactub stems emerged, and the leaves opened up in a fan. Eka neared two hands to one of them, and then CLAP! Red grabbed the stem and pulled it out. The cactub was a bulbous root vegetable, purple and covered in little round nubs. They peeled the skin off, and ate slices of it for dinner. Cactub was soft and sweet on the inside, and had many seeds. 
+  & Like before, the {{cactub}} stems emerged, and the leaves opened up in a fan. Eka neared two hands to one of them, and then...
+
+  & {*CLAP!*} 
+
+  & Red grabbed the stem and pulled it out. The cactub was a bulbous root vegetable, purple and covered in little round nubs. They peeled the skin off, and ate slices of it for dinner. Cactub was soft and sweet on the inside, and had many seeds. 
 
   & "You can eat these too, or toss them. They'll grow back from the seed if you do that. For every two I eat, I toss one," saying this, Eka tossed one seed over the left shoulder.
+
+  & "Eat one-" Lupin said, chewing on a seed, "-toss one!" The other found its way back into the earth. They did this for a long while, smiling with every mention of {_'eat one'_} and {_'toss one.'_} 
 
   & Now with food in their bellies, they huddled-in together to stay warm, and to try to get some sleep. Their bodies ached, keeping them all very much awake. Eka looked at the sky and the stars, a finger tracing along the visible constellations and calling them by name.
 
@@ -686,17 +734,17 @@ The sandfin
 
   & Lupin didn’t like this idea at all. In part because somewhere within, lived a fear that the wonder would leave and not return. This Verido had lost too much already, and decided to get up to chase red. It was easy to spot that wild head of hair in the dark. They arrived at the low star, which turned out to be a light affixed to the stern of a vessel. It lay on its side, half-buried in the sand.
 
-  & “It’s a sandfin!” Lupin said circling it, making out the details of it in the dark was difficult. The hull was yellow, and flat-bottomed. Then Eka pointed to one of the portholes, there was the faint glow of a light. Someone was inside.
+  & “It’s a {{sandfin}}!” Lupin said circling it, making out the details of it in the dark was difficult. The hull was yellow, and flat-bottomed. Then Eka pointed to one of the portholes, there was the faint glow of a light. Someone was inside.
 
   & “Who’s in there?” Lupin called out.
 
   & A thin-eyed, short thing, came peering out of one of the portholes. 
 
-  & “I am most fearsome! I'm warning you!" a shrill voice said. "Where are you? Show yourself!" 
+  & “I am most fearsome! I'm warning you!" a shrill voice said. "Where are you? {*Show yourself*}!" 
 
-  & The creature stuck its face in the porthole, it contoured its large head perfectly. It looked like the sandfin had a face growing out of its side. The creature was a {{Finiku}}, large-eared with a wide flat face. The Finiku's hair was light and wild, not a single strand seemed to point in the same direction. Eka giggled, and watched as Lupin approached the porthole so the Finiku could see better. Even when standing close, still, the sandfinner's eyes looked everywhere but in the right place.
+  & The creature stuck its face in the porthole, it contoured its large head perfectly. It looked like the sandfin had a face growing out of its side. The creature was a {{Finiku}}, large-eared with a wide flat face. The Finiku's hair was light and wild, not a single strand seemed to point in the same direction. Eka giggled, and watched as Lupin approached the porthole so the Finiku could see better. Even when standing close, still, the {{sandfinner}}'s eyes looked everywhere but in the right place.
 
-  & "Are you apparitions?! Where are your bodies! Oh no, no, no, no! Did I stumble into the ash plains again? The sights I took this morning were no good! No good at all!"
+  & "Are you apparitions?! Where are your bodies! Oh no, no, no, no! Did I stumble into the {{ash plains}} again? The sights I took this morning were no good! No good at all!"
 
   & “What? No. We're fleshy people. We're right in front of you, can’t you see us?”
 
@@ -746,9 +794,11 @@ The sandfin
 
   & Nono nodded, the shaking of the head had ceased then too. "Of course! Finikus are prepared for anything! We can make another rudder. No problem. No, no, no problem at all! I have all the materials, everything we need!"
 
-  & All 3 got to work. Lupin realized just how terrible Nono's vision was. No one in their right mind would allow someone so blind to captain a ship. Eka gathered materials from inside the cabin, and all 3 began to devise a plan to build Nono’s sandfin a new rudder. They removed bits of the old one and took measurements. The rough shape they drew on the surface of a thick board, which Lupin believed, had once been a dinner table. They found a hacksaw too, stashed under a pile of spare lines. It was a quality tool, made of thin but strong metal. The name 'Ren' was inscribed on the handle. 
+  > <hr/>
 
-  & "Renate steel!" Nono said, "the very best sort!"
+  & All 3 got to work. Lupin realized just how terrible Nono's vision was. No one in their right mind would allow someone so blind to captain a ship. Eka gathered materials from inside the cabin, and all 3 began to devise a plan to build Nono’s sandfin a new rudder. They removed bits of the old one and took measurements. The rough shape they drew on the surface of a thick board, which Lupin believed, had once been a dinner table. They found a hacksaw too, stashed under a pile of spare lines. It was a quality tool, made of thin but strong metal. The name {_'Ren'_} was inscribed on the handle. 
+
+  & "{{Renate}} steel!" Nono said, "the very best sort!"
 
   & By then, each had their own task to perform. Lupin cut the board, Eka was shaving the skin from a banaboo stalk to make the rudder post, and Nono was busy retrieving bolts and nuts that would fit it. Tools and spares took up most of the space in the cabin, Eka wondered where Nono slept. They later learned that the sink was in fact a bed, all the bunks were dangerous due to the presence of lost bits of metal.
 
@@ -766,9 +816,9 @@ The sandfin
 
   & Lupin had heard of this, but did not think it to be true. Nono explained that while the sandfin had no need of fuel there was always a can stored on this vessel. Many towns had need of it, many used it for cooking fuel. And so, carrying some aboard meant that Nono could help out those who had no access to it - which was most people. The company responsible for the supply ships restricted access to it, but sometimes some of it would end up in the hands of people like Nono.
 
-  & "As a Verido, you know, know, know how big Ilk droppings can get! Supply ships follow the Ilk and wait – they process it all aboard afterwards, very profitable business, very profitable! My mapa always hoped I'd work on a supply ship and would always say 'you would make good coin!', on and on and on–" Nono's head shook again, recalling the things parents often said to their sproutlings. "You are so like your grand-mapa Etyl, not a coin in your pocket and always out there sandfinning."
+  & "As a Verido, you know, know, know how big Ilk droppings can get! {{Beobug}} supply ships follow the Ilk and wait – they process it all aboard afterwards, very profitable business, very profitable! My mapa always hoped I'd work on a supply ship and would always say 'you would make good coin!', on and on and on–" Nono's head shook again, recalling the things parents often said to their sproutlings. "You are so like your grand-mapa Etyl, not a coin in your pocket and always out there sandfinning."
 
-  & "Etyl is your grand-mapa?" Eka asked. "That name is known all over! First one to travel the whole of the land by sandfin!"
+  & "{{Etyl}} is your grand-mapa?" Eka asked. "That name is known all over! First one to travel the whole of the land by sandfin!"
 
   & Nono nodded. "Yes, yes! Did it alone too!" 
 
@@ -784,205 +834,17 @@ The sandfin
 
   & They unfurled the sails and set course for Tiputa, plowing through the sand and leaving a golden cloud in their wake. The sandfin was running downwind, with two blue wings pulling it along. The wind freshened, and the sands began to blow hard but handling a vessel with two more aboard was easy. Eka made sure the sails had a good shape, while Lupin kept an eye on the horizon, there was no trusting Nono’s eyes. The two crew members helped with navigation, making sure to avoid patches of hard soil. Nono had no sense of direction, and kept mistaking dunes for other sandfins. Despite these handicaps, this so-called captain was confident and blamed it all on bad light. One night the Finiku offered to make dinner, one they would remember for a long time. Nono served them something that stank of {{pomparu}}. Lupin joked that dinner had probably been scraped off of the hull, their pained stomachs agreed with this theory.
 
-  & Lupin asked about other sand-finners, Nono knew many, but made a point of saying that most were not nearly as qualified. The shock of that reply caused a chunk of looma root (a Volare favorite) to lodge itself in the Verido's throat. A few coughs and gasps and the piece flew across the cabin, and onto the wall. If Nono was the best sand-finner, it was terrifying to imagine what the others were like. Lupin pictured sandfins in piles lining a city, hulls kinked-up and full of holes with Nonos at the wheel. All were sickly-eyed and yelling out orders while pressing a crew - that had long since mutinied - to get under way. The worse of it being that these sure-footed captains, were unaware of the fact that their vessels lay broken and unmoving.
+  & Lupin asked about other sandfinners, Nono knew many, but made a point of saying that most were not nearly as qualified. The shock of that reply caused a chunk of looma root (a Volare favorite) to lodge itself in the Verido's throat. A few coughs and gasps and the piece flew across the cabin, and onto the wall. If Nono was the best sandfinner, it was terrifying to imagine what the others were like. Lupin pictured sandfins in piles lining a city, hulls kinked-up and full of holes with Nonos at the wheel. All were sickly-eyed and yelling out orders while pressing a crew - that had long since mutinied - to get under way. The worse of it being that these sure-footed captains, were unaware of the fact that their vessels lay broken and unmoving.
 
-  & Nono had brief moments of clarity, noting changes in the landscape with surprising accuracy. The crew thought it strange, surely there was no such thing as a condition that would better and worsen itself at random like this. Eka did not want to believe that Nono was a bad sandfinner. They spent a lot of time together on the vessel, and after a while they noticed a pattern. Nono's vision was especially bad after drinking from the water stone tank. To extract the water out of the stones, there was a foot pump in the galley. The pump would press the stones down, the water would then be funnelled down a tube and come out of a tap in the sink. Eka and Lupin still used their personal stock of stones for water, and so one morning they opened the tank. It was full of {{mudbears}}, tiny insects that burrow in wet stones, and that ooze a substance that contaminates the water inside. Nono had been drinking bad water this whole time, it was the cause of these recurring bouts of blurry vision and disorientation. Eka offered Nono wet stones from their supply, and after drinking from a good source the symptoms wore off. Nono's eyes no longer had that sick look, a pair of healthy orbs seemed to have changed the rest of the face completely. Eka went ahead and showed the contents of the tank to their skipper.
-
-The sandfin
-
-  % content/flora.cactub.jpg
-
-  & Eka, Lupin and Hush wandered the desert, quenching their thirst with water stones. Hush could no longer stand any weight on its back and walked behind them, panting. They could not get to Montore fast enough, though the thought of cake and tea did offer some motivation. During the walk, Eka sang about bam cakes, listing the ingredients aloud in song. Every song ended with a solo of groans and growls, courtesy of Lupin's empty belly.
-
-  & "Ba-ba-ba-bam cakes! Ba-ba-ba-bam cakes!"
-
-  > <hr/>
-
-  > <ul>
-  > <li>Bam cakes recipe:</li><br>
-  > <li>700 plbs bams</li>
-  > <li>2 may leaves</li>
-  > <li>2 avoka nuts</li>
-  > <li>350 plbs nutshroos</li>
-  > <li>115 plbs bonions</li>
-  > <li>8 plbs dilly herbs</li>
-  > <li>50 plbs teaweet flour</li><br>
-  > <li>Instructions:</li><br>
-  > <li>Remove skins from bams, and dice into cubes. Boil with a may leaf until soft.  While bams are softening, crack one avoka nut in a pan and sautee diced bonions and chopped nutshroos. Cook until all the liquid has evaporated, then let brown for an extra 5 minutes. Chop the dilly herbs, add to pan with nutshroos. Mix together and take off heat.</li><br>
-  > <li>Drain bams, mash with a stone mortar and let cool. Add teaweet flour to mashed bams. Take a handful of bam dough and flatten into a disk, add some nutshroo mix into the center and cover with more bam dough. Crack another avoka oil in a pan, and fry for 5 minutes until golden, flip, and repeat.</li>
-  > </ul>
-  > <hr/>
-
-  & "Please stop singing about food." Lupin said.
-
-  & They'd tried to ration the teaweet bread, but Hush raided their stores in the night and all 5 loaves had already been digested. Both kept waterstones in their mouths, it helped in the absence of food. Saliva helped to draw out the water, in small doses.
-
-  & "We're going to die out here."
-
-  & Eka did not look worried. "Food comes out at night, while all sleep."
-
-  & "What do you mean by that?"
-
-  & They hadn't been traveling together long, but the Verido knew already that Eka didn't like to explain things. They walked for some time, and then stopped in a spot, that looked no different than anywhere else to the untrained eye.
-
-  & "We'll set camp here."
-
-  & Lupin was too tired and too hungry to complain. And so, using the chute, they built a makeshift tent. Come nightfall, Eka waited outside it, staring at the ground.
-
-  & "Lew. Pssst! LEW! Come here."
-
-  & Lupin groaned, rolling over to Eka outside. The fabric of the chute wasn't very big, it didn't make a proper shelter at all, just a small canopy under which they could lie. A lot of it was already filled with Hush's gigantic head, but the beast could not be persuaded to move. "What is it?"
-
-  & Red pointed over to a collection of little stems pushing out of the soil, a fan of leaves opened up at the ends. 
-
-  & "Take the one closest to you," Eka whispered. 
-
-  & Lupin went to grab it, but all of the fanned stems went to hide back into the soil.
-
-  & "You're terrible at this."
-
-  & "This? I have no idea what THIS is!"
-
-  & "Lower your voice–" Eka commanded, "–and be still. When the stems come back out and the leaves open up, clap your hands together real fast. It'll stun them, and you can grab one – haven't you ever harvested cactubs before?
-
-  & "No," Lupin said. "What's a {{cactub}}?"
-
-  & Eka laughed. "Only the best vegetable ever. I'll do it. Watch me."
-
-  & Like before, the cactub stems emerged, and the leaves opened up in a fan. Eka neared two hands to one of them, and then CLAP! Red grabbed the stem and pulled it out. The cactub was a bulbous root vegetable, purple and covered in little round nubs. They peeled the skin off, and ate slices of it for dinner. Cactub was soft and sweet on the inside, and had many seeds. 
-
-  & "You can eat these too, or toss them. They'll grow back from the seed if you do that. For every two I eat, I toss one," saying this, Eka tossed one seed over the left shoulder.
-
-  & Now with food in their bellies, they huddled-in together to stay warm, and to try to get some sleep. Their bodies ached, keeping them all very much awake. Eka looked at the sky and the stars, a finger tracing along the visible constellations and calling them by name.
-
-  & "Salarus, Vitali, Neoneve-"
-
-  & These names Eka recited every night before bed. The finger fell upon another star in the distance, lying low, and brighter than all others. A false star. It had taken some time for Lupin to doze off, Eka knew this but couldn't resist. 
-
-  & “Lew! Something! Over there!”
-
-  & Lupin turned to look, long-faced and red-eyed. “It's late. We’ll check it out in the morning.”
-
-  & Eka had no intention of postponing this discovery. "Fine, you stay. I’ll be back.” Halfway through the sentence Eka was up and racing towards the point of light in the dark.
-
-  & Lupin didn’t like this idea at all. In part because somewhere within, lived a fear that the wonder would leave and not return. This Verido had lost too much already, and decided to get up to chase red. It was easy to spot that wild head of hair in the dark. They arrived at the low star, which turned out to be a light affixed to the stern of a vessel. It lay on its side, half-buried in the sand.
-
-  & “It’s a sandfin!” Lupin said circling it, making out the details of it in the dark was difficult. The hull was yellow, and flat-bottomed. Then Eka pointed to one of the portholes, there was the faint glow of a light. Someone was inside.
-
-  & “Who’s in there?” Lupin called out.
-
-  & A thin-eyed, short thing, came peering out of one of the portholes. 
-
-  & “I am most fearsome! I'm warning you!" a shrill voice said. "Where are you? Show yourself!" 
-
-  & The creature stuck its face in the porthole, it contoured its large head perfectly. It looked like the sandfin had a face growing out of its side. The creature was a {{Finiku}}, large-eared with a wide flat face. The Finiku's hair was light and wild, not a single strand seemed to point in the same direction. Eka giggled, and watched as Lupin approached the porthole so the Finiku could see better. Even when standing close, still, the sandfinner's eyes looked everywhere but in the right place.
-
-  & "Are you apparitions?! Where are your bodies! Oh no, no, no, no! Did I stumble into the ash plains again? The sights I took this morning were no good! No good at all!"
-
-  & “What? No. We're fleshy people. We're right in front of you, can’t you see us?”
-
-  & "Much too dark, too dark!” The Finiku replied, disappearing below. They could hear noises, as the owner of the vessel searched the cabin for something. Then a beam of light flashed in Lupin’s face. “Hmm. A Verido and a–” the owner of the sandfin moved the light around, searching for whoever this Verido was with.
-
-  & “An Eka.” Eka said with a smirk, moving into the light.
-
-  & “A Verido and an Eka. Friendly?”
-
-  & Eka nodded. “Friendly and fleshy.”
-
-  & “Your sandfin needs some repairs?” Lupin asked, blinking to try and get the lights in these eyes to go away. The Finiku - that they came to know as Nono - explained to them what had happened.
-
-  & “Sandfin won't move, I haven't the faintest idea why!" Nono's eyes widened saying this, they were unusually clear and sickly-looking. Lupin saw there was plenty of light in the cabin, yet the sandfinner claimed to see nothing.
-
-  & “Right. Well, come daytime we’ll help you fix it."
-
-  > <hr/>
-
-  & The next morning, Nono emerged from the cabin and stood on deck. Lupin was up already, in truth, sleep had not come because of last night's events. Finikus had a unique physique, they were short pot-bellied creatures with long droopy ears. Those clear sick eyes were disturbing, it was likely that Nono suffered from a bad case of cataracts. Eka too arrived at the foot of the sandfin, waving hello to its captain.
-
-  & "Oh oooh! You are bigger than last night Eka," Nono said, standing right near the Hyroo and getting ready to shake hands with it. Hush let out a long whoop.
-
-  & "OH! OOOOh! What a morning voice!"
-
-  & Eka laughed. "This is Hush, was asleep last night during our introduction."
-
-  & "Ah I see, I see!"
-
-  & "See? Are you sure you can see?" Lupin asked mockingly, that Finiku's eyes definitely had a problem.
-
-  & Now that light fell upon the vessel, they could see that it had suffered much damage. The sandfin struck a rocky patch and the rudder was ripped out. Most of the hull looked alright, but the area where the rudder had been had a large gaping hole. Nono leapt off the side of the yacht, and went to stand with the others to look at the wreckage.
-
-  & The captain stood 3 heads shorter than they. "It's just a light kink! Oh, oh, ooooh, why won't it move!"
-
-  & "A kink? You serious?" Lupin said, outraged. "There's a giant hole there at the back of it!"
-
-  & "A hole you say? No, no, no!" 
-
-  & Nono eyes narrowed down, to try and see the hole, all the while taking steps forward. Even up close, the Finiku was un-phased by the damage. It was only when standing a foot from it that the hole came into view.
-
-  & "Oh dear, oh dear, oh dear–" 
-
-  & Nono's head shook from side to side, there was no stopping it. Eka went to stand closer, as if to offer moral support, and even laid a hand over the Finiku's shoulder in an attempt to steady that tottering head.
-
-  & "You have materials on board?"
-
-  & Nono nodded, the shaking of the head had ceased then too. "Of course! Finikus are prepared for anything! We can make another rudder. No problem. No, no, no problem at all! I have all the materials, everything we need!"
-
-  & All 3 got to work. Lupin realized just how terrible Nono's vision was. No one in their right mind would allow someone so blind to captain a ship. Eka gathered materials from inside the cabin, and all 3 began to devise a plan to build Nono’s sandfin a new rudder. They removed bits of the old one and took measurements. The rough shape they drew on the surface of a thick board, which Lupin believed, had once been a dinner table. They found a hacksaw too, stashed under a pile of spare lines. It was a quality tool, made of thin but strong metal. The name 'Ren' was inscribed on the handle. 
-
-  & "Renate steel!" Nono said, "the very best sort!"
-
-  & By then, each had their own task to perform. Lupin cut the board, Eka was shaving the skin from a banboo stalk to make the rudder post, and Nono was busy retrieving bolts and nuts that would fit it. Tools and spares took up most of the space in the cabin, Eka wondered where Nono slept. They later learned that the sink was in fact a bed, all the bunks were dangerous due to the presence of lost bits of metal.
-
-  & "Tried to sleep on there once," Nono began, "but I woke up with a set of nails in my side." Saying this, the Finiku showed the marks they had left behind. Lupin gasped, noticing there was another bit of stray metal in there still.
-
-  & "Oh no, no, no."
-
-  & The nail was taken out, somehow it lodged itself in there during the night. Even the sink was not free of dangers it seemed. All continued their work. Lupin was fascinated by the sandfin, they were a common sight while traveling on the Ilk. The sandfins looked tiny from up there, the colour of their sails and the dust rising with their passing was all anyone could make out.
-
-  & “What's that?” Lupin asked, pointing to a green jerry can that was store on deck, "plumpkin juice?”
-
-  & “Best renewable and combustible matter in the {{central rim}}," Nono said.
-
-  & "Ilk droppings!" Eka said, then glimpsed the look on Lupin’s face and laughed.
-
-  & Lupin had heard of this, but did not think it to be true. Nono explained that while the sandfin had no need of fuel there was always a can stored on this vessel. Many towns had need of it, many used it for cooking fuel. And so, carrying some aboard meant that Nono could help out those who had no access to it - which was most people. The company responsible for the supply ships restricted access to it, but sometimes some of it would end up in the hands of people like Nono.
-
-  & "As a Verido, you know, know, know how big Ilk droppings can get! Supply ships follow the Ilk and wait – they process it all aboard afterwards, very profitable business, very profitable! My mapa always hoped I'd work on a supply ship and would always say 'you would make good coin!', on and on and on–" Nono's head shook again, recalling the things parents often said to their sproutlings. "You are so like your grand-mapa Etyl, not a coin in your pocket and always out there sand-finning."
-
-  & "Etyl is your grand-mapa?" Eka asked. "That name is known all over! First one to travel the whole of the land by sandfin!"
-
-  & Nono nodded. "Yes, yes! Did it alone too!" 
-
-  & They completed the construction of their make-shift rudder and put it back into place, they also began work on patching up that hole around it. All the while, listening to stories of Etyl and the early days of sand-finning.
-
-  > <hr/>
-
-  & After a day of hard work, Nono tested out the rudder and saw no problem with it. Nono couldn't believe it. The hull was missing paint, but was otherwise immaculate.
-
-  & "I have to make a delivery to {{Tiputa}} village, you can come along if you like!”
-
-  & Lupin and Eka were happy to join the crew, Nono didn’t mind Hush coming along too and said that the sandfin could use the extra weight at the stern.
-
-  & They unfurled the sails and set course for Tiputa, plowing through the sand and leaving a golden cloud in their wake. The sandfin was running downwind, with two blue wings pulling it along. The wind freshened, and the sands began to blow hard but handling a vessel with two more aboard was easy. Eka made sure the sails had a good shape, while Lupin kept an eye on the horizon, there was no trusting Nono’s eyes. The two crew members helped with navigation, making sure to avoid patches of hard soil. Nono had no sense of direction, and kept mistaking dunes for other sandfins. Despite these handicaps, this so-called captain was confident and blamed it all on bad light. One night the Finiku offered to make dinner, one they would remember for a long time. Nono served them something that stank of {{pomparu}}. Lupin joked that dinner had probably been scraped off of the hull, their pained stomachs agreed with this theory.
-
-  & Lupin asked about other sand-finners, Nono knew many, but made a point of saying that most were not nearly as qualified. The shock of that reply caused a chunk of looma root (a Volare favorite) to lodge itself in the Verido's throat. A few coughs and gasps and the piece flew across the cabin, and onto the wall. If Nono was the best sand-finner, it was terrifying to imagine what the others were like. Lupin pictured sandfins in piles lining a city, hulls kinked-up and full of holes with Nonos at the wheel. All were sickly-eyed and yelling out orders while pressing a crew - that had long since mutinied - to get under way. The worse of it being that these sure-footed captains, were unaware of the fact that their vessels lay broken and unmoving.
-
-  & Nono had brief moments of clarity, noting changes in the landscape with surprising accuracy. The crew thought it strange, surely there was no such thing as a condition that would better and worsen itself at random like this. Eka did not want to believe that Nono was a bad sand-finner. They spent a lot of time together on the vessel, and after a while they noticed a pattern. Nono's vision was especially bad after drinking from the water stone tank. To extract the water out of the stones, there was a foot pump in the galley. The pump would press the stones down, the water would then be funnelled down a tube and come out of a tap in the sink. Eka and Lupin still used their personal stock of stones for water, and so one morning they opened the tank. It was full of {{mudbears}}, tiny insects that burrow in wet stones, and that ooze a substance that contaminates the water inside. Nono had been drinking bad water this whole time; it was the cause of these recurring bouts of blurry vision and disorientation. Eka offered Nono wet stones from their supply, and after drinking from a good source the symptoms wore off. Nono's eyes no longer had that sick look, a pair of healthy orbs seemed to have changed the rest of the face completely. Eka went ahead and showed the contents of the tank to their skipper.
+  & Nono had brief moments of clarity, noting changes in the landscape with surprising accuracy. The crew thought it strange, surely there was no such thing as a condition that would better and worsen itself at random like this. Eka did not want to believe that Nono was a bad sandfinner. They spent a lot of time together on the vessel, and after a while they noticed a pattern. Nono's vision was especially bad after drinking from the water stone tank. To extract the water out of the stones, there was a foot pump in the galley. The pump would press the stones down, the water would then be funnelled down a tube and come out of a tap in the sink. Eka and Lupin still used their personal stock of stones for water, and so one morning they opened the tank. It was full of {{mudbears}}, tiny insects that burrow in waterstones, and that ooze a substance that contaminates the water inside. Nono had been drinking bad water this whole time, it was the cause of these recurring bouts of blurry vision and disorientation. Eka offered Nono waterstones from their supply, and after drinking from a good source the symptoms wore off. Nono's eyes no longer had that sick look, a pair of healthy orbs seemed to have changed the rest of the face completely. Eka went ahead and showed the contents of the tank to their skipper.
 
   & “Oh, no, no, no! That explains a lot! Usually, my passages are not so so so difficult! I thought this was due to the land of variable sands.” 
 
-  & Nono laughed, realizing how terrible it would have been to not have met them, no doubt that the sandfin would still be rudderless. Lupin was against handing the tiller over at first, but Eka explained that the sickness was to blame and that all Finiku were fantastic sand-finners. This was a fact, everyone knew this, most were born and raised in those vessels. It was in their blood.
+  & Nono laughed, realizing how terrible it would have been to not have met them, no doubt that the sandfin would still be rudderless. Lupin was against handing the tiller over at first, but Eka explained that the sickness was to blame and that all Finiku were fantastic sandfinners. This was a fact, everyone knew this, most were born and raised in those vessels. It was in their {{klorea}}.
 
   & They arrived at their destination, within a few days time. Nono thanked them for their help.
 
-  & “Must have caught those mudbears when I filled up at that old waterstone pit in Kippu. The villagers said it was a clean source. It's possible that they too, had these symptoms. I do do remember the Kippuans running into still objects a whole lot.”
-  & “Oh, no, no, no! That explains a lot! Usually, my passages are not so so so difficult! I thought this was due to the land of variable sands.” 
-
-  & Nono laughed, realizing how terrible it would have been to not have met them, no doubt that the sandfin would still be rudderless. Lupin was against handing the tiller over at first, but Eka explained that the sickness was to blame and that all Finiku were fantastic sand-finners. This was a fact, everyone knew this, most were born and raised in those vessels. It was in their blood.
-
-  & They arrived at their destination, within a few days time. Nono thanked them for their help.
-
-  & “Must have caught those mudbears when I filled up at that old waterstone pit in Kippu. The villagers said it was a clean source. It's possible that they too, had these symptoms. I do do remember the Kippuans running into still objects a whole lot.”  
+  & “Must have caught those mudbears when I filled up at that old waterstone pit in {{Kippu}}. The villagers said it was a clean source. It's possible that they too, had these symptoms. I do do remember the Kippuans running into still objects a whole lot.”
 
 `).parse();
 
