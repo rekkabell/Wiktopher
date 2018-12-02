@@ -7,6 +7,21 @@ KIPPU
   TEXT
     & A Finiku road-side town of the {{Soronan desert}}.
 
+MONTORE
+  TYPE : Locations
+  TEXT
+    & Montore is situated on the {*Central Rim*}, north of Edonor and Renate, and is one of the largest cities of the land, second only to Edonor. It is known for its extravagances, for being technologically advanced, with a giant wind-powered cog generating power for the whole of the city. There is talk of the city converting to gas for power, thanks to Beobug. Food stamps are prevalent here, and is the main source of nutrition. Coin was also invented here, to simplify exhanges. Montore is the residence of the Grand Leader Monty.
+
+SUVALBA SANCTUARY
+  TYPE : Locations
+  TEXT :
+    & After the fall of Ministe, some of the surviving Terins created the sanctuary to provide a safe haven for growing sproutlings. It became a seed repository, for all the plants in the Soronan desert.
+
+MINISTE
+  TYPE : Locations
+  TEXT :
+    & Ministe is the Terin capital, once a grand and green place, where every variety of greenery could be found. They were the main exporters of fruits and vegetables, and its habitants often went on long pilgrimages to other cities to help them create green spaces. The pilgrimages and the exports stopped when the Iridi attacked the city, taking all of its workforce to work in the Irideri mines. 
+
 VOLARE
   TYPE : Locations
   TEXT
@@ -60,7 +75,7 @@ TIPUTA
 RENATE
   TYPE : Locations
   TEXT
-    & Renate is an old refugee town, many sought shelter there after the {*Iridi*} Raids of {*Moera*}. A famous steel-master resides there. 
+    & Renate is an old refugee town, now the residence of many Aodals that has evolved into a massive tent city. Many sought shelter there after the {*Iridi*} Raids of {*Moera*}. A famous steel-master resides there. 
 
 EDONOR
   TYPE : Locations
@@ -68,6 +83,11 @@ EDONOR
     & The birthplace of {{Orin}} the tailor, and their grand-mapa {{Nok}}. Edonor is a modern city, a fortress, made this way to keep out the Iridi foot soldiers during the raids. It is now inhabited by a mixture of Finiku, Terins and Aodals. 
 
 ~ Characters
+
+WALDEK
+  TYPE : Characters
+  TEXT
+    & A corpulent {{leafhound}} and resident of {{Zucca}}'s oasis. Waldek is always hungry, but also deceptively wise.
 
 PONOPO
   TYPE : Characters
@@ -103,6 +123,16 @@ MALISS
   TYPE : Characters
   TEXT  
     & A {{Verido}} and head of the {{Volare}} nursery, responsible for ensuring the sprouts grow healthy, and for making sure that the population on the {{Ilk}} is kept in good numbers.
+
+KUZI
+  TYPE : Characters
+  TEXT
+    & A {{Terin}} and resident of {{Montore}}. Kuzi has an addiction to Kavava, and has much trouble functionning in the world. Kuzi means well, but doesn't navigate well in this world without the aid of this mind-numbing plant, paralyzed by a lack of purpose in the world.
+
+AVERET
+  TYPE : Characters
+  TEXT
+    & An {{Aodal}} and guard of the city of {{Montore}}. Averet longs for bigger things in life, but never makes the effort to move towards that goal and complains of it constantly.
 
 ENCE
   TYPE : Characters
@@ -152,7 +182,7 @@ BAO
 MOERA
   TYPE : Characters
   TEXT 
-    & The first monarch of the {*Iridi*}, responsible for the infamous Iridi Raids. This monarch was obssessed with the {*Chloromyce shroos*}, this caused the Iridi to become a fighting, cruel nation. Moera renounced the sun entirely, and brought the Iridi people into an age of perpetual darkness.
+    & The first monarch of the {*Iridi*}, responsible for the infamous {*Iridi Raids*}. This monarch was obssessed with the {*Chloromyce shroos*}, this caused the Iridi to become a fighting, cruel nation. Moera renounced the sun entirely, and brought the Iridi people into an age of perpetual darkness.
 
 ADEL
   TYPE : Characters
@@ -172,22 +202,27 @@ VOL
 PUMRA
   TYPE : Characters
   TEXT
-    & The eldest in the village, at 233 years old, Pumra is the only one who can interpret Verido markings and assign a new Voice. 
+    & The eldest in the village, Pumra is the only one who can interpret Verido markings and assign a new Voice. 
 
 EKA
   TYPE : Characters
   TEXT
-    & A red haired wonder, that Lupin awoke atop the mountain with no name. They now travel together, although there is a lot of mystery around this Eka.
+    & A red haired wonder, that Lupin awoke atop a mountain with no name. They now travel together, although there is a lot of mystery around this Eka.
 
 MELANZA
   TYPE : Characters
   TEXT 
-    & {*Melanza*} is a {{Terin}}, infinitely kind and generous, known for traveling amongst the 3 Ilks to give them advice, on how to grow food with limited resources. Melanza, like many other Terins, has disappeared. 
+    & {*Melanza*} is a {{Terin}}, infinitely kind and generous, known for traveling amongst the 3 Ilks to give them advice, on how to grow food with limited resources. Melanza also taught them to care for the Ilk, and to keep population under control.
 
 ORIN
   TYPE : Characters
   TEXT 
-    & {*Orin*} is a {{Finiku}}, sprout of {{Nok}} and grand-mapa of {{Bou}}. Orin is a skilled tailor, trained by Nok, both worked in their workshop in {{Edonor}}. Orin loves fine thread, and loves to make risque items, using bright colours and complex patterns. Orin recently retired from work, and moved with Bou to {{Tiputa}}. 
+    & {*Orin*} is a {{Finiku}}, sprout of {{Nok}} and grand-mapa of {{Bou}}. Orin is a skilled tailor, trained by Nok, both worked in their workshop in {{Edonor}}. Orin loves fine thread, and loves to make risque items, using bright colours and complex patterns. 
+
+MONTY
+  TYPE : Characters
+  TEXT :
+    & Grand leader of the city of {*Montore*}, revered by many. {*Monty*} is a genius and inventor who has propelled Montore to fame, with such inventions as: coin as currency, the great cog and {*food stamps*}.
 
 NOK
   TYPE : Characters
@@ -201,10 +236,20 @@ BOU
 
 ~ Fauna
 
+LEAFHOUND
+  TYPE : Fauna
+  TEXT
+    & Leafhounds are orange, leaf-tailed and have a set of antennae on their heads. They live amongst Terins, there are less of them now because of the events in Ministe and Suvalba. They guard nurseries and fields of produce, keeping them safe, while checking on their health with their antennae. 
+
+FLOATERS
+  TYPE : Fauna
+  TEXT 
+    & A round floating creature, that changes colour depending on its mood. It is orange when normal, red when angry, and yellow when confused. They have a set of tiny wings on their sides, tiny black dots for eyes and a slit for a mouth. They live in small groups, and love sweet grass. If threatened, the creature will throw itself upon an enemy, its skin is like goo and sticks to its victims. The skin can become as hot as hot coals, prolonged exposure can kill.
+
 POMPARU
   TYPE : Fauna
   TEXT
-    & A creature, feared by all, because of its horrid stink. Pomparu are plump, pale, six-legged creatures, they bear spots over their bodies. They like stinky things, and are drawn to them. 
+    & A creature, feared by all, because of its horrid stink. Pomparu are plump, pale, six-legged creatures, they bear spots over their bodies. They like stinky things, and are drawn to them. The word 'pomparu' is sometimes used as an insult, or used to describe a foul-smelling food , person or object.
 
 ILK
   TYPE : Fauna
@@ -224,10 +269,10 @@ HYROO
     & Hyroos are large creatures with big rounded ears and strong hind legs, they have sand-colored fur, with darker spots on their bodies. Their snouts are large, they can smell and hear things from far away. These beasts are known for being able to run and jump long distances with little effort, they grow in moist environments, although they are thought to be extinct.
     % content/fauna.hyroo.jpg
 
-SHESHELL CRABS
+SHESHELL KRABS
   TYPE : Fauna
   TEXT
-    & Sheshell crabs are pearly white creatures that bear a shell with a face. It is thought that if you do them harm, they will remember your face and chase you to the ends of the deserts. They have a near indestructible shell, it is used to make pottery and other hard materials. The world used to be populated by many of these creatures, changes in weather have caused many to die, but the disintegrated shells have contributed to much goods in the land. The sheshell crab dust helped form a hard membrane around the pearled-up water, thusly preserving the water of the planet near the surface.
+    & Sheshell krabs are pearly white creatures that bear a shell with a face. It is thought that if you do them harm, they will remember your face and chase you to the ends of the deserts. They have a near indestructible shell, it is used to make pottery and other hard materials. The world used to be populated by many of these creatures, changes in weather have caused many to die, but the disintegrated shells have contributed to much goods in the land. The sheshell krab dust helped form a hard membrane around the pearled-up water, thusly preserving the water of the planet near the surface.
 
 ~ Flora
 
@@ -257,6 +302,11 @@ BAM
   TEXT 
     & A starchy tuber, pink on the inside, that becomes nice and soft when cooked. 
 
+MEDILILLY 
+  TYPE : Flora
+  TEXT
+    & A leafy plant, tall with a thick stem and hundreds of tiny leaves. It is very hard to grow, it requires much water and attention, and takes years to grow to maturity (the only time when the plant gains its medical properties). It is used to reduce inflammation and can help in healing. It is thought to relax the body. It can be consumed as a tea, but is often made into a poultice when treating wounds. 
+
 CHLOROMYCE SHROOS
   TYPE : Flora
   TEXT
@@ -271,6 +321,21 @@ MEPPERPINT
   TYPE : Flora
   TEXT
     & A green plant with a thick stem, and tiny rounded bulbs hanging from the central stem. It is a Finiku favourite, they brew tea with the dried and crushed leaves. It is often consumed with {{bam}} cakes, and consuming too much of it is said to make your ears sprout.
+
+NUNI
+  TYPE : Flora
+  TEXT 
+    & Nuni is a starchy tuber with bright yellow flesh, it has a taste and smell that could best be described as being robust. If eaten, it stains the inside of your mouth yellow for a time. 
+
+NORANGES
+  TYPE : Flora
+  TEXT 
+    & A sweet, and bitter fruit with a thick rind. It has a fragant smell, and can calm the mind. 
+
+KAVAVA
+  TYPE : Flora
+  TEXT 
+    & Kavava is a leafy plant, but the roots is what most people choose to use. The roots are harvested, cleaned, dried and broken up into smaller bits and sold. It can be chewed as is, or pounded to a powder and made into a tea, although it loses some of its 'numbing' properties this way. If chewed, kavava numbs the mind and body for many hours. Many become addicted to it.
 
 BONAN
   TYPE : Flora
@@ -341,7 +406,7 @@ TERIN
 AODALS
   TYPE : Misc
   TEXT
-    & {*Aodals*} is the most common race in the Soronan desert, they are of medium height, and have small pointed ears, their skin is brown and their hair comes in a variety in browns and blacks. Their faces are relatively flat, and round, with thin eyes. 
+    & {*Aodals*} is the most common race in the Soronan desert, they are tall, and have small pointed ears, their skin is brown and their hair comes in a variety of browns and blacks. Their faces are relatively flat, and round, with thin eyes. They live primarily in cities like Montore and Edonor, but are also found in Renate. 
 
 VERIDO
   TYPE : Misc
@@ -373,6 +438,11 @@ KLOREA
   TEXT
     & {*Klorea*} is any of several related green pigments found in the cells of beings of the Soronan desert. It allows them to absorb energy from light. Klorealines are important to the {{Verido}} and the {{Iridi}}.
 
+FOOD STAMPS
+  TYPE : Misc
+  TEXT
+    & A patch that if applied to the skin ensures good nutrition, it comes in a variety of flavours mimicking real food. It was invented by the grand leader of Montore {*Monty*}, and helped to stave off hunger during the Iridi Raids.
+
 BONAN WINE
   TYPE : Misc
   TEXT
@@ -382,6 +452,11 @@ GENDER NEUTRAL WRITING
   TYPE : Misc
   TEXT
     & Wiktopher is written without the use of gender pronouns, this eliminates the tendency to modify our behaviour based on genders.
+
+IRIDI RAIDS
+  TYPE : Misc
+  TEXT 
+    & A difficult time for many, when the {*Iridi*} sent out soldiers to various cities to capture workers to work the {*Irideri*} mines, to collect {*chloromyce shroos*}. This event caused a great imbalance in the world, and nearly killed most of the {*Terin*} population.
 
 ILKEN
   TYPE : Misc
