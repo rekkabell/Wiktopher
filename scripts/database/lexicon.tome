@@ -257,6 +257,12 @@ ILK
     & The {*Ilks*} or {*The giant walkers*} of the Soronan desert. These creatures are old, and walk around the planet all year long. The species' distinctive features include its long neck, narrow chest, a heavy pointed tail, a 'carapace', and collection of hairs on the throat and shoulders. The coat is generally a shade of dark blue, red and green. There are 3 Ilk in existence: Otora, Balandri and Volare (thusly named after the 3 Verido founders). Each Ilk bears a city on its back, its inhabitants are completely self-sufficient, but do rely on outside help to feed the Ilk.
     % content/fauna.ilk.jpg
 
+DURDLE
+  TYPE : Fauna
+  TEXT
+    & Shy creatures that like to retreat within their shells.
+    % content/fauna.durdle.jpg
+
 WOTH
   TYPE : Fauna
   TEXT
@@ -403,7 +409,7 @@ TERIN
   TEXT
     & {*Terins*} are a race of growers and carers, they have green thumbs and can make any garden, and population healthy. Their numbers are fewer these days, given the Iridi raids in Bao's time. They have dark skin, bright eyes dark eye. They have larger foreams and fingers, thick legs and two-toed feet, their physique is strong and permits long hours working the soil, these beings don't tire easily. 
 
-AODALS
+AODAL
   TYPE : Misc
   TEXT
     & {*Aodals*} is the most common race in the Soronan desert, they are tall, and have small pointed ears, their skin is brown and their hair comes in a variety of browns and blacks. Their faces are relatively flat, and round, with thin eyes. They live primarily in cities like Montore and Edonor, but are also found in Renate. 
