@@ -399,6 +399,11 @@ THE HANDS
   TEXT
     & The {*Hands of the ilk*}, are responsible for directly caring for the Ilk. They physically inspect the creature's body thoroughly, for signs of disease or wounds. It is dangerous work, many have fallen while on the job.
 
+HAND
+  TYPE : Misc
+  TEXT
+    & The {*Hands of the ilk*}, are responsible for directly caring for the Ilk. They physically inspect the creature's body thoroughly, for signs of disease or wounds. It is dangerous work, many have fallen while on the job.
+
 DONMOL
   TYPE : Misc
   TEXT
