@@ -260,7 +260,7 @@ ILK
 DURDLE
   TYPE : Fauna
   TEXT
-    & Shy creatures that like to retreat within their shells.
+    & Shy creatures that like to retreat within their shells, they move very slowly and sleep for most of the day.
     % content/fauna.durdle.jpg
 
 WOTH
@@ -348,6 +348,11 @@ BONAN
   TEXT
     & A berry, with soft flesh rich in starch covered with a rind, which may be orange or purple when ripe. The seeds are roasted and brewed for tea.
 
+KABACHO
+  TYPE: Flora
+  TEXT
+    & An alcohol made from the fruit of the Kaba plant. It is left to steep in sugar water for many months. When drunk, it numbs your mouth and body, it is a very strong intoxicant.
+
 WATERSTONES
   TYPE : Flora
   TEXT
@@ -389,7 +394,7 @@ VOICE
   TEXT
     & A Voice, is a direct descendant of one of the 3 founders of the ilk cities, tasked with speaking with the ilk. It is a tradition role, instated to make sure that the desert giants are content and healthy. Only the Voice can converse with the Ilk, whatever is said is then communicated to the rest of the people.
 
-HAND
+THE HANDS
   TYPE : Misc
   TEXT
     & The {*Hands of the ilk*}, are responsible for directly caring for the Ilk. They physically inspect the creature's body thoroughly, for signs of disease or wounds. It is dangerous work, many have fallen while on the job.
