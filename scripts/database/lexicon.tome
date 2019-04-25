@@ -229,6 +229,11 @@ NOK
   TEXT 
     & Grand-mapa of {{Orin}}, a {{Finiku}}, and renowned tailor from the town of {{Edonor}}.
 
+ZUCCA
+  TYPE : Characters
+  TEXT
+    & A {*Terin*} and caretaker of a hidden oasis in the desert. Known by many, Zucca has a reputation for being a grouch. This Terin has much knowledge when it comes to garderning, but is reluctant to share it. 
+
 BOU
   TYPE : Characters
   TEXT  
@@ -338,10 +343,20 @@ NORANGES
   TEXT 
     & A sweet, and bitter fruit with a thick rind. It has a fragant smell, and can calm the mind. 
 
+BIBISKISS
+  TYPE : Flora
+  TEXT 
+    & An flowery herb that is often infused to make tea. 
+
+LICKY ROOTS
+  TYPE : Flora
+  TEXT
+    & A root of the licky flower that grow to be very long. The roots curl deep into the ground and are difficult to harvest. The licky plant is very tough and can grow in harsh conditions, in caves and even in high altitude. The roots, if left in water, will release a dark syrupy liquid that can be drunk as tea. It has a mild relaxing effect and a spicy taste.
+
 KAVAVA
   TYPE : Flora
   TEXT 
-    & Kavava is a leafy plant, but the roots is what most people choose to use. The roots are harvested, cleaned, dried and broken up into smaller bits and sold. It can be chewed as is, or pounded to a powder and made into a tea, although it loses some of its 'numbing' properties this way. If chewed, kavava numbs the mind and body for many hours. Many become addicted to it.
+    & Kavava is a leafy plant, but the roots is what most people choose to use. The roots are harvested, cleaned, dried and broken up into smaller bits and sold. It can be chewed as is, or pounded to a powder and made into a tea, although it loses some of its 'numbing' properties this way. If chewed, kavava numbs the mind and body for many hours, it may also cause some minor hallucinations. Many become addicted to it.
 
 BONAN
   TYPE : Flora
