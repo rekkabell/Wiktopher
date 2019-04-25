@@ -1419,7 +1419,7 @@ An oasis
   & “I present you toast! Eka style!” Eka said, presenting this tasty creation to the bed-bound Verido.
   & Lupin was awake, and was looking much better than yesterday, “whoa fresh mapples! Surprised {{Zucca}} let you take them.” With eyes now closed, the patient took a bite - as if the momentary absence of one sense could heighten another.
   & “Was a gift from our pal Waldek - our little secret! OH you’re going to love this place Lew! It’s abundant with greens and oranges and purples and-”
-  & Yesterday, Lupin had been too sick to really take in the details of the oasis, but now, beyond the fragrant poetry of the mapple toast, the nose detected hints of sweet norcorn and teaweet in the air. These smells, in turn, summoned an approximation of what the oasis looked like in Lupin's brain.
+  & Yesterday, Lupin had been too sick to really take in the details of the oasis, but now, beyond the fragrant poetry of the mapple toast, the nose detected hints of sweet {{norcorn}} and teaweet in the air. These smells, in turn, summoned an approximation of what the oasis looked like in Lupin's brain.
   & "-and blues!"
   & “Looking forward to seeing that," Lupin said with a smile, before taking note of the poultice, "thanks for taking care of me."
   & “{{Zucca}} made that poultice for you though, that's what healed you up."
@@ -1716,7 +1716,7 @@ Montore
   & "I think that if I did say, I'd betray a friend and put many other lives in danger."
   & {{Monty}}'s ears perked at this. "Um, you're talking about {{Zucca}}."
   & Lupin nodded.
-  & "Didn't think that grouch was alive, has had many green days, too many some would say. I'm happy {{Zucca}} was able to save some {{norange}} seeds," {{Monty}} said, switching attention to another plant, "norcorn patties just aren't the same without {{norange}} sauce."
+  & "Didn't think that grouch was alive, has had many green days, too many some would say. I'm happy {{Zucca}} was able to save some {{norange}} seeds," {{Monty}} said, switching attention to another plant, "{{norcorn}} patties just aren't the same without {{norange}} sauce."
   & "Hope you don't me saying but... are you really {{Monty}}? The leader of this city?"
   & {{Monty}}'s yellow eyes moved to Lupin then. "Not what you were expecting?"
   & "No, not at all... you've got all these plants, feeding people food patches, the Beobug goons and their {{sandfin}}s that spit out smoke- it's horrific! Hard to believe it comes from you."
@@ -1780,11 +1780,11 @@ Montore
   & The Terin went to say hello to {{Averet}} that day, they'd grown up together, and while their lives had taken different turns they were still friendly to each other — most times. 
   & "Hey {{Kuzi}}, keeping out of trouble today I hope," {{Averet}} said.
   & "Yea. Keeping the peace, in my own way."
-  & There was a pause between them then, but the {{Aodal}} spoke again, "d'you know where I can get some norcorn patties around here?"
+  & There was a pause between them then, but the {{Aodal}} spoke again, "d'you know where I can get some {{norcorn}} patties around here?"
   & "I'd ask Avril's bakery."
   & "Bakery?"
   & {{Kuzi}} pointed to it. "Yea, it's where I got this bread. You want to try some?"
-  & {{Averet}} grabbed a slice of bread and started to eat it, "oh — OH! This is good...! It's so moist! Why do I never buy real bread anyway?" The bread disappeared, consummed within seconds. "Thanks for that {{Kuzi}}, I'll drop by to see Avril later to ask about the norcorn — you see, I've got this piece of {{norange}}..."
+  & {{Averet}} grabbed a slice of bread and started to eat it, "oh — OH! This is good...! It's so moist! Why do I never buy real bread anyway?" The bread disappeared, consummed within seconds. "Thanks for that {{Kuzi}}, I'll drop by to see Avril later to ask about the {{norcorn}} — you see, I've got this piece of {{norange}}..."
 
 
 `).parse();
