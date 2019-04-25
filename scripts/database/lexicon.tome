@@ -365,12 +365,18 @@ NUNI
 NORANGE
   TYPE : Flora
   TEXT 
-    & A sweet, and bitter fruit with a thick rind. It has a fragant smell, and can calm the mind. 
+    & A sweet, and bitter fruit with a thick rind. It has a fragant smell, and can calm the mind. It pairs well with norcorn patties.
+
+NORCORN
+  TYPE : Flora
+  TEXT
+    & The leafy stalk of the norcorn plant produces inflorescences called nubs that yield bright yellow seeds. This plant is heat tolerant, its root system is deep and reaches deep underground. There are 5-6 seeds per nub, these can be ground up and made into flour to make {*Soronan Desert*} favorites like {*norcorn patties*}. The entire nubs and their seeds (which are held together by a stalk) can be grilled as is. With enough heat, the seeds explode into bright orange puffs which are eaten as a snack during special events. 
+    & There have been events when the environing heat was too hot that an entire norcorn field exploded into puffs, referred to as the 'Puff Event'.
 
 BIBISKISS
   TYPE : Flora
   TEXT 
-    & An flowery herb that is often infused to make tea. 
+    & An flowery herb that is often infused to make tea. It is a light purple color, the color leeches into the drink.
 
 LICKY ROOT
   TYPE : Flora
