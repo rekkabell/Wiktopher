@@ -271,6 +271,11 @@ DURDLE
     & Shy creatures that like to retreat within their shells, they move very slowly and sleep for most of the day.
     % content/fauna.durdle.jpg
 
+MUDBEARS
+  TYPE : Fauna
+  TEXT
+    & Tiny little insects that burrow into waterstones, they ooze a poisonous substance that can be very poisonous. 
+
 WOTH
   TYPE : Fauna
   TEXT
@@ -367,7 +372,7 @@ BIBISKISS
   TEXT 
     & An flowery herb that is often infused to make tea. 
 
-LICKY ROOTS
+LICKY ROOT
   TYPE : Flora
   TEXT
     & A root of the licky flower that grow to be very long. The roots curl deep into the ground and are difficult to harvest. The licky plant is very tough and can grow in harsh conditions, in caves and even in high altitude. The roots, if left in water, will release a dark syrupy liquid that can be drunk as tea. It has a mild relaxing effect and a spicy taste.
@@ -399,7 +404,7 @@ WATERSTONES
 PROTUS
   TYPE : Constellations
   TEXT
-    & One of the moons circling this planet, commonly referred to as the twins. Also, the name of a famous {{Iridi}}.
+    & One of the moons circling this planet, commonly referred to as the twins. 
 
 ENCELA
   TYPE : Constellations
