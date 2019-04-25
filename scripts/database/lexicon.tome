@@ -221,7 +221,7 @@ ORIN
 
 MONTY
   TYPE : Characters
-  TEXT :
+  TEXT 
     & Grand leader of the city of {*Montore*}, revered by many. {*Monty*} is a genius and inventor who has propelled Montore to fame, with such inventions as: coin as currency, the great cog and {*food stamps*}.
 
 NOK
@@ -245,16 +245,19 @@ LEAFHOUND
   TYPE : Fauna
   TEXT
     & Leafhounds are orange, leaf-tailed and have a set of antennae on their heads. They live amongst Terins, there are less of them now because of the events in Ministe and Suvalba. They guard nurseries and fields of produce, keeping them safe, while checking on their health with their antennae. 
+    % content/fauna.leafhound.jpg
 
 FLOATERS
   TYPE : Fauna
   TEXT 
     & A round floating creature, that changes colour depending on its mood. It is orange when normal, red when angry, and yellow when confused. They have a set of tiny wings on their sides, tiny black dots for eyes and a slit for a mouth. They live in small groups, and love sweet grass. If threatened, the creature will throw itself upon an enemy, its skin is like goo and sticks to its victims. The skin can become as hot as hot coals, prolonged exposure can kill.
+    % content/fauna.floater.jpg
 
 POMPARU
   TYPE : Fauna
   TEXT
     & A creature, feared by all, because of its horrid stink. Pomparu are plump, pale, six-legged creatures, they bear spots over their bodies. They like stinky things, and are drawn to them. The word 'pomparu' is sometimes used as an insult, or used to describe a foul-smelling food , person or object.
+    % content/fauna.pomparu.jpg
 
 ILK
   TYPE : Fauna
@@ -284,6 +287,7 @@ SESHELL KRABS
   TYPE : Fauna
   TEXT
     & Seshell krabs are pearly white creatures that bear a shell with a face. It is thought that if you do them harm, they will remember your face and chase you to the ends of the deserts. They have a near indestructible shell, it is used to make pottery and other hard materials. The world used to be populated by many of these creatures, changes in weather have caused many to die, but the disintegrated shells have contributed to much goods in the land. The sheshell krab dust helped form a hard membrane around the pearled-up water, thusly preserving the water of the planet near the surface.
+    % content/fauna.seshell.jpg
 
 ~ Flora
 
@@ -292,6 +296,11 @@ LOOBERRY
   TEXT
     & Looberry is a fruit with a hard outer shell, once cut open, the sweet fruit inside can be harvested and eaten. It can be grown on the Ilk, and feeds off of the fungi living in the numerous creases of its carapace. The looberries are dried and ground into powder, and used to paint the face during special events and celebrations. The looberry plant is represented on the insignia of the city of Volare, and is widely used as a dye for clothing.
 
+LOOMA ROOT
+  TYPE : Flora
+  TEXT
+    & A Volare favourite, these root vegetables are small and heart-shaped with cream-colored skin. Their stems are equally as short and topped with a single circular leaf, which is covered in tiny soft hairs. Looma roots become sweeter in flavor when grown in the shade, and develop even more taste when grilled or stewed.
+    
 CACTUB
   TYPE : Flora
   TEXT
@@ -364,7 +373,7 @@ BONAN
     & A berry, with soft flesh rich in starch covered with a rind, which may be orange or purple when ripe. The seeds are roasted and brewed for tea.
 
 KABACHO
-  TYPE: Flora
+  TYPE : Flora
   TEXT
     & An alcohol made from the fruit of the Kaba plant. It is left to steep in sugar water for many months. When drunk, it numbs your mouth and body, it is a very strong intoxicant.
 
@@ -478,11 +487,6 @@ BONAN WINE
   TYPE : Misc
   TEXT
     & A strong wine made from the bonan plant, a starchy berry that grows in the central rim.
-
-GENDER NEUTRAL WRITING
-  TYPE : Misc
-  TEXT
-    & Wiktopher is written without the use of gender pronouns, this eliminates the tendency to modify our behaviour based on genders.
 
 IRIDI RAIDS
   TYPE : Misc
