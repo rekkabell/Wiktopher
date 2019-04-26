@@ -84,6 +84,11 @@ EDONOR
 
 ~ Characters
 
+LARIS
+  TYPE : Characters
+  TEXT
+    & A sickly {*Aodal*}, a refugee who has little hope in the world.
+
 WALDEK
   TYPE : Characters
   TEXT
@@ -271,6 +276,16 @@ DURDLE
     & Shy creatures that like to retreat within their shells, they move very slowly and sleep for most of the day.
     % content/fauna.durdle.jpg
 
+MOSSLING
+  TYPE : Fauna
+  TEXT
+    & Pale insects that like to burrow inside fresh produce, making homes of them. Their presence in the fruit causes them to rot, many farmers despise them for it. They hate {*lemoni grass*}, planting some near other produce helps to keep them at bay.
+
+FALSE-MOSSLINGS
+  TYPE : Fauna
+  TEXT
+    & Insects that mimic mosslings, they have curvy antennae, unlike the true mosslings. Unlike the insect that they mimic, they like {*lemoni grass*}, and hate {*mepperpint*}. This is a relatively new species.
+
 MUDBEARS
   TYPE : Fauna
   TEXT
@@ -301,10 +316,25 @@ LOOBERRY
   TEXT
     & Looberry is a fruit with a hard outer shell, once cut open, the sweet fruit inside can be harvested and eaten. It can be grown on the Ilk, and feeds off of the fungi living in the numerous creases of its carapace. The looberries are dried and ground into powder, and used to paint the face during special events and celebrations. The looberry plant is represented on the insignia of the city of Volare, and is widely used as a dye for clothing.
 
+LEMONI LIME
+  TYPE : Flora
+  TEXT 
+    & Lemoni lime is used widely as a culinary herb, it has a subtle tang and be dried or powdered, or used fresh. Lemoni lime has antifungal properties and can be administered to the sick in the form of tea. 
+
+SWEET GRASS
+  TYPE : Flora
+  TEXT 
+    & A type of grass that is hair-like and sweet-tasting. Many creatures have an intense attraction towards them, especially {*floaters*}.
+
 LOOMA ROOTS
   TYPE : Flora
   TEXT
     & A Volare favourite, these root vegetables are small and heart-shaped with cream-colored skin. Their stems are equally as short and topped with a single circular leaf, which is covered in tiny soft hairs. Looma roots become sweeter in flavor when grown in the shade, and develop even more taste when grilled or stewed.
+
+PLUMPKINS
+  TYPE : Flora
+  TEXT
+    & A large purple root vegetable, its skin is covered in scales. The scales can be peeled off, revealing the bright and soft red flesh underneath. Plumpkins can be processed into juice, or fermented to make plumpkin ale. 
 
 CACTUB
   TYPE : Flora
@@ -437,7 +467,7 @@ SANDFIN
 BEOBUG
   TYPE : Misc
   TEXT
-    & A Montore company that owns 5 large sandfins, that follow the Ilk to catch their droppings. They use this, to make into gas. 
+    & A {*Montore*} company that owns 5 large double-masted {*sandfins*}, that follow the {*Ilks*} to catch their droppings. They use this, to turn into gas. 
 
 VOICE
   TYPE : Misc
@@ -489,6 +519,11 @@ FINIKU
   TEXT
     & {*Finiku*} are a race of sandfin travelers, or at least, they used to be, many have left their nomadic ways to settle in towns. They are sandfin experts, and know the world, all nooks and crannies of the Soronan desert by heart. They are very short, pot-bellied creatures, with long droopy ears and large wet globulous eyes. Their skin is tan, their faces round and flat. Finiku also have small hands and feet. They love to drink, every household produces their own wine. 
 
+THE EAR
+  TYPE : Misc
+  TEXT
+    & Where the {*Voice of the Ilk*} goes to converse with the great carrier, the {*Ilk*}. Everyday, the appointed Voice goes to stand by the ear of the beast, as per tradition. 
+
 ISILK
   TYPE : Misc
   TEXT
@@ -499,15 +534,36 @@ MAPA
   TEXT
     & A term of endearment, used by the sproutling of the bearing parent.
 
+KLOREALINES
+  TYPE : Misc
+  TEXT
+    & A set of ancestors or line of descent of an important person: the survival of a legitimate royal kloeraline. 
+
 KLOREA
   TYPE : Misc
   TEXT
     & {*Klorea*} is any of several related green pigments found in the cells of beings of the Soronan desert. It allows them to absorb energy from light. Klorealines are important to the {{Verido}} and the {{Iridi}}.
 
-FOOD STAMPS
+FOODSTAMPS
   TYPE : Misc
   TEXT
-    & A patch that if applied to the skin ensures good nutrition, it comes in a variety of flavours mimicking real food. It was invented by the grand leader of Montore {*Monty*}, and helped to stave off hunger during the Iridi Raids.
+    & A patch that if applied to the skin ensures good nutrition, it comes in a variety of flavours mimicking real food. It was invented by the grand leader of Montore {*Monty*}, and helped to stave off hunger during the {*Iridi Raids*}.
+
+SPROUTLING
+  TYPE : Misc
+  TEXT
+    & One that is young, having just recently sprouted out of the ground. Sproutlings usually still have a baby leaf attached to their heads, this falls away within a year or two. This term is sometimes used to refer to ones who are older but still young in the way that they think.
+
+GREEN DAY
+  TYPE : Misc
+  TEXT 
+  & The day that the {*sproutling*} was taken from the ground, it is usually celebrated within small closely-knit communities. Many throw elaborate parties, banquets in the honor of the young.
+
+LEAPING DAY
+  TYPE : Misc
+  TEXT
+    & A special event that takes place when a being is ready to die, rarely do beings of the {*Soronan desert*} let themselves wilt and expire, most choose to leap from a high place to die at a time of their choosing. For the Veridos, Leaping from the Ilk's snout is common practice, for others, many choose to do a pilgrimage to {*The Rupture*} in the {*Southern Dust Plains*} to do their leap. 
+    & All believe that when you make the conscious decision to die and leap, your consciousness separates from your body, it goes skyward while the body plummets to the ground. All people in this world are grown, and so your body falling means it is returning from whence it came. It isn't an end, but a return to normality, closing the cycle. 
 
 BONAN WINE
   TYPE : Misc
