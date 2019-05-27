@@ -1586,7 +1586,7 @@ Montore
   % content/fauna.durdle.jpg
   & "I really couldn't let you in, not without identification." A young {{Aodal}} said, standing behind a desk equipped with bars, as if to protect the desk clerk from physical harm. This should have given Lupin some hint as to what sort of town {{Montore}} was, a place with rules and procedures, something that can drive even the calmest of persons up a wall. 
   & "We don't have that in {{Volare}}!" Lupin said, getting hot in the face.
-  & "I see." The clerk reached for a pamphlet and handed it over to Lupin through an opening in the bars. The pamphlet read: "So you don't exist."
+  & "I see." The clerk reached for a pamphlet and handed it over to Lupin through an opening in the bars. The pamphlet read: {*"So you don't exist."*}
   & "What is this?"
   & "If you want to exist in the eyes of {{Montore}} you need a piece of identification."
   & "A piece of identification that tells others who I am? That's stupid."
@@ -1594,14 +1594,14 @@ Montore
   & "Okay. Fine. Say I want to get an ID, where do I get it?"
   & "You'll need to visit the next stall Specter. NEXT!" The clerk called, eager to move on to another customer. 
   & Lupin stormed off, looking for that next stall the clerk had mentioned. It was easy to find, it being the one with a long line of people standing in front of it. A long, long line, snaking around {{Montore}}'s outer wall and through an amassments of tents. Lupin approached a young {{Terin}} who stood in line with a question, "hey, how long you been waiting here?"
-  & The {{Terin}} appeared to be in a daze. "Forever... maybe. Who cares." The {{Terin}}'s voice was sluggish.
+  & The {{Terin}} appeared to be in a daze. "Forever... maybe. Who caaaares!" The {{Terin}}'s voice was sluggish.
   & "Yuna's been in line for 5 days" said a voice behind Lupin, it came from another {{Terin}} who also stood in line.
   & "That long? For an ID?"
   & "Yep, it's a good job! Pays well."
   & "I don't understand."
-  & "Someone's paying me to do wait in line for them, staying in one of those tents out there. When I reach the desk we switch places and I get paid! It's great! There's always people willing to pay not to wait."
+  & "Someone's paying us to wait in line for them, they're staying in one of those tents out there. When I reach the desk we switch places and I get paid! There's always people willing to pay not to wait. They get what they want, we get what we want, it's perfect."
   & Lupin estimated that it would take at least 1 week to reach the front desk, "hell of a life..."
-  & "Only way I can afford {{Kavava}} root. I just ran out actually, the next couple of days are going to suuuuck."
+  & "Only way I can afford {{Kavava}} root. I just ran out actually, the next couple of days are going to suck."
   & "Is that what that other {{Terin}} is on?"
   & "Yuna? Yea. Every surrogate in this line is here for Kavava."  
   & Lupin turned to Yuna again, the {{Terin}} appeared to be in another world, body swaying slowly from side to side, "That's not a life. I had a friend in my village who slept most of the time and this is really no different."
@@ -1611,21 +1611,21 @@ Montore
   & "A {{Terin}}, like you. Friend to me."
   & "OH I see how it is, we all know each other is that it?"
   & "Is that a no?" 
-  & "You really need to chill, I think you'd be happier on Kavava, has a way of making everything okay," the {{Terin}} laughed at this, then seeing the look on the stranger's face decided to say the truth. "Every {{Terin}} knows about {{Zucca}}. Has something of great value I hear, many go out into the desert everyday to look for that fabled patch of green, but it's dangerous, most never make it — I bet you know that though, being friend to {{Zucca}}! If you know the location and tell the guards I bet you could get an ID real fast."
+  & "You really need to chill. I think you'd be happier on Kavava, has a way of making everything okay," the {{Terin}} laughed at this, then seeing the look on the stranger's face decided to say the truth. "Every {{Terin}} knows about {{Zucca}}. Has something of great value I hear, many go out into the desert everyday to look for that fabled patch of green, but it's dangerous, most never make it — I bet you know that though, being friend to {{Zucca}}! If you know the location and tell the guards I bet you could get an ID real fast."
   & Lupin wouldn't dream of betraying {{Zucca}}, especially not to anyone from {{Montore}}, not with a field-full of younglings.
   & "There's a guard right there, see? HEY! Hey YOU! Guard person!"
-  & Lupin wanted to run away, but the {{Terin}} gripped the Verido's collar and kept Lupin in place, perhaps then the {{Terin}} realized that it was possible to profit from this, that this information was worthy of some form of compensation and that it was possible to get it through this Verido. The guard, an {{Aodal}}, moved towards them, a tall creature, dressed in the greens of {{Montore}}. {{Aodal}}s are the tallest of desert habitants, second only to {{Uno}}, Lupin thought then. They are strong, brown-skinned with thin eyes and pointed ears. This guard bared these features too, with dark hair combed neatly, to better fit under a green {{Montore}} cap.
+  & Lupin wanted to run away, but the {{Terin}} gripped the Verido's collar and kept Lupin in place. The guard, an {{Aodal}}, moved towards them, a tall creature, dressed in the greens of {{Montore}}. {{Aodal}}s are the tallest of desert habitants, second only to {{Uno}}, Lupin thought then. They are strong, brown-skinned with thin eyes and pointed ears. This guard bared these features too, with dark hair combed neatly, to better fit under a green {{Montore}} cap.
   & "I wish you wouldn't call me guard person," the guard said, offended by this. "I've got a name you know, I'm not just some faceless duplicate!" Lupin spied the name on the piece of ID, hanging from the guard's chest, it read '{{Averet}}'.
   & {{Kuzi}} smirked, turning to Lupin, "{{Averet}} here has a fear of being perceived as ordinary."
-  & "I've got grand ideas, there are plenty of things I want to do with my life! This is not my forever job you know, I am most definitely NOT going to spend my life on this dust planet making sure kakava addicts like you don't fall down a ditch." {{Averet}} said, red in the face.
+  & "I've got grand ideas, there are plenty of things I want to do with my life! This is not my forever job you know, I am most definitely NOT going to spend my life making sure kakava addicts like you don't fall down a ditch." {{Averet}} said, red in the face.
   & "The cave you fear to enter holds the treasure you seek," Lupin said.
   & Both {{Averet}} and {{Kuzi}} turned to the Verido then, as if they'd forgotten why they were all here.
   & "Why is this one speaking in riddles," {{Averet}} asked. 
-  & "That quote is from Gofsef, a famous Balandrian writer!" Lupin corrected. 
+  & "That quote is a famous Balandrian writer!" Lupin corrected. 
   & "This one knows the whereabouts of {{Zucca}}!" {{Kuzi}} then said, tugging at {{Averet}}'s sleeve.
   & Lupin tried to deny it all, "I'm just a traveling potter, i make pots! I don't know anything about anything! Well, I know about pots! But that's really IT!"
   & {{Kuzi}} knocked on the side of Lupin's head with a fist, "this Verido is hiding something! Not a cave, but an oasis of green and boundless treasures. Isn't that right?" Whenever Lupin tried to tear away, the {{Terin}} found some other limb or piece of clothes to grab onto, then, suddenly a {{norange}} fell out of one pocket and rolled onto the ground.
-  & Both the guard and {{Kuzi}} froze at the right of it. "A {{norange}}-" the {{Terin}} said, releasing Lupin and going to grab the colorful piece of fruit instead. {{Kuzi}} held onto it, stroking the bumps on its surface gently, like stroking the head of a newgrown sprout. There was a hint of sadness in {{Kuzi}}'s eyes, the {{Terin}} put a nose to the fruit, smelling it and whispering into it. {{Averet}} then reached forward and tore it away, inspecting it from all angles. "A potter huh? Where did you get this?" A question aimed at Lupin, no doubt, although the guard's eyes were fixed on that fruit.
+  & Both the guard and {{Kuzi}} froze at the sight of it. "A {{norange}}-" the {{Terin}} said, releasing Lupin and going to grab the colorful piece of fruit instead. {{Kuzi}} held onto it, stroking the bumps on its surface gently, like stroking the head of a newgrown sprout. There was a hint of sadness in {{Kuzi}}'s eyes, the {{Terin}} put a nose to the fruit, smelling it and whispering into it. {{Averet}} then reached forward and tore it away, inspecting it from all angles. "A potter huh? Where did you get this?" A question aimed at Lupin, no doubt, although the guard's eyes were fixed on that fruit.
   & {{Kuzi}} went mad then, and leapt at the {{Averet}} to get it back; after getting a hold of it the {{Terin}} ran away, grabbing Lupin's arm and darting into the crowd. The guard rushed after them, but soon lost sight of the two runaways...
   & {{Kuzi}} stopped once they had gone far away enough, breathing hard, the {{norange}} in hand. 
   & "You lost your place in line," Lupin said, shocked. "Weeks of waiting-!"
