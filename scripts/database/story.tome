@@ -1202,7 +1202,7 @@ Beobug
 
   & Lupin shrugged. "Yea. I guess so."
 
-  & "We're all part of the grand sweater that is our universe; we are a single thread and together we form a complex design, criss-crossed and stitched over one another into a variety of interconnecting patterns. Sometimes these individual patterns unravel; but they're not lost, they remain part of the grand sweater." Saying this, Eka began to unravel Lupin's sweater, tugging on a loose bit of twine. 
+  & "We're all part of the grand sweater that is our universe; we are a single thread and together we form a complex design, criss-crossed and stitched over one another into a variety of interconnecting patterns. Sometimes these individual patterns unravel; but they're not lost, they remain part of the grand sweater" Saying this, Eka began to unravel Lupin's sweater, tugging on a loose bit of twine. 
 
   & Lupin noticed this, and moved closer to help undo it. "I like this analogy."
 
@@ -1789,6 +1789,130 @@ Montore
   & {{Kuzi}} pointed to it. "Yea, it's where I got this bread. You want to try some?"
   & {{Averet}} grabbed a slice of bread and started to eat it, "oh — OH! This is good...! It's so moist! Why do I never buy real bread anyway?" The bread disappeared, consummed within seconds. "Thanks for that {{Kuzi}}, I'll drop by to see Avril later to ask about the {{norcorn}} — you see, I've got this piece of {{norange}}..."
 
+
+Litte light
+
+  % content/fauna.floater.jpg
+
+  & “{{Irideri}},” Eka said, “that’s where we’re going next. They make the BEST {{chloromyce shroo}} noodles there. They glow... in the dark! Plus if you eat too much the soles of your feet become iridescent. Lasts about a week, it's great.”
+  & "Why would I want that." Lupin said.
+  & "What do you mean?"
+  & "No one's going to see the soles of my feet."
+  & "Is that why you do anything Lew? For others to see?" Eka teased.
+  & Lupin frowned at this. "No— well, maybe... I don't know. Can we talk about something else?" The Verido said, red-faced.
+  & "Oh what's the matter Lew?" Eka asked, throwing an arm around Lupin.
+  & "I don't know. I just need others to be there, like, all the time. If others aren't there to laugh at what I do, or to react to what I say then it's like I'm not really there myself at all, it's like I don't exist you know?"
+  & "This is because of what that guard said to you in Montore isn't it?"
+  & "I didn't like it when they called me Specter," Lupin admitted then. 
+  & "Awww! Lew! Precious, precious Lew! THAT'S what this is about...!" Eka smiled, and pulled the Verido into a tight hug from behind, and stayed that way for some time. "Remember the sweater-verse?"
+  & Lupin thought about it for a moment, then nodded slowly. "Yea, yea... I remember."
+  & "We're all connected, all of us, all the time. No one is alone, not ever. Don't you forget it Lew."
+  & The Verido nodded again, a smile growing on these lips. "Having iridescent feet would be fun."
+  & "I KNOW right...?! We've GOT to make that happen." Eka said, tearing away from Lupin for a moment and reaching into Hush's saddle bag for a book. The book was a dark colour and had silvery writing on top. "This book is going to tell us everything we need to know about Irideri."
+  & "Where d'you get that?" Lupin asked, having no memory of this book ever being around until now.
+  & "Borrowed it, from the Montore library."
+  & "That book is never to make its way back there, I've no plans to go there again... not so soon anyway."
+  & "I'll Woth it back over there." Eka said, smiling at the {{Woth}} sleeping in the glass ball on Lupin's bag.
+  & "Is that something people say? I will 'Woth' this letter to you?"
+  & "It's something I say, and that others ought to say." Eka said, showing Lupin the cover of the book, it read {*'Habitants of Light'*}.
+  & Lupin did not seem eager to learn more about the people of Irideri. "Had a long talk with {{Zucca}} about the {{Iridi}}, they ruined a lot of lives. They raided all those villages for slaves, just because they didn't want to harvest the {{Chloromyce Shroo}}s themselves... it's horrible. Why are they so dependent on {{chloromyce shroo}}s anyway..."
+  & "{{Moera}}, the first ever Sovereign of Irideri popularized consumption, a long, long time ago." Eka opened the book and began to turn the first few pages, "you want to hear the story?"
+  & "No, but I've got a feeling you're going to read it to me anyway." Lupin said.
+  & "Shush shush, this is not for you, this is for Hush and Wormple the Woth." Eka said. The Woth stirred inside its glass ball, but did not rise to the name Wormple. Eka then flashed Lupin a smile and began to read aloud...
+  > <hr/>
+  & HABITANTS OF THE NIGHT
+  > <ul>
+  > <li>{_Moera, Sovereign of Light, united the 5 villages built inside the protective ridge belt of Mount Nui and created the great city of Irideri. Together, and under the influence of Moera, they spent many years digging at the mountain side to build a fortress. They built great foundries, permitting them to make the tools necessary to erect a beautiful walled city, worthy of their ruler. The Iridi people lived in the light in those days, it was when they discovered the glowing fungi, the chloromyce shroos in the underground caves, that everything changed..._}</li></br>
+  > <li>{_Moera was enthralled by their beauty. The Sovereign called upon the best artisan in the city and asked that the chloromyce be made into jewlery. "You shall present them to me at midday tomorrow," Moera demanded._}</li></br>
+  > <li>{_The Crown was having tea under the high noon sun when the artisan presented the gift of the preserved fungi, wrapped up in a silvery cloth adorned with a bright yellow ribbon. Moera undid the ribbon, but once presented to the sun the shroo exploded in a thick cloud of spores. The spores entered the Sovereign's eyes and flesh. "I cannot see!" She cried. On this day, Moera turned blind._}</li></br>
+  > <li>{_The chloromyce shroos — the kingdom learned that day — could not be exposed to daylight. Moera was inconsolable. Even if the fungi had forever harmed these eyes, the Sovereign still longed for their beauty. On that day, the sun was declared a menace and Moera decreed that all should seek the light of the chloromyce instead. "For it is pure, and good."_}</li></br>
+  > <li>{_Moera believed that the chloromyce shroos would purify and elevate their race beyond all others._}</li> </br>
+  > <li>{_The residents of Irideri began to sleep in the daytime and lived at night, the only light was that of the chloromyce shroos. It was thought that Moera had asked everyone to live in the dark to conceal disfigurement. The spores not only caused blindness, but damaged Moera's skin as well._}</li></br>
+  > <li>{_The Crown began to ingest chloromyce shroo powder, with the belief that in time these eyes would see again. Eventually, the custom spread through the village. People mirrored the actions of their Monarch, in fact all ascribed all sorts of benefits to it, that it kept diseases at bay or that it gave radiance to their skin. The true effect of the chloromyce in their bodies, was that it permitted them to live in darkness. It provided the necessary vitamins for good health, since they could get none from the sun._}</li></br>
+  > <li>{_Eventually the demand became too great. The Iridi workers could not harvest enough for everyone to consume on a daily basis. Since all in Irideri were of near equal footing socially, no one wanted to degrade themselves working in the underground all day. It was a difficult and lowly task, and they would require a considerable workforce to get it done. To deal with the problem the Iridi began to train foot soldiers, tasked with raiding the surrounding villages to capture workers. The captives were kept underground and were forced to harvest chloromyce. This went on for years, but the slaves were difficult to work with. Soon, Moera began to look for a solution, wishing for less friction in the underground caves. Word of a seed sanctuary came to ear — The {{Suvalba Sanctuary}} — and the entirety of the Iridi armed forces were sent out to claim them. They would control their slaves from birth, ensuring their loyalty._}</li></br>
+  > <li>{_Now, they had an abundance of the thing they so loved, the palace was lit with chloromyce, as was their clothing and armour. All were adorned with it. From this day on, no one dared speak of the underground workers._}</li></br>
+  > <li>{_When Moera's heir to the shrone, {{Bao}}, sprouted into existence, a young worker was taken from the caves, to be trained as a servant. This servant, known then as an {{Iri}}, would shadow the Crown To Be._}</li></br>
+  > <li>{_When the crown was passed down to Bao, Moera became bitter and cruel. A servant could be executed for dropping a single fork on the ground. the former Monarch could not abide noise, of any kind. From that moment on, all citizens of Irideri left their shoes at the entrance to the palace and walked barefoot inside. This practice of silence was widely adopted because all feared dying at Moera's hand. Eventually, the entire kingdom learned to make as little sound as possible, they kept their voices low. The Iri and underground workers were instructed not to speak._}</li></br>
+  > <li>{_Eventually, Moera left this world and Bao took full reign. The foot soldier army was dispersed and the kingdom of Irideri shut its doors to the outside world. Now, they had all of the workers they would ever need to harvest the chloromyce shroos._}</li></br>
+  > <li>{_Ingesting chloromyce shroos made the habitants of Irideri sensitive to light, strengthening their hatred of the sun. Over just 2 generations, their skin greyed and their eyes adapted to the night. Such is the story of the Iridi, habitants of the night._}</li></br>
+  > <hr/>
+  & Eka read on. “They see well in the dark, like we do in daytime. It says here, the chloromyce shroos speak to them, they see words in them, and colours too!”
+  & Lupin laughed. “I can see words and colours too, all I have to do is eat some bad herbs.”
+  & "Ah so you did listen!" Eka said. "I bet you’ll be impressed with the Iridi once we see the city - well, if we get to see it. It's hard to get inside I've heard." By then, they could make out the shape of the mountain in the distance. The sun was setting, leaving room for the moons and stars to shine. 
+  & "Things have to be different now."
+  & "I hope you're right." Lupin wanted to believe that the Iridi had abandoned their former ways.
+  > <hr/>
+  & Meanwhile in {{Irideri}}, the people were waking. The kingdom slept during the day and came alive at dusk. In the palace, {{Kurono}}, the Young Light of the realm, was already out of bed. A servant was tending to the royal's hair and clothes. Kurono wore dark robes of a material that shimmered in the light of the {{chloromyce shroo}}s, with hair that flowed onto the floor, black and straight. 
+  & Hair arrangements, as well as clothes, was important in Irideri, your outer facade was a reflection of your innermost self. Untidy hair would communicate to others that you had no discipline, that your thoughts were cluttered, but having a well-sculpted head of hair was a sign that your life was in order. It didn't matter if you were ill of body or sick of mind, as long as the outer shell was intact. Kurono's hair was sculpted into a bun, held up by silver wiring and adorned with jewels. 
+  & {{Iri}}, a servant, was helping the young crown get ready. The servant wore a tight hood, with the face covered by a mask from the nose down. This mask was a symbol of silence, of servitude, a reminder to others that Iri were not allowed to speak. Servant-wear was simple, with little skin visible, aside from the eyes and forehead. They had no eyebrows, no discerning physical details or means of producing any expression. {{Iri}} always had a tall silver rod in hand, topped with a T. Dangling from one branch was a glass ball, and in it, a glowing {{chloromyce shroo}}. 
+  & In public, Iri shadowed Kurono and made sure that no part of the Monarch-To-Be was left unlit. Most of the kingdom was kept dark, making the presence of a royal in the room the center of attention. 
+  & Kurono cared little for those rules, but their leader demanded it. All days were well-ordered, Monarch {{Demeri}} liked it that way.
+  & “Playroom Iri.” The Young Light said with a sigh, knowing that being in a room designed for play without a playmate wouldn't be much fun at all. This was a recurring thought in Kurono's mind. There wasn’t anyone in the mansion to play with... well, there was Iri, a good servant, but a poor playmate. All who served {{Irideri}} could not talk unless spoken to. This young follower had even fewer privileges; Iri couldn't eat, sleep, walk, or move without Kurono saying so. It was forbidden for anyone to give them names, and so all servants of light shared a single one: "Iri".
+  & Today nothing amused Kurono, not even the puzzles filling the room. These contraptions were more friend to this Young Light than any living person here, but all had been solved many times over, and held no more secrets. 
+  & Everyday life was a dull affair in the palace, and this youngling ached for things to be different. 
+  & “Would you dance with me Iri?” the Young Light asked suddenly. 
+  & Speaking with the {{Iri}} gave little distraction, but did offer some release. Having an ear to talk to with a mouth bound by law meant that anything could be said without the fear of it being repeated. 
+  & Iri flashed an open hand then. This gesture meant: 
+  & {_"Have no illusions about me. I am not worthy of language. I am nothing."_}
+  & “Would you deny a request by the crown-to-be?” Kurono asked, with a smile, “dance me with now, I demand it." 
+  & Following these words, the Little Light stood up and went to take the servant's hands. Iri could not refuse such a request, or any other. It was the law. 
+  & Kurono lead the confused Iri into a waltz. “Do as I do." They followed each other's steps well enough, the servant was good at following instructions. After a few minutes of this, it was difficult to tell that this Iri had never before danced a waltz. Iri had been part of Kurono's life for a long time and knew many secrets, like how this Young Light deemed {{pomparu}} farts more pleasant than Demeri's tantrums
+  & “I've been thinking about this a lot,” the Young Crown began, “you’ve never given me any gifts on any of my past {{green day}}s. I am very upset about that.”
+  & Iri began to sweat, upsetting Kurono was punishable by death.
+  & “Don’t worry! I know what I want you to give me,” both stopped dancing then, but Kurono kept hold of the servant. “I want — no, I need to hear your voice.”
+  & Iri seemed composed, yet, the organs inside were all twisted up into knots. Every breath caused this body great pain. Once again, an open hand came to pass in front of the servant's face to mean: {_"I am nothing. I am the lowest of lows, and not worthy of your time and attention."_}
+  & "I realize I'm asking a lot, but I promise you I won't tell. You're friend to me Iri, the only one I've got and I'm sick of doing all the talking. No one here listens to me... but you do! I know it's your job to listen, to heed my every need... but surely there's more to us than this. Surely, there are thoughts in that head of yours. What is a friendship without words?"
+  & {_"I am nothing."_} The servant motioned with a hand. Iri could not be a friend, Iri was lower than dirt and not worthy of Kurono's friendship.
+  & “I'm ordering you to speak to me Iri." The Crown-To-Be demanded, with mounting irritation.
+  & Iri was conflicted. The rules of the realm forbade servants of the Light to speak, yet, the Young Crown demanded it. The purpose of an Iri was to do what was asked, but doing it meant breaking yet another rule. Denying Kurono's request all together, that too was bad news, rules would be broken either way. Making a decision was impossible! Iri never decided anything, not for others and not for themselves.
+  & Irritated by this silence, the Young Light moved forward and tore the mask covering Iri's mouth. Kurono hated silence and rules, perhaps now, with it gone, {{Iri}} would speak. 
+  & Even without the presence of that physical barrier, the servant's lips produced no sound. The servant followed the laws of {{Irideri}}. 
+  & {_"I am nothing. I am nothing."_} Now, with lips unmasked, Kurono could see the Iri mouthing the words. {_"Iri, lower than dirt, of no value to anyone, anywhere, ever."_}
+  & Kurono's teacher came at the door then, knocking, unable to enter, the door had been locked from the inside. “Oooh Young One! It is time for your history lesson!”
+  & Kurono stuck a tongue out at the closed door. “I don't want to! Go away!” Then, went on to pinch Iri’s nose, "you're going to have to open your mouth to breathe sometime!". Iri's mouth remained shut and the face contouring it turned a deep shade of blue. 
+  & The teacher was in the hall still, muttering behind the closed door. "Demeri will not be pleased with you Young One!"
+  & "I don't caaaaare!" Kurono yelled, eyes fixed on Iri's face, watching it turn a deep and unsightly purple colour. "You’re not going to die like this are you?”
+  & Iri had no death wish, this one could not serve the realm if dead, realizing this, the servant's mouth opened with a croak. Kurono gasped, noticing then that Iri had no tongue. Back in the old days, those who knew things the crown deemed unsavoury had their tongues and vocal cords cut out. Kurono thought that this custom was long gone, the previous monarch thought it too barbaric. "How could Demeri allow this? Eyes moved to Iri's neck and spied a number hidden under the collar, the number "16" written in flesh. “Sixteen? What is this?”
+  & Iri did something unexpected then, rushing forward to press a finger to the Young Light's lips with a low {*shush*}! 
+  & Kurono had never seen Iri behave like this, the servant's face warped by emotion... by fear. For the first time ever, there was a semblance of personality inside of this Iri, something that had long been hidden away. The Young Light was happy to have witnessed it, but also saddened by it, to see the stress and fear so plainly. 
+  & When Kuruno tried to speak again, Iri put a whole hand over the Young Crown's mouth. They locked eyes, both shocked at what was happening. Kurono did not try to stop Iri, and Iri was so tense that the arm attached to that hand felt like it was frozen in place.
+  & The teacher's voice resounded in the hallway once again. "Now where is that key..."
+  & Iri's arm yieled then, going limp, panicked at the thought of having touched the Little Light without permission. Hearing the sound of the teacher fiddling with the door lock, Iri grabbed the mask from Kurono and returned it to its rightful place. 
+  & The door opened, with the teacher looking very displeased, there was much that this Iridi wanted to say, but a lot of it could not be said, not in presence of a royal anyway — your choice of words could cost you your life in {{Irideri}}. “I will not ask again," the teacher said. “Iri, walk Kurono to the study hall”. With this, the teacher left, leaving them alone again.
+  & Iri walked to the door and Kurono decided to do as told, following the servant to the study hall, all the while staring at Iri's neck and thinking of the number inscribed onto it, wondering what it meant and why it was there.
+  > <hr/>
+  & Today's events had left the Young Crown in a heightened state, focusing on today's lessons was impossible. It was hard having Iri in the room after what had just transpired. The number 16 was emblazoned in the Young Light's mind, obscuring all else. "16 what..." Kurono wondered. 
+  & After a while, the distracted brain conjured up images of 16 tiny workers at the crook of the teacher's nose, getting ready to go on an expedition inside the left nostril. The teacher did not fail to notice that Kurono wasn't listening, and after the lesson went to inform {{Demeri}} of it, this was not done out of concern for the young student, but to make clear that this was not their fault.
+  & The Light Of The Realm, Demeri, came to see the Young One in the study hall, long after the lesson had ended. “Kurono, light of my life, what is the matter?” Demeri was followed by many servants, careful to keep their monarch well-lit. The light shone onto the robes beautifully, reflecting off of the many layers of varying types of dark fabric. The overlays, like petals on a flower, made the body look big and imposing. Demeri's long hair draped down onto the floor, because of this the ground had to be kept clean. In the event that anyone did find dirt, the culprit would be severely punished. 
+  & “Your teacher tells me you had trouble focusing today. You must tell me if you need a replacement, a younger one maybe. There is no play of light that can rightly conceal saggy rings of skin, it's dreadful.”
+  & “Isn’t it true that Monarch {{Bao}} wrote a law forbidding the cutting out of tongues?” Kurono asked suddenly.
+  & Demeri, surprised by this question, glanced at the Iri before giving a reply. “It’s an old law, is this what that wrinkled sap has been teaching you?”
+  & With Deremi's eyes looking this way, Iri looked tense, in pain, as if burned by fire. 
+  & “My Iri has a number, 16 it says,” Kurono continued, sitting upright in the chair to appear more confident, “why?”
+  & The Light of the Realm stood up. “{{Enji}}, take Kurono back to the playroom.” 
+  & Kurono wanted to scream, but in the end, decided that it was best to sit on those feelings. {{Enji}} accompanied the Young Light out of the study hall. Iri followed, but before the servant could step out, Demeri shouted another order. “You stay here, Iri.”
+  & Kurono's misbehavings were often the cause of Iri's time spent in rehabilitation. Everytime the Young Light complained of the Iri, or did something bad in relation with the servant it resulted in what was commonly referred to as "rehabilitation". Iri always emerged from this unharmed, transformed. Kurono was always happy to have Iri back, with things being as they were before, it was like hitting a reset button, but this time felt different. Kurono was scared.
+  & “No! It was my doing! Don't do this!” 
+  & {{Enji}} shut the door and forced Kurono back into the playroom, as requested. “You are to stay here Young One, the Brightest In The Realm commands it,” the guard said, before locking the door from the outside.
+  & "Don't hurt the Iri, please! It was my fault!" Kurono cried through the thick of the door.
+  & There was some silence, then Enji spoke. "This is not the first time your Iri goes to rehabilitation Young Light, don't worry. A servant will be returned to you shortly."
+  & Kurono listened to Enji's footsteps, growing fainter and fainter, until the hall quieted completely. 
+  & "A servant." The way Enji phrased it stuck in Kurono's mind...
+  > <hr/>
+  & The next day Iri was not there to brush Kurono's hair, one of Demeri's servants came to do it instead and answered no questions. Fortunately at breakfast, Iri stood at the door, unharmed, like all those other times after returning from rehabilitation. 
+  & Demeri was sitting in front of a small table, covered with a dark cloth, on it, was a simple breakfast of {{teaweet}} porridge and berries, served in dark earthenware, sparkling under the light of the {{chloromyce shroo}}s. A servant was busy crushing bits of freshly harvested chloromyce shroos in a mortar, once it was ground down to powder the servant transferred it to a shallow serving bowl and set it on the table with the rest.
+  & “Sixteen—” the Sovereign began, "is a marker given to workers when they sprout. That is all.” 
+  & “You didn't like that I asked.” Kurono said.
+  & Monarch Demeri put 2 spoonfuls of powdered chloromyce shroo powder into a cup of warm water, then proceeded to gently stir it into the drink, drawing a swirl of light. “I did not like your tone Kurono.”
+  & “-And the tongues?” Kurono insisted.
+  & “What of it?” Demeri asked, taking a sip of chloromyce-infused tea.
+  & “Iri has no tongue, I thought monarch {{Bao}} had made it illegal.”
+  & “If I hear that name one more time, I shall erase it from the history books.”
+  & Kurono took a sip of tea as well, trying to find ways to not voice out any more opinions or questions that could anger Demeri. 
+  & Sixteen appeared to be doing well, this worried Kurono, afraid the Iri had been questioned and harmed. Though the Young Light had other suspicions, and so that morning when the servant was asleep Kurono went to look for the number on the Iri's neck. 
+  & The number on the skin had changed to Seventeen. This was not the same Iri. 
+  & Kurono knew the ugly truth. Every complaint about an Iri, resulted in an exchange, the Iri would go to rehabilitation and return a "better" servant. The reality was that a new slave of the same age would be fetched from the mines, and would take the place of the other with a new number carved into its neck.
+  & Kurono felt like a fiend. After that, no complaint was made of Seventeen, in fear that this Iri too would be replaced. Going to Demeri for answers was impossible, and the guards and teachers were no help at all. Kurono felt more lonely than ever, with no one to confide to and with no way to know what had really happened to {{Sixteen}}.
 
 `).parse();
 

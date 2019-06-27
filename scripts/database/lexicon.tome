@@ -119,6 +119,36 @@ GREE
   TEXT
     & A Finiku, an old acquaintance of {{Nono}}, and captain of Beobug II. 
 
+SIXTEEN
+  TYPE: Characters
+  TEXT
+    & An {*Iri*}, servant to {*Kurono*}.
+
+DEMERI
+  TYPE : Characters
+  TEXT
+    & The Light of Lights and head of the {*Iridi*} people of {*Irideri*}. Demeri is a stern leader, feared by all.
+
+ENJI
+  TYPE : Characters
+  TEXT
+    & Enji is an {*Iridi*} and the head guard of the {*Court of Light*}. 
+
+ENO
+  TYPE : Characters
+  TEXT 
+    & Eno is an {*Iridi*} and former guard in the {*Courte of Light*}, now resident of {*Renate*}.
+
+MAKA
+  TYPE : Characters
+  TEXT 
+    & Maka is an {*Aodal*} and unofficial leader of the city of {*Renate*}. A kind person, trusted by all. Maka is a skilled metal-worker, and is mentoring the young {*Eno*}.
+
+KURONO
+  TYPE : Characters
+  TEXT
+    & The young heir to the throne of {{Irideri}}. Kurono is hard-headed, and cares little for the tantrums of the Crown of the Realm, Sovereign {{Demeri}}.
+
 LUPIN
   TYPE : Characters
   TEXT
@@ -372,7 +402,7 @@ MEDILILLY
   TEXT
     & A leafy plant, tall with a thick stem and hundreds of tiny leaves. It is very hard to grow, it requires much water and attention, and takes years to grow to maturity (the only time when the plant gains its medical properties). It is used to reduce inflammation and can help in healing. It is thought to relax the body. It can be consumed as a tea, but is often made into a poultice when treating wounds. 
 
-CHLOROMYCE SHROOS
+CHLOROMYCE SHROO
   TYPE : Flora
   TEXT
     & A type of fungi that emits strong phosphorescent light, it grows in caves, underground where there is no light. It is an object of desire for the {*Iridi*}, who have fought wars in its name. 
@@ -569,6 +599,11 @@ BONAN WINE
   TYPE : Misc
   TEXT
     & A strong wine made from the bonan plant, a starchy berry that grows in the central rim.
+
+IRI
+  TYPE : Misc
+  TEXT
+    & Iri is the name given to all who serve the {*Court of Light*}, every servant shares this name. An Iri has no voice, no opinion and no value to anyone in the Kingdom of {*Irideri*}.
 
 IRIDI RAIDS
   TYPE : Misc
