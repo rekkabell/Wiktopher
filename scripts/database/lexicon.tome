@@ -327,6 +327,12 @@ WOTH
     & Messenger woths are sturdy creatures, they fit in the palm of your hand. They have excellent memories, and can travel long distances. Many use them as a means of sending messages to other cities.
     % content/fauna.woth.jpg
 
+VENNEC
+  TYPE : Fauna
+  TEXT
+    & Vennecs are large, humpbacked, furry beasts with thin snouts, large pointy ears and a long slender neck. Their ears are big to better dissipate heat. They are often used to pull heavy carts, because they are very strong and can walk a long time without being hungry or thirsty. Vennec carry water in their humps and store grains in their cheeks.
+    % content/fauna.vennec.jpg
+
 HYROO
   TYPE : Fauna
   TEXT
@@ -356,7 +362,7 @@ SWEET GRASS
   TEXT 
     & A type of grass that is hair-like and sweet-tasting. Many creatures have an intense attraction towards them, especially {*floaters*}.
 
-LOOMA ROOTS
+LOOMA ROOT
   TYPE : Flora
   TEXT
     & A Volare favourite, these root vegetables are small and heart-shaped with cream-colored skin. Their stems are equally as short and topped with a single circular leaf, which is covered in tiny soft hairs. Looma roots become sweeter in flavor when grown in the shade, and develop even more taste when grilled or stewed.
@@ -427,6 +433,11 @@ NORANGE
   TYPE : Flora
   TEXT 
     & A sweet, and bitter fruit with a thick rind. It has a fragant smell, and can calm the mind. It pairs well with norcorn patties.
+
+BOBONION
+  TYPE : Flora
+  TEXT
+    & A spicy octagonal vegetable, enveloped in a thick black rind. The inside is soft, and can be scooped out with a tool. Bobonion taste just as strong as they smell.
 
 NORCORN
   TYPE : Flora
