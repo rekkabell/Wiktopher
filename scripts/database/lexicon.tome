@@ -25,7 +25,7 @@ MINISTE
 VOLARE
   TYPE : Locations
   TEXT
-    & One of three cities, built on the back of the Ilk Vol. Volare is also the name of one of the founders of the 3 cities, the ones who befriended the desert walkers, and that first settled on the Ilk. Lupin and Mago are direct descendants of Volare, which earns them the right to be the Voice of Volare.
+    & One of three cities, built on the back of the Ilk {*Vol*}. Volare is also the name of one of the founders of the 3 cities, the ones who befriended the desert walkers, and that first settled on the Ilk. Lupin and Mago are direct descendants of Volare, which earns them the right to be the {*Voice of Volare*}.
 
 SORONAN DESERT
   TYPE : Locations
@@ -102,22 +102,17 @@ PONOPO
 UNO
   TYPE : Characters
   TEXT
-    & A giant, often seen atop a Hyroo named Kit. Not much is known of this being, but is thought that Uno is very, very ancient.
+    & A giant, often seen atop a {*Hyroo*} named {*Kit*}. Not much is known of this being, but is thought that Uno is very, very ancient.
 
 ETYL
   TYPE : Characters
   TEXT
     & {*Etyl*} is a famous {*Finiku*}, grand-mapa of {*Nono*}. This Finiku is a sandfinner, known the world over, for having traversed the whole of the land - including the {*ash plains*} and {*Dorake's passage*} - alone by sandfin.
 
-SANDFINNER
-  TYPE : Characters
-  TEXT
-    &  Those who travel the desert by {*sandfin*}, a vessel powered by wind.
-
 GREE
   TYPE : Characters
   TEXT
-    & A Finiku, an old acquaintance of {{Nono}}, and captain of Beobug II. 
+    & A {*Finiku*}, an old acquaintance of {{Nono}}. Gree is the captain of Beobug II. 
 
 SIXTEEN
   TYPE : Characters
@@ -134,10 +129,10 @@ ENJI
   TEXT
     & Enji is an {*Iridi*} and the head guard of the {*Court of Light*}. 
 
-ENO
+RENZO
   TYPE : Characters
   TEXT 
-    & Eno is an {*Iridi*} and former guard in the {*Courte of Light*}, now resident of {*Renate*}.
+    & Renzo is an {*Iridi*} and former guard in the {*Courte of Light*}, now resident of {*Renate*}.
 
 MAKA
   TYPE : Characters
@@ -152,7 +147,7 @@ KURONO
 LUPIN
   TYPE : Characters
   TEXT
-    & A {{Verido}}, in the running to become Voice of Volare. Lupin is a curious creature, and a tireless skeptic.
+    & A {{Verido}}, in the running to become {*Voice of Volare*}. Lupin is a curious creature, but hates being alone.
 
 MALISS
   TYPE : Characters
@@ -182,7 +177,7 @@ LEVI
 NONO
   TYPE : Characters
   TEXT
-    & A {*Finiku*}, appreciator of Bonan wine, and captain of a {{sandfin}}. Grand-sprout of famous sandfinner {*Etyl*}.
+    & A {*Finiku*}, appreciator of Bonan wine and captain of a {{sandfin}}. Grand-sprout of famous sandfinner {*Etyl*}.
 
 LAGGRA
   TYPE : Characters
@@ -192,7 +187,7 @@ LAGGRA
 ROSMUS
   TYPE : Characters
   TEXT
-    & A Verido, and sproutling of Pumra, living in the Ilk city of Volare. Rosmus is being trained as a pattern reader, but cares more for pottery nowadays.
+    & A Verido, and sproutling of {*Pumra*}, living in the Ilk city of {*Volare*}. Rosmus is being trained as a pattern reader, but cares more for pottery nowadays.
 
 HUSH
   TYPE : Characters
@@ -213,6 +208,21 @@ BAO
   TYPE : Characters
   TEXT 
     & The second monarch of the {*Iridi*}, stern but just, this leader thought it necessary to put a stop to the raids, and attempted to make peace with the world, but it was poorly received, given how many were still held captive in the mines. Bao thought it best then, to close the kingdom of {*Irediri*} to the world. 
+
+HORI 
+  TYPE : Characters
+  TEXT
+    & A famous {*Iridi*} and puzzlemaker, creator of the prism prisons.
+
+BARON
+  TYPE : Characters
+  TEXT
+    & Current caretaker of the puzzle museum in {*Irideri*}, former collegue of puzzle maker extraordinaire {*Hori*}.
+
+NOKO 
+  TYPE : Characters
+  TEXT
+    & Sproutling of {*Hori*}, died at a young age.
 
 MOERA
   TYPE : Characters
@@ -393,6 +403,11 @@ BANABO
   TEXT 
     & A tall tree-like plant that thrives in desert conditions. Its trunk is wide and dense and it is often used as a material to build houses and other hard structures. Its top leaves are often used as brooms and to weave baskets and other decorative items. 
 
+HAMPA
+  TYPE : Flora
+  TEXT
+    & One of the first plants to be spun into usable fiber, but it has fallen out of style in recent years. {*Sandfinners*} continue to use it to make their sails, as it is a sturdy material. The plant is large, with thick broad leaves. It can be found in the Central Rim, near {*waterstone*} pits. 
+
 LAVENDIRI
   TYPE : Flora
   TEXT
@@ -468,12 +483,18 @@ KAVAVA
 BONAN
   TYPE : Flora
   TEXT
-    & A berry, with soft flesh rich in starch covered with a rind, which may be orange or purple when ripe. The seeds are roasted and brewed for tea.
+    & A berry, with soft flesh rich in starch covered with a rind, which may be orange or purple when ripe. The seeds are roasted and brewed for tea. {*Finiku*} love to make wine with it.
 
-KABACHO
+KABA
   TYPE : Flora
   TEXT
-    & An alcohol made from the fruit of the Kaba plant. It is left to steep in sugar water for many months. When drunk, it numbs your mouth and body, it is a very strong intoxicant.
+    & The Kaba plant has a thick orange trunk, with thousands of stems growing from its sides, each, with a two-headed red flower. These plants have the unique property of growing onto other living beings, like plants or large creatures. They have a symbiotic relationship. A strong alcohol  — with numbing properties — is made from the fruit of the Kaba plant
+
+LANIVA 
+  TYPE : Flora
+  TEXT
+    & Laniva plants grow almost completely underground, with just a single flower sticking out of the soil. The flower is a bright yellow, and is very sensitive to changes in the environment. It is said that if music is played near a Laniva plant, that the beans will grow to be larger and sweeter. Laniva bean pods develop underground, and each pod can contain up to 3 beans. These pods are circular, the size of a fist. 
+    & Laniva is sweet tasting, the roots can be ground up and used to augment dishes. The beans can be eaten as is, or each bean can be sliced open, its insides scooped out, to be eaten or cooked in savoury dishes.
 
 WATERSTONES
   TYPE : Flora
@@ -501,10 +522,15 @@ SKY ROCK
 
 ~ Others
 
+KABACHO
+  TYPE : Misc
+  TEXT
+    & An alcohol made from the fruit of the Kaba plant. It is left to steep in sugar water for many months. When drunk, it numbs your mouth and body, it is a very strong intoxicant.
+
 SANDFIN
   TYPE : Misc
   TEXT
-    & A vessel for desert travel, that uses wind to propel itself forward. The sandfin is a Finiku invention, in fact, in the old times most were nomadic and traveled the desert in this way. The vessel is flat-bottomed, with two fins on either side to prevent it from tipping in big weather. A rudder and tiller is affixed to the stern and aids in steering the vessel, although the main way to steer with a sandfin is by means of trimming the sails, kept up with a tall mast. Sandfinners carry a wide variety of sails, for many sorts of wind. Some sandfins, like the {{Beobug}} supply ships, are much larger and can have two or more masts. These also, use other means of propulsion like gas, which they also process and produce onboard. 
+    & A vessel for desert travel, that uses wind to propel itself forward. The sandfin is a Finiku invention, in fact, in the old times most were nomadic and traveled the desert in this way. The vessel is flat-bottomed, with two fins on either side to prevent it from tipping in big weather. A rudder and tiller is affixed to the stern and aids in steering the vessel, although the main way to steer with a sandfin is by means of trimming the sails, kept up with a tall mast. Sandfinners carry a wide variety of sails (made from {*Hampa*}), for many sorts of wind. Some sandfins, like the {{Beobug}} supply ships, are much larger and can have two or more masts. These also, use other means of propulsion like gas, which they also process and produce onboard. 
 
 BEOBUG
   TYPE : Misc
@@ -591,6 +617,11 @@ FOODSTAMPS
   TEXT
     & A patch that if applied to the skin ensures good nutrition, it comes in a variety of flavours mimicking real food. It was invented by the grand leader of Montore {*Monty*}, and helped to stave off hunger during the {*Iridi Raids*}.
 
+SANDFINNER
+  TYPE : Misc
+  TEXT
+    &  Those who travel the desert by {*sandfin*}, a vessel powered by wind.
+
 SPROUTLING
   TYPE : Misc
   TEXT
@@ -599,7 +630,7 @@ SPROUTLING
 GREEN DAY
   TYPE : Misc
   TEXT 
-  & The day that the {*sproutling*} was taken from the ground, it is usually celebrated within small closely-knit communities. Many throw elaborate parties, banquets in the honor of the young.
+    & The day that the {*sproutling*} was taken from the ground, it is usually celebrated within small closely-knit communities. Many throw elaborate parties, banquets in the honor of the young.
 
 LEAPING DAY
   TYPE : Misc
@@ -610,12 +641,23 @@ LEAPING DAY
 BONAN WINE
   TYPE : Misc
   TEXT
-    & A strong wine made from the bonan plant, a starchy berry that grows in the central rim.
+    & A strong wine made from the {*bonan*} plant, a starchy berry that grows in the central rim.
 
 IRI
   TYPE : Misc
   TEXT
     & Iri is the name given to all who serve the {*Court of Light*}, every servant shares this name. An Iri has no voice, no opinion and no value to anyone in the Kingdom of {*Irideri*}.
+
+PATTERN READING
+  TYPE : Misc
+  TEXT
+    & A tradition amongst the {*Verido*} people, {*the Readers*} of every town can deciper the patterns on the faces of each Verido, and can in turn read their family history.
+    & When Verido sprout into being, their skin patterns are deciphered by the Readers, the resulting combination of characters is the name of the sproutling. When young, the patterns are simpler, they get more complex with age and stop changing once the Verido has reached maturity.
+
+READER
+  TYPE : Misc
+  TEXT
+    & Those who master the art of {*Pattern reading*}, a {*Verido*} tradition. There can only be one Reader per {*Ilk*}, a skilled passed down from master to student.
 
 IRIDI RAIDS
   TYPE : Misc
