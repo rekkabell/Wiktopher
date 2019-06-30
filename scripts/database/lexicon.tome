@@ -1,4 +1,4 @@
-var LEXICON = new Indental(`
+let LEXICON = new Indental(`
 
 ~ Locations
 

@@ -70,7 +70,7 @@
         // Sort
         let wasVowel = null
         let last = null
-        for (var i = 0; i < word.length; i++) {
+        for (let i = 0; i < word.length; i++) {
           const letter = word.charAt(i)
           const isVowel = vowels.indexOf(letter) > -1
 
@@ -87,7 +87,7 @@
         }
 
         let _s = ''
-        for (var i = 0; i < _v.length; i++) {
+        for (let i = 0; i < _v.length; i++) {
           _s += _c.charAt(i) + _v.charAt(i)
         }
 
@@ -115,7 +115,7 @@
       function playWord(word){
         let html = ''
 
-        for (var i = 0; i < word.length; i += 2) {
+        for (let i = 0; i < word.length; i += 2) {
           const seg = word.substr(i,2)
           html += `${seg} = ${playPhoneme(seg)}\n`
         }

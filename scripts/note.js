@@ -7,9 +7,7 @@ function Note (client) {
   this.update = function (target, y) {
     this.el.className = ''
     this.el.style.top = `${y}px`
-
-    var entry = this.find(target)
-
+    let entry = this.find(target)
     this.el.innerHTML = entry ? `<h2>${target.capitalize()}</h2>${new Runic(entry.TEXT)}` : `<h2>${target.capitalize()}</h2><p>Unknown lexicon item <b>${target}</b>,<br />will be added shortly.</p>`
   }
 
@@ -18,7 +16,6 @@ function Note (client) {
   }
 
   this.hide = function () {
-    console.log('Hide node')
     this.el.className = 'hidden'
   }
 }

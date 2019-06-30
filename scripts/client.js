@@ -9,9 +9,7 @@ function Client (story, lexicon) {
   this.note = new Note(this)
 
   this.start = function () {
-    var target = window.location.hash.replace(/\+/g, ' ').replace('#', '').toUpperCase().trim()
-
-    this.load(target)
+    this.load(window.location.hash.replace(/\+/g, ' ').replace('#', '').toUpperCase().trim())
   }
 
   this.load = function (target = Object.keys(this.story)[0]) {
@@ -32,7 +30,7 @@ function Client (story, lexicon) {
     this.note.hide()
     this.navi.update()
 
-    var html = ''
+    let html = ''
 
     html += `<h1>${this.index.toTitleCase()}</h1>`
     html += `<hs>Chapter ${this.find_chapter_id(this.index)}</hs>`
@@ -48,21 +46,21 @@ function Client (story, lexicon) {
   }
 
   this.show_lexicon = function () {
-    var html = '<h1>The Lexicon</h1><hs>Additional content</hs>'
+    let html = '<h1>The Lexicon</h1><hs>Additional content</hs>'
     // Navi
-    var cats = {}
+    let cats = {}
     for (id in this.lexicon) {
-      var segment = this.lexicon[id]
+      let segment = this.lexicon[id]
       if (!cats[segment.TYPE]) { cats[segment.TYPE] = {} }
       cats[segment.TYPE][id] = segment
     }
 
     html += '<list>'
     for (id in cats) {
-      var cat = cats[id]
+      let cat = cats[id]
       html += `<h2>${id}</h2>`
       for (i in cat) {
-        var segment = cat[i]
+        let segment = cat[i]
         html += `<h3>${i.capitalize()}</h3>${new Runic(segment.TEXT)}`
       }
     }

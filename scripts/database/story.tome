@@ -1,4 +1,4 @@
-var STORY = new Indental(`
+const STORY = new Indental(`
 
 VOICE OF THE ILK
   BODY

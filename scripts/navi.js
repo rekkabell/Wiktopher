@@ -3,9 +3,9 @@ function Navi (client) {
   this.client = client
 
   this.update = function () {
-    var html = ''
+    let html = ''
     for (id in this.client.story) {
-      var segment = this.client.story[id]
+      if(this.client.story[id].HIDE){ continue }
       html += `<ln class='chapter ${this.client.index == id ? 'selected' : ''}'><a onclick='client.load("${id}")'>${id.capitalize()}</a></ln>`
     }
     html += `<ln><a onclick='client.load("lexicon")'>The Lexicon</a></ln>`
