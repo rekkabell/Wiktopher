@@ -2,8 +2,6 @@ var STORY = new Indental(`
 
 VOICE OF THE ILK
   BODY
-    * Voice of the ilk
-    + Chapter 1
     % content/fauna.ilk.jpg
     & Losing one's own things is very irritating – a scarf of all things! A piece of fabric that long could not stay hidden... or so {{Lupin}} thought. The same thing had happened the week before, and the month prior. It excelled at the art of disappearance. Lupin claimed to have nothing to do with it getting lost. The lengthy fiend was sentient no doubt, and enjoyed eluding its master.
     & Lupin could never remember where things were. Worse yet, was that Lupin also liked to borrow things. All {{Verido}} borrowed from one another from time to time, if they saw something they liked in the house of another they would take it without asking, and that was okay. Objects had a way of making the rounds and somehow always ended up back where they'd started — that is, unless Lupin was the borrower. Many objects from homes around the village had never returned, everyone knew who was to blame for it and yet no one came to claim anything back, having found joy in having fewer things. Their dwellings as a result had become more spacious, more pleasant, but Lupin's clutter only worsened. The clutter had become a hazard. some of the village elders did worry, but after much thinking they too chose to ignore it. 
@@ -160,8 +158,6 @@ VOICE OF THE ILK
 
 BED OF DUST
   BODY
-    * Bed of dust
-    + Chapter 2
     % content/fauna.hyroo.jpg
     & Lupin could hear a scream – was it the wind? Or was it the sound of life leaving this body? If there could ever be such a thing. The sound was unbearable, a prolonged high-pitched cry that caused this heart great pain. This mind did fear death, but didn't think that it would part with the flesh in flight, contrary to what the elders in Volare believed.
     & Leaping from the Ilk's snout was common practice with the old and the sick, {{Leaping Day}}s were celebrated by all habitants of the {*Soronan Desert*}. Now, falling and afraid, Lupin knew why others came up this story, no one would jump if they knew the truth. There was nothing romantic about it. The frail, and disabled, only did it thinking that it would be a joyful and pain-free experience. 
@@ -272,8 +268,6 @@ BED OF DUST
 
 THE MOUNTAIN WITH NO NAME
   BODY
-    * The mountain with no name
-    + Chapter 3
     % content/fauna.vennec.jpg
     & Lupin marched towards the mountain, carrying a bag plump with supplies. {{Uno}} gave ample food for the difficult journey ahead, the bag contained a dozen {{waterstones}}, these would need to be rationed because these shoulders could not carry more. The bag also contained 5 loaves of {{teaweet}} bread and some root vegetables.
     & The climb was difficult, there was no evident road or path to take. Lupin climbed over faces of jagged rock, feet and hands finding cracks and creases for support. The Verido stopped often to eat, sleep, or to watch the world below get smaller, and smaller. The mounting altitude was comforting, like being on the back of an Ilk. The undulating terrain, that looked unfamiliar at ground level, was easy to recognize from up here. Lupin had grown accustomed to a flyer's eye view of things, it would be hard to get used to looking at contructions from their base rather than from their uppermost part, doing this would reveal different details. 
@@ -347,8 +341,6 @@ THE MOUNTAIN WITH NO NAME
   
 THE SANDFIN
   BODY
-    * The sandfin
-    + Chapter 4
     % content/flora.cactub.jpg
     & Eka, Lupin and {{Hush}} wandered the desert, quenching their thirst with {{waterstones}}. {{Hush}} could no longer stand any weight on its back and walked behind them, panting. They could not get to {{Montore}} fast enough, though the thought of cake and tea did offer some motivation. During the walk, Eka sang about {{bam}} cakes, listing the ingredients aloud in song. Every song ended with a solo of groans and growls, courtesy of Lupin's empty belly.
     & {_"Ba-ba-ba-{{bam}} cakes! Ba-ba-ba-{{bam}} cakes!"_}
