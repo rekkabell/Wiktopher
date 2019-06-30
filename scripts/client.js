@@ -37,7 +37,7 @@ function Client(story,lexicon)
 
     var html = ''
 
-    html += new Runic(this.story[this.index]).toString();
+    html += new Runic(this.story[this.index].BODY).toString();
     this.text_el.innerHTML = html;
   }
 
