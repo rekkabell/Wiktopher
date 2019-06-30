@@ -264,6 +264,11 @@ ORIN
   TEXT 
     & {*Orin*} is a {{Finiku}}, sprout of {{Nok}} and grand-mapa of {{Bou}}. Orin is a skilled tailor, trained by Nok, both worked in their workshop in {{Edonor}}. Orin loves fine thread, and loves to make risque items, using bright colours and complex patterns. 
 
+DOT
+  TYPE : Characters
+  TEXT 
+    & A {*Finiku*} and representative of the {*Great Leader Monty*}. Dot addresses crowds in Monty's name, and has many plans for the city of {*Montore*}.
+
 MONTY
   TYPE : Characters
   TEXT 
@@ -329,12 +334,12 @@ FALSE-MOSSLINGS
 MUDBEARS
   TYPE : Fauna
   TEXT
-    & Tiny little insects that burrow into waterstones, they ooze a poisonous substance that can be very poisonous. 
+    & Tiny little insects that burrow into waterstones, they ooze a substance that can be very poisonous. 
 
 WOTH
   TYPE : Fauna
   TEXT
-    & Messenger woths are sturdy creatures, they fit in the palm of your hand. They have excellent memories, and can travel long distances. Many use them as a means of sending messages to other cities.
+    & Messenger woths are sturdy creatures, they fit in the palm of your hand. They have excellent memories, and can travel long distances. Many use them as a means of sending messages to other cities. They can carry items many times their own weight.
     % content/fauna.woth.jpg
 
 VENNEC
@@ -580,7 +585,7 @@ VERIDO
 IRIDI
   TYPE : Misc
   TEXT 
-    & {*The Iridi*} reside within the protective ridge of {*Mount Nui*} in the city of {*Irediri*}. They revere the light of the {*Chloromyce shroos*}, their very way of life is centred around the harvesting and ingesting of this fungi. Like the chloromyce, they live and operate in the night, and sleep during the day. Ingesting the fungi, have caused the Iridi to become sensitive to light. The entire realm is alit with chloromyce, especially the reigning monarch who wears them.
+    & {*The Iridi*} reside within the protective ridge of {*Mount Nui*} in the city of {*Irideri*}. They revere the light of the {*Chloromyce shroos*}, their very way of life is centred around the harvesting and ingesting of this fungi. Like the chloromyce, they live and operate in the night, and sleep during the day. Ingesting the fungi, have caused the Iridi to become sensitive to light. The entire realm is alit with chloromyce, especially the reigning monarch who wears them.
 
 FINIKU
   TYPE : Misc
@@ -653,6 +658,11 @@ PATTERN READING
   TEXT
     & A tradition amongst the {*Verido*} people, {*the Readers*} of every town can deciper the patterns on the faces of each Verido, and can in turn read their family history.
     & When Verido sprout into being, their skin patterns are deciphered by the Readers, the resulting combination of characters is the name of the sproutling. When young, the patterns are simpler, they get more complex with age and stop changing once the Verido has reached maturity.
+
+SPECTER
+  TYPE : Misc
+  TEXT
+    & Name given to those in {*Montore*} who don't have ID. They are considered to not-exist, and cannot enter the city.
 
 READER
   TYPE : Misc

@@ -579,7 +579,7 @@ BEOBUG
     & "That's what we're doing too, co-existing. Another glass Javi my friend!"
     & Javi went to pour a generous serving of bonan wine to both, a bit of it overflowing outside the vessel.
     & "The dung helps to fertilize the land, if you take it all, things will not grow." the Verido insisted. 
-    & "You do not think we really take it ALL?" Gree said, laughing aloud. "Even so, food patches solve all this, and are much better for you." The captain lifted up a sleeve to show one of those patches, pressed onto the skin, "This is my lunch."
+    & "You do not think we really take it ALL?" Gree said, laughing aloud. "Even so, {{foodpatches}} solve all this, and are much better for you." The captain lifted up a sleeve to show one of those patches, pressed onto the skin, "This is my lunch."
     & "Ah I see, another {{Montore}} industry. Another way to amass coin, a path to the creation of more titles." a glass of empty bonan wine sat in Lupin's hand, "did I drink all of this just now?" Gree's glass was also empty, but Javi was there to fill them right back up again.
     & "Industry means progress." Gree said, leaning into the Verido.
     & "Progress means coin."
@@ -985,7 +985,7 @@ MONTORE
     & "A piece of identification that tells others who I am? That's stupid."
     & "It's the law." The clerk reached under the desk and pulled up a {{durdle}}, a creature with long ears and a spiked shell, it had a tag stuck to one of its spikes with the writing 'd-126'. "See. Even d-126 here has an ID."
     & "Okay. Fine. Say I want to get an ID, where do I get it?"
-    & "You'll need to visit the next stall Specter. NEXT!" The clerk called, eager to move on to another customer. 
+    & "You'll need to visit the next stall {{Specter}}. NEXT!" The clerk called, eager to move on to another customer. 
     & Lupin stormed off, looking for that next stall the clerk had mentioned. It was easy to find, it being the one with a long line of people standing in front of it. A long, long line, snaking around {{Montore}}'s outer wall and through an amassments of tents. Lupin approached a young {{Terin}} who stood in line with a question, "hey, how long you been waiting here?"
     & The {{Terin}} appeared to be in a daze. "Forever... maybe. Who caaaares!" The {{Terin}}'s voice was sluggish.
     & "Yuna's been in line for 5 days" said a voice behind Lupin, it came from another {{Terin}} who also stood in line.
@@ -1057,12 +1057,12 @@ MONTORE
     & A large structure sat in the middle of the plaza, a thick beam with a large wheel around it, spinning slowly. Eka then noticed that the beam and wheel were connected to a much larger cog, built under the plaza. Following one of these long branches Eka arrived into a bakery, inside another of these large beams came out of a hole in the floor, and it, had a series of smaller branches and cogs attached to it leading all the way to a flour mill. 
     & "Whoa-" Eka said, grinning widely. "This is brilliant!" The city was build on top of a huge cog, used to power devices in the businesses of the city. 
     & In the bakery, the 'beam' had a movable arm that could be repositioned to another location to power different items like the mill, the flour mixer and the dough beater. 
-    & "You shouldn't mill so much muckwheat!" An old {{Aodal}} said to another, likely the owner of the bakery, "we sell so little now, no one wants any! Why waste it?"
+    & "You shouldn't mill so much {{muckwheat}}!" An old {{Aodal}} said to another, likely the owner of the bakery, "we sell so little now, no one wants any! Why waste it?"
     & The bakery owner sighed at these words, and glanced over at fresh loaf of muckwheat bread, "people in this town need to be reminded of what real food looks like, and smells like!"
     & "They're going to shut us down Avril. We need coin to keep this place in operation."
     & Eka overheard this conversation, and was rather sad to hear it. This was a direct result of the increasing production of {{foodstamps}}. Eka carried these words back to Lupin, who had somehow gotten dragged into a {{Montore}} tour group. Leaving it was hard, everyone kept pushing them from one place to another, like a shepard herding sheplings. 
     & "The town operates on a schedule!" A tour guide to the city said to a group of newly-arrived visitors. "3 times a day, during rush hour, the strongest in the city come to the main beam in the plaza and give the master cog a big boost by spinning it faster manually! Food stamp production increases dramatically during these times, to meet the increase in demand. Outside of rush hour, the cog spins at a continuous and consistent speed, made possible by the outer cog that is built on top of the city wall. The outer cog is equipped with sails, using the power of the wind to keep moving all day everyday! But remember, currently {{Beobug}} is trying to build a new systemt that would remove the need for the cog system entirely! Imagine!"
-    & Lupin and Eka began to tour the city like this, following the guide, they found their way into a factory that makes sweet-tasting food patches. On arrival every one was given a sample, the guide gave Eka a '{{bam}} cake' patch. "It's just like having the real thing! Try it!"
+    & Lupin and Eka began to tour the city like this, following the guide, they found their way into a factory that makes sweet-tasting {{foodpatches}}. On arrival every one was given a sample, the guide gave Eka a '{{bam}} cake' patch. "It's just like having the real thing! Try it!"
     & Eka smelled the patch, but did not dare to apply it to the skin, remembering what {{Zucca}} had said about them not being a substitute for real food. 
     & "Our grand leader {{Monty}} had the idea for this wonderful product! It has saved countless lives, and propelled this city to fame!"
     & "{{Monty}}?" Lupin said, loud enough for others to hear.
@@ -1087,7 +1087,7 @@ MONTORE
     & Lupin went to sit down on that same crate, shoulder to shoulder with {{Kuzi}}. Both said nothing, sitting together with Dot's voice in the background. Just then the woth returned, carrying a bit of {{norange}} peel around, what it was able to salvage from the rooftop. Lupin grabbed the peel, and handed it over to {{Kuzi}}. "You can taste it now."
     & The {{Terin}} pushed it away. "No, I don't like how it makes me feel. I'd rather forget."
     & A curious onlooker noticed the {{norange}} peel. "THE {{NORANGE}}!" Word of the {{norange}} on the rooftop had traveled, everyone in town knew of it. Dot stopped speaking then, words falling on deaf ears as a crowd gathered around Lupin, as if drawn to the word itself. There was no way to run this time, guards arrived, one of them recognizing both Lupin and the {{Terin}} from before. "You two...!"
-    & The guard gripped Lupin's arm, then began to search for the piece of ID. "What? No ID either?! We've got a Specter here!" The guard didn't even bother to check {{Kuzi}} for one.
+    & The guard gripped Lupin's arm, then began to search for the piece of ID. "What? No ID either?! We've got a {{Specter}} here!" The guard didn't even bother to check {{Kuzi}} for one.
     & "HEY I've got ID! I exist! See? SEE?" {{Kuzi}} yelled, fumbling around for it, but the guard didn't want to hear it and both were dragged away from the crowds, across the plaza and into the square building with the {{Montore}} insignia. They were brought into the inner courtyard, and were asked to stay there.
     & {{Kuzi}} gave Lupin a shove. "Why'd you have to get me involved?!"
     & "I didn't do anything! Everyone here just gets real crazy whenever there's mention of {{norange}}s! How was I to know?!"
@@ -1097,17 +1097,17 @@ MONTORE
     & Lupin smirked. "Another accident."
     & "They're going to put us into a mill and grind us into {{foodstamps}}! That's what's gonna happen!" {{Kuzi}} yelled.
     & "Its your fault, you were supposed to meet us but instead you went on a kavava bender!"
-    & {{Kuzi}} began to fight Lupin in the courtyard, although the fight occurred mostly on one side and less so on the other. The Verido didn't know how to fight, and made a dance of it, avoiding the onslaught of fists with ease given the fact that {{Kuzi}} was still high on root juices. Their fight was interrupted by the guard's return. "HEY stop that!" The {{Aodal}} instructed them to follow, and brought them in front of a large door, made of carved {{banabo}}.
-    & "Who does this belong to?" The guard then asked the two, holding a piece of {{norange}} peel.
+    & {{Kuzi}} began to fight Lupin in the courtyard, although the fight occurred mostly on one side and less so on the other. The Verido didn't know how to fight, and made a dance of it, avoiding the onslaught of fists with ease given the fact that {{Kuzi}} was still high on root juices. Their fight was interrupted by Averet, the guard. "HEY stop that!" {{Averet}} instructed them to follow, and brought them in front of a large door, made of carved {{banabo}}.
+    & "Who does this belong to?" {{Averet}} then asked the two, holding a piece of {{norange}} peel.
     & Lupin didn't want to put a claim to it, having no desire to get ground up into anything. {{Kuzi}} addressed the guard then. "How would I have a {{norange}}, I was born here and never left, same as you."
-    & The guard gripped Lupin's arm then. "Right. Come with me Specter."
+    & The guard gripped Lupin's arm then. "Right. Come with me {{Specter}}."
     & "I bet the food stamp version of you will be DISGUSTING!" {{Kuzi}} shouted, just as another guard arrived to escort the {{Terin}} outside.
-    & Lupin gulped as the large {{banabo}} door opened, revealing a thick blind, obscuring both the room and its occupant. "Go," the guard said, pushing the captive onward. Lupin took a few stepsd forward, stopping a the draping, then hands found an opening in the fabric and the Verido pushed on. A young {{Terin}}, dressed in a green robe was on the other side. "You're the specter, the {{norange}} smuggler?"
-    & "Specter I get, but smuggler? That's escalating things a bit don't you think?"
+    & Lupin gulped as the large {{banabo}} door opened, revealing a thick blind, obscuring both the room and its occupant. "Go," Averet said, pushing the captive onward. Lupin took a few stepsd forward, stopping a the draping, then hands found an opening in the fabric and the Verido pushed on. A young {{Terin}}, dressed in a green robe was on the other side. "You're the {{Specter}}, the {{norange}} smuggler?"
+    & "{{Specter}} I get, but smuggler? That's escalating things a bit don't you think?"
     & "Follow me," the young {{Terin}} said then, pushing past yet another set of drapings, dividing the entrance to the rest of the room. After traversing the last set of fabric blinders, Lupin stepped into a cluttered, and messy room, filled with objects, most notably, it had plants! There was a gap in the ceiling, with a roof to shield it from the sun, but high enough to bring some light into the room. 
     & "The {{norange}} thief is here."
     & "Now wait a minute—" Lupin began.
-    & Another {{Terin}} pushed out from under a pile of documents, an older one with greying hair and a thin young face. This was {{Monty}}. {{Monty}} wore a simple pair of pants, not bothering to wear a shirt or shoes at all. This {{Terin}} did not bear the look of a grand leader.
+    & Another {{Terin}} pushed out from under a pile of documents, an older one with greying hair and a thin young face. This was {{Monty}}. {{Monty}} wore a simple pair of pants, not bothering to wear a shirt. This {{Terin}} did not bear the look of a grand leader.
     & "Where did you get it?" {{Monty}} asked, nonchalantly, while checking over the leaves of a nearby plant.
     & "I think that if I did say, I'd betray a friend and put many other lives in danger."
     & {{Monty}}'s ears perked at this. "Um, you're talking about {{Zucca}}."
@@ -1115,18 +1115,18 @@ MONTORE
     & "Didn't think that grouch was alive, has had many {{Green Day}}s, too many some would say. I'm happy {{Zucca}} was able to save some {{norange}} seeds," {{Monty}} said, switching attention to another plant, "{{norcorn}} patties just aren't the same without {{norange}} sauce."
     & "Hope you don't me saying but... are you really {{Monty}}? The leader of this city?"
     & {{Monty}}'s yellow eyes moved to Lupin then. "Not what you were expecting?"
-    & "No, not at all... you've got all these plants, feeding people food patches, the {{Beobug}} goons and their {{sandfin}}s that spit out smoke- it's horrific! Hard to believe it comes from you."
+    & "No, not at all... you've got all these plants, feeding people {{foodpatches}}, the {{Beobug}} goons and their {{sandfin}}s that spit out smoke- it's horrific! Hard to believe it comes from you."
     & "You have a problem with innovation?" {{Monty}} asked.
     & "I've got a problem with pain, and misery." Lupin replied.
-    & "The food patches helped feed the refugees during the {{Iridi raids}}."
-    & "Did you know that {{Beobug}} employees sell expired food patches to the hungry for coin?"
+    & "The {{foodpatches}} helped feed the refugees during the {{Iridi raids}}."
+    & "Did you know that {{Beobug}} employees sell expired {{foodpatches}} to the hungry for coin?"
     & {{Monty}} thought about this for a moment. "And you're holding me responsible."
     & "Yes, yes I am."
     & "The misuse of my creations is really not my fault, I couldn't have imagined them using it for personal gain."
     & "People in this city aren't eating real food anymore! Everyone is obssessed with coin, a useless piece of metal! It's ridiculous!"
-    & "Coin was supposed to be a way to simplify exchanges in the city, Dot had other plans for it. It was really a good idea, but again... others have pushed the concept a bit too far. It's no one's fault, everyone is doing their best. Everyone is just trying to survive out here. To be honest, I just decided to stop having ideas."
+    & "Coin was supposed to be a way to simplify exchanges in the city, {{Dot}} had other plans for it. It was really a good idea, but again... others have pushed the concept a bit too far. It's no one's fault, everyone is doing their best. Everyone is just trying to survive out here. To be honest, I just decided to stop having ideas."
     & Lupin noted the amount of drawings and books scattered about, clearly {{Monty}} wasn't done having ideas. "You mean you decided to stop telling others about them."
-    & "Yes, I suppose you're right. The giant cog was a good idea — it was my first, my best. Should have stopped there. It doesn't matter anyway, I heard Dot was planning on removing the entire system to replace it with one  powered by natural gas instead of wind... light and power in every home is the goal, the people of {{Montore}} have expressed interest in this already. People are willing to pay for energy. {{Beobug}} created this need for it — it's clever, really."
+    & "Yes, I suppose you're right. The giant cog was a good idea — it was my first, my best. Should have stopped there. It doesn't matter anyway, I heard {{Dot}} was planning on removing the entire system to replace it with one  powered by natural gas instead of wind... light and power in every home is the goal, the people of {{Montore}} have expressed interest in this already. People are willing to pay for energy. {{Beobug}} created this need for it — it's clever, really."
     & "D'you ever tell anyone all this? That's it a bad idea? Maybe if they heard it from you they'd stop?"
     & {{Monty}} didnt seem to agree with this theory. "People have forgotten who I am, what I look like; for instance, if I were to go out there on the plaza right now, shouting my name for all to hear, they wouldn't believe I was {{Monty}}. Especially, as you suggest, if I were out there speaking against my own ideas. Heh- they'd lock me up, thinking I was there to tarnish the reputation of the great leader."
     & Lupin took note of a painting on the backwall, it much resembled the portrait carved on the coin and it was true that it did not look like this version of {{Monty}}.
@@ -1138,13 +1138,13 @@ MONTORE
     & "Why did you ask me here?"
     & "A Verido with a {{norange}}, a {{hyroo}} and a round-eared companion is a curious thing - wouldn't you have asked yourself in here?"
     & "I'll add that story to the pile, in exchange for you to tell the truth. It's a good one-" Lupin teased. 
-    & {{Monty}} seemed amused by this, but not amused enough. "Goodbye Specter."
+    & {{Monty}} seemed amused by this, but not amused enough. "Goodbye {{Specter}}."
     & Lupin let out a deep sigh, there was nothing to do then but leave. The Verido glanced at the second hand. "What now? What happens to the ones who don't exist in the eyes of {{Montore}}? Do i get ground up into fodder?"
     & The green-clad {{Terin}} laughed, "that story I made up has really gotten around! Ah well, if it helps keep people in line." With this, Lupin was escorted out of the building. "You need to leave the city, right this instant." {{Monty}}'s second hand watched as Lupin stepped into the main plaza with a guard, making their way towards the main gate. The guard kept close, to make sure the wrongdoer didn't decide to take a detour on the way out. {{Kuzi}} did see the Verido, but said nothing. There was nothing to say.
     & Eka stood by {{Kuzi}}, chewing loudly, eating chunks of freshly baked {{bam}} cake. "D'you know where I can get some meppermint tea around here?"
     & {{Kuzi}} looked over, catching scent of the bread. "No, I don't know."
     & "You want some?" Eka offered, putting a slice of bread under the {{Terin}}'s nose. "I could eat it all myself, but that would make me a glutton. You eating a bit would make me feel like less of one. At least I'll be a generous glutton you know? That sounds better somehow."
-    & {{Kuzi}} was hungry, having forgotten to buy some food patches. "Sure, more for you than me though." {{Kuzi}} chewed on the piece of bread, the taste of it was like an explosion of flavor! The effect was so strong that the {{Terin}}'s body began to shiver uncontrollably. "There's gingin in it... I love gingin! Well -I used to."
+    & {{Kuzi}} was hungry, having forgotten to buy some {{foodpatches}}. "Sure, more for you than me though." {{Kuzi}} chewed on the piece of bread, the taste of it was like an explosion of flavor! The effect was so strong that the {{Terin}}'s body began to shiver uncontrollably. "There's gingin in it... I love gingin! Well -I used to."
     & "Enjoy it, this is likely the last bread the bakery will ever bake. It's closing tomorrow, not enough people buying bread... shame. They make amazing pastries too — Avril and Ira i mean, they're the real deal! Soon they'll be gone. Extinct, like the {{norange}}s."
     & {{Kuzi}} stopped chewing, saddened by this conversation; this was usually the point where the {{Terin}} would start ingesting some mind-numbing kavava. 
     & "Oh! Now i remember-" Eka began, "Avril's grandmapa Moki was the one making the mepperpint tea! Had a garden outside, it was a popular place back in the day. Some {{Terin}} was working there too — name was Azul i think, was the only one who really understood mepperpint. I miss it, but you know, if you drink too much of it-'
@@ -1185,23 +1185,23 @@ MONTORE
 LITTE LIGHT
   BODY
     % content/flora.chloromyce.shroo.jpg
-    & "{{Irideri}}," Eka said, "home of the Iridi! That's where we're going next. The Iridi monks there make the BEST {{chloromyce shroo}} noodles. The noodles glow in the dark! Plus if you eat too much the soles of your feet become iridescent. Lasts about a week, it's great." 
-    & "Monks who make noodles?" Lupin said, while caressing the spot between Hush's ears. The Hyroo had carried them much distance and now demanded a head massage. 
-    & "Oooh yes! At the end of every year, Iridi monks go deep underground, into the chasms of {{Mount Nui}} and spend a month there, alone, meditating. When they emerge, they prepare the noodles and eat them together to celebrate the new year. It symbolizes a renewal of the self, shedding your old skin kind of thing."
-    & "Alone? In the dark? For a—a month? Oh no, no no I could never do that." Lupin appeared very uncomfortable at the thought of spending time alone for that long. Lupin's hands came around Hush's neck, seeking protection from an invisible threat. "I mean, it's scary isn't it? You're in the dark, there's no one around to talk to, or to touch you. It's like you're not really there—" Lupin paused then, swallowing hard. "If I don't feel or see anything, how do I know I exist?"
+    & "{{Irideri}}," Eka said, "home of the {{Iridi}}! That's where we're going next. The {{Iridi}} monks there make the BEST {{chloromyce shroo}} noodles. The noodles glow in the dark! Plus if you eat too much the soles of your feet become iridescent. Lasts about a week, it's great." 
+    & "Monks who make noodles?" Lupin said, while caressing the spot between {{Hush}}'s ears. The {{Hyroo}} had carried them much distance and now demanded a head massage. 
+    & "Oooh yes! At the end of every year, {{Iridi}} monks go deep underground, into the chasms of {{Mount Nui}} and spend a month there, alone, meditating. When they emerge, they prepare the noodles and eat them together to celebrate the new year. It symbolizes a renewal of the self, shedding your old skin kind of thing."
+    & "Alone? In the dark? For a—a month? Oh no, no no I could never do that." Lupin's hands came around {{Hush}}'s neck, seeking protection from an invisible threat. "I mean, it's scary isn't it? You're in the dark, there's no one around to talk to, or to touch you. It's like you're not really there—" Lupin paused then, swallowing hard. "If I don't feel or see anything, how do I know I exist?"
     & "Oh Lew, precious, precious Lew. If you're thinking that you're nothing, you are {_something_}. You are a {*thinking thing*}."
     & The Verido made a face then, processing these words carefully, "I'm a thinking thing, thinking things are not nothing." A smile formed on Lupin's lips then. "Having iridescent feet would be fun. I still don't want to go meditating in a cave alone though, hope that's not required to eat chloromyce noodles."
-    & "We shall see!" Eka said, tearing away from Lupin for a moment and reaching into Hush's saddle bag for a book. The book was a dark colour, the pages bound by {{banabo}} thread with silvery writing on top. "This book is going to tell us everything we need to know about {{Irideri}}."
+    & "We shall see!" Eka said, tearing away from Lupin for a moment and reaching into {{Hush}}'s saddle bag for a book. The book was a dark colour, the pages bound by {{banabo}} thread with silvery writing on top. "This book is going to tell us everything we need to know about {{Irideri}}."
     & "Where d'you get that book?" Lupin asked, having no memory of this book ever being around until now.
     & "Borrowed it, from the {{Montore}} library." Eka said.
-    & "How we going to return it? I've no plans to go Montore again... couldn't even if I wanted to anyway, remember my walk of shame?"
-    & "I'll Woth it back over there." Eka said, smiling at the {{Woth}}, asleep in the glass ball on Lupin's bag.
-    & "Is that something people say? 'I will 'Woth' this letter to you?'" Lupin asked.
-    & "It's something I say, and that others ought to say. They can carry items many times their own weight y'know!" Eka said, showing Lupin the cover of the book, it read {*'Habitants of the Night'*}.
-    & Lupin did not seem eager to learn more about the people of Irideri. "Had a long talk with {{Zucca}} about the {{Iridi}}, they ruined a lot of lives. They raided all those villages for slaves, destroyed that seed sanctuary, all that just because they didn't want to harvest the {{Chloromyce Shroo}}s themselves. It's horrible. Why are they so dependent on {{chloromyce shroo}}s anyway?"
-    & "That's because of {{Moera}}, the first ever Sovereign of Irideri. Moera loved the stuff." Eka opened the book and began to turn the first few pages. It was an old tome, the pages, like the binding thread, were also made from {{banabo}} fibres.  "I'm going to read the story! It's a good one."
+    & "How we going to return it? I've no plans to go {{Montore}} again... couldn't even if I wanted to anyway, remember my walk of shame?"
+    & "I'll {{woth}} it back over there." Eka said, smiling at the {{woth}}, asleep in the glass ball on Lupin's bag.
+    & "Is that something people say? 'I will 'woth' this letter to you?'" Lupin asked.
+    & "It's something I say, and that others ought to say." Eka said, showing Lupin the cover of the book, it read {*'Habitants of the Night'*}.
+    & Lupin did not seem eager to learn more about the people of {{Irideri}}. "Had a long talk with {{Zucca}} about the {{Iridi}}, they ruined a lot of lives. They raided all those villages for slaves, destroyed the {{Suvalba sanctuary}}, all that just because they didn't want to harvest the {{Chloromyce Shroo}}s themselves. It's horrible. Why are they so dependent on them anyway?"
+    & "That's because of {{Moera}}, the first ever Sovereign of {{Irideri}}. {{Moera}} loved the stuff." Eka opened the book and began to turn the first few pages. It was an old tome, the pages, like the binding thread, were also made from {{banabo}} fibers.  "I'm going to read the story out loud! I'll make voices and everything, it'll be great."
     & "I don't care to hear it, I already how it ends." Lupin said.
-    & "Shush, shush, this is not for you, this is for Hush and Wormple the Woth." Eka said. The {{Woth}} stirred inside its glass ball, but did not rise to the name Wormple. Eka then flashed Lupin a smile and began to read aloud...
+    & "Shush, shush, this is not for you, this is for {{Hush}} and Wormple the Woth." Eka said. The {{woth}} stirred inside its glass ball, but did not rise to the name Wormple. Eka then flashed Lupin a smile and began to read aloud...
     > <hr/>
     & {*HABITANTS OF THE NIGHT*}
     > <ul>
@@ -1224,9 +1224,9 @@ LITTE LIGHT
     & "Things have to be different now."
     & "I hope you're right." Lupin wanted to believe that the Iridi had abandoned their former ways.
     > <hr/>
-    & Meanwhile in {{Irideri}}, the people were waking. The kingdom slept during the day and came alive at dusk. In the palace, {{Kurono}}, the Young Light of the realm, was already out of bed. A servant was tending to the royal's hair and clothes. Kurono wore dark robes of a material that shimmered in the light of the {{chloromyce shroo}}s, with hair that flowed onto the floor, black and straight. 
+    & Meanwhile in {{Irideri}}, the people were waking. The kingdom slept during the day and came alive at dusk. In the palace, {{Kurono}}, the Young Light of the realm, was already out of bed. A servant was tending to the royal's hair and clothes. {{Kurono}} wore dark robes of a material that shimmered in the light of the {{chloromyce shroo}}s, with hair that flowed onto the floor, black and straight. 
     & Hair arrangements, as well as clothes, was important in Irideri, your outer facade was a reflection of your innermost self. Untidy hair would communicate to others that you had no discipline, that your thoughts were cluttered, but having a well-sculpted head of hair was a sign that your life was in order. It didn't matter if you were ill of body or sick of mind, as long as the outer shell was intact. Kurono's hair was sculpted into a bun, held up by silver wiring and adorned with jewels. 
-    & {{Iri}}, a servant, was helping the young crown get ready. The servant wore a tight hood, with the face covered by a mask from the nose down. This mask was a symbol of silence, of servitude, a reminder to others that Iri were not allowed to speak. Servant-wear was simple, with little skin visible, aside from the eyes and forehead. They had no eyebrows, no discerning physical traits or means of producing an expression. {{Iri}} always had a tall silver rod in hand, topped with a T. Dangling from one branch was a glass ball, and in it, a glowing {{chloromyce shroo}}. 
+    & {{Iri}}, a servant, was helping the young crown get ready. The servant wore a tight hood, with the face covered by a mask from the nose down. This mask was a symbol of silence, of servitude, a reminder to others that {{Iri}} were not allowed to speak. Servant-wear was simple, with little skin visible, aside from the eyes and forehead. They had no eyebrows, no discerning physical traits or means of producing an expression. {{Iri}} always had a tall silver rod in hand, topped with a T. Dangling from one branch was a glass ball, and in it, a glowing {{chloromyce shroo}}. 
     & In public, Iri shadowed Kurono and made sure that no part of the Monarch-To-Be was left unlit. Most of the kingdom was kept dark, making the presence of a royal in the room the center of attention. 
     & Kurono cared little for those rules, but their leader demanded it. All days were well-ordered, Monarch {{Demeri}} liked it that way.
     & “Playroom Iri.” The Young Light said with a sigh, knowing that being in a room designed for play without a playmate wouldn't be much fun at all. This was a recurring thought in Kurono's mind. There wasn’t anyone in the mansion to play with... well, there was Iri, a good servant, but a poor playmate. All who served {{Irideri}} could not talk unless spoken to. This young follower had even fewer privileges; Iri couldn't eat, sleep, walk, or move without Kurono saying so. It was forbidden for anyone to give them names, and so all servants of light shared a single one: "Iri".
@@ -1235,27 +1235,49 @@ LITTE LIGHT
     & “Would you dance with me Iri?” the Young Light asked suddenly. 
     & Speaking with the {{Iri}} gave little distraction, but did offer some release. Having an ear to talk to with a mouth bound by law meant that anything could be said without the fear of it being repeated. 
     & Iri flashed an open hand then. This gesture meant: 
-    & {_"Have no illusions about me. I am not worthy of language. I am nothing."_}
+    > <ul>
+    > <li>{*"Have no illusions about me.</li>
+    > <li>I am not worthy of language,</li>
+    > <li>I am nothing."*}</li>
+    > </ul>
     & “Would you deny a request by the crown-to-be?” Kurono asked, with a smile, “dance me with now, I demand it." 
     & Following these words, the Little Light stood up and went to take the servant's hands. Iri could not refuse such a request, or any other. It was the law. 
     & Kurono lead the confused Iri into a waltz. “Do as I do." They followed each other's steps well enough, the servant was good at following instructions. After a few minutes of this, it was difficult to tell that this Iri had never before danced a waltz. Iri had been part of Kurono's life for a long time and knew many secrets, like how this Young Light deemed {{pomparu}} farts more pleasant than Demeri's tantrums
     & “I've been thinking about this a lot,” the Young Crown began, “you’ve never given me any gifts on any of my past {{green day}}s. I am very upset about that.”
     & Iri began to sweat, upsetting Kurono was punishable by death.
     & “Don’t worry! I know what I want you to give me,” both stopped dancing then, but Kurono kept hold of the servant. “I want — no, I need to hear your voice.”
-    & Iri seemed composed, yet, the organs inside were all twisted up into knots. Every breath caused this body great pain. Once again, an open hand came to pass in front of the servant's face to mean: {_"I am nothing. I am the lowest of lows, and not worthy of your time and attention."_}
+    & Iri seemed composed, yet, the organs inside were all twisted up into knots. Every breath caused this body great pain. Once again, an open hand came to pass in front of the servant's face to mean...
+    > <ul>
+    > <li>{*"I am nothing. </li>
+    > <li>I am the lowest of lows, </li>
+    > <li>and not worthy of your time and attention."*}</li>
+    > </ul>
     & "I realize I'm asking a lot, but I promise you I won't tell. You're friend to me Iri, the only one I've got and I'm sick of doing all the talking. No one here listens to me... but you do! I know it's your job to listen, to heed my every need... but surely there's more to us than this. Surely, there are thoughts in that head of yours. What is a friendship without words?"
-    & {_"I am nothing."_} The servant motioned with a hand. Iri could not be a friend, Iri was lower than dirt and not worthy of Kurono's friendship.
+    > <ul>
+    > <li> {*"I am nothing."*}</li>
+    > </ul> 
+    & The servant motioned with a hand. Iri could not be a friend, Iri was lower than dirt and not worthy of Kurono's friendship.
     & “I'm ordering you to speak to me Iri." The Crown-To-Be demanded, with mounting irritation.
     & Iri was conflicted. The rules of the realm forbade servants of the Light to speak, yet, the Young Crown demanded it. The purpose of an Iri was to do what was asked, but doing it meant breaking yet another rule. Denying Kurono's request all together, that too was bad news, rules would be broken either way. Making a decision was impossible! Iri never decided anything, not for others and not for themselves.
     & Irritated by this silence, the Young Light moved forward and tore the mask covering Iri's mouth. Kurono hated silence and rules, perhaps now, with it gone, {{Iri}} would speak. 
     & Even without the presence of that physical barrier, the servant's lips produced no sound. The servant followed the laws of {{Irideri}}. 
-    & {_"I am nothing. I am nothing."_} Now, with lips unmasked, Kurono could see the Iri mouthing the words. {_"Iri, lower than dirt, of no value to anyone, anywhere, ever."_}
+    > <ul> <li> {*"I am nothing. </li>
+    > <li>I am nothing."*}</li>
+    > </ul>
+    & Now, with lips unmasked, Kurono could see the Iri mouthing the words. 
+    > <ul>
+    > <li>{*"Iri, lower than dirt, </li>
+    > <li>of no value to anyone, </li>
+    > <li>anywhere, ever."*}</li>
+    > </ul>
     & Kurono's teacher came at the door then, knocking, unable to enter, the door had been locked from the inside. “Oooh Young One! It is time for your history lesson!”
     & Kurono stuck a tongue out at the closed door. “I don't want to! Go away!” Then, went on to pinch Iri’s nose, "you're going to have to open your mouth to breathe sometime!". Iri's mouth remained shut and the face contouring it turned a deep shade of blue. 
     & The teacher was in the hall still, muttering behind the closed door. "Demeri will not be pleased with you Young One!"
     & "I don't caaaaare!" Kurono yelled, eyes fixed on Iri's face, watching it turn a deep and unsightly purple colour. "You’re not going to die like this are you?”
-    & Iri had no death wish, this one could not serve the realm if dead, realizing this, the servant's mouth opened with a croak. Kurono gasped, noticing then that Iri had no tongue. Back in the old days, those who knew things the crown deemed unsavoury had their tongues and vocal cords cut out. Kurono thought that this custom was long gone, the previous monarch thought it too barbaric. "How could Demeri allow this? Eyes moved to Iri's neck and spied a number hidden under the collar, the number "16" written in flesh. “Sixteen? What is this?”
-    & Iri did something unexpected then, rushing forward to press a finger to the Young Light's lips with a low {*shush*}! 
+    & Iri had no death wish, this one could not serve the realm if dead, realizing this, the servant's mouth opened with a...
+    & {*CROAK*} 
+    & Kurono gasped, noticing then that Iri had no tongue. Back in the old days, those who knew things the crown deemed unsavoury had their tongues and vocal cords cut out. Kurono thought that this custom was long gone, the previous monarch thought it too barbaric. "How could Demeri allow this? Eyes moved to Iri's neck and spied a number hidden under the collar, the number "16" written in flesh. “Sixteen? What is this?”
+    & Iri did something unexpected then, rushing forward to press a finger to the Young Light's lips with a low {_shush_}! 
     & Kurono had never seen Iri behave like this, the servant's face warped by emotion... by fear. For the first time ever, there was a semblance of personality inside of this Iri, something that had long been hidden away. The Young Light was happy to have witnessed it, but also saddened by it, to see the stress and fear so plainly. 
     & When Kuruno tried to speak again, Iri put a whole hand over the Young Crown's mouth. They locked eyes, both shocked at what was happening. Kurono did not try to stop Iri, and Iri was so tense that the arm attached to that hand felt like it was frozen in place.
     & The teacher's voice resounded in the hallway once again. "Now where is that key..."
@@ -1300,16 +1322,16 @@ TENT VILLAGE OF RENATE
   HIDE : yes
   BODY
     % content/flora.chloromyce.shroo.jpg
-    & Meanwhile, Lupin and Eka were walking the deserts in the near vicinity of {{Irideri}}. The mountain range encircling it had no visible gap in it, there were some tunnels under the mountains, that they knew, but their entrances were difficult to find, and in the event that ever did find them, these would likely be guarded.  
+    & Meanwhile, Lupin and Eka were walking the deserts in the near vicinity of {{Irideri}}. The mountain range encircling it had no visible opening, there were some tunnels under the mountains, that they knew, but their entrances were difficult to find. In the event that they ever did find them, these would likely be guarded.
     & "No hint of a secret tunnel in that book of yours?"
     & "Oh yes, there's a chapter coming up called 'secrets of the realm'"
     & "Really?"
     & "No."
-    & Lupin stopped walking, turning to look at Eka, "Oh i see what you did."
+    & Lupin stopped walking, turning to look at Eka. "Oh, OH I see. A joke, you made a joke! Funny."
     & Eka smirked, but then gazed over Lupin's shoulder at some distant object. “Whoa! Look at that!”.
-    & "Two in a row? No go. Not falling for it."
-    & “Someone's there," Eka said, "Really, really."
-    & Lupin wasn't ready to be made a fool again, not so soon, but decided to look, noticing that 'this person', fictitious or not, had its attention. Lupin Lupin's eyes narrowed down into slits then, trying to see what Eka was pointing to. “I've never seen anyone with a head like that.”
+    & "Two in a row? That's rich. Not falling for it!"
+    & “No really, someone's there," Eka said, "Really, really! Has a weird head too!"
+    & "You really think me a fool don't you?" Lupin wasn't ready to be made fun of again, not so soon, but decided to look, noticing that 'this person', fictitious or not, had Hush's attention. The Hyroo's ears perked up, nose to the sky, trying to catch a scent. Lupin had seen the beast do this before, whenever they met someone new. Lupin sighed, turning around to try and see what Eka was pointing to. “Oh, so there is! Weird head is right, never seen anyone with a head like that. Is that”
     & “A hat then? Hats do have a tendency to get more and more outrageous. A hatter I met in {{Montore}} some years ago made one so large it doubled as a dwelling.” Eka said, arms extending outward, to show the size of said hat.
     & {{Hush}} carried them over to a lone figure, sitting on hot sands, it had a large metal prism for a head, a metal shape with intricate patterns on it. The top half of this creature's body was bare, light-coloured skin that had suffered many lashes. When they called out to this prism-headed stranger, there was no answer or reaction.
     & “That’s not a head.” Eka said. A symbol lay burned onto this being's backside, a circle with a diamond shape in its centre. "That's the Irideri emblem." Then, there was a number carved in the flesh of the neck.
@@ -1373,7 +1395,7 @@ TENT VILLAGE OF RENATE
     & Lupin and Eka thanked their host. They each grabbed a slice of bread, adding a dab of mapple jam with a slice of plant sausage on top. Eka took a bite, but hesitated to take another. “Sixteen must be starving."
     & Sixteen was still resting in the corner, Maka didn’t look concerned. “Don't worry, Sixteen ate. Was the first thing I did. It's my number one rule: empty bellies must be filled at once!”
     & Lupin didn’t understand. “How did you manage it?”
-    & “Food patches.” Maka explained, pulling one out of the pocket of a work apron.
+    & “{{Foodpatches}}.” Maka explained, pulling one out of the pocket of a work apron.
     & Lupin couldn't believe it. "Oh not these again."
     & Maka laughed. “When the Iridi were attacking the cities, everyone was on the run. Good food was hard to come by, health problems arose and these came into being. A {{sandfin}} comes by every now and then, always brings a crate-full of the stuff. Not one of those {{Beobug}} scammers, a solo-traveler, on a sandfin with a yellow hull. Renate suffered much loss during the {{Iridi raids}}, a stranger brought us our first crate-full. Kindness was in short supply in those days, you can imagine the look on the people's faces when a tall stranger arrived here with it".
     & "Tall you say?" Lupin glanced over at Eka, half-expecting a reaction, but the wonder had other preoccupations.
@@ -1507,7 +1529,7 @@ KINGDOM OF IRIDERI
     & At these words, the Iridi smiled. "I'm happy to hear it! It's a dying art, and I mean that quite literally. May be grim to say, but this body is deteriorating quicker than I'd like, my brain is hot with ideas but this shell does not give a damn! Please, please, wont you come in?"
     & Baron, the museum owner, invited them inside for a drink, as well as for a tour of the house. Lupin and Eka could not refuse. Baron was second to Hori, they were not related, but they were very close. The Iridi made puzzles as well, although, none matched Hori's work. When the puzzle master died, Baron took possession of the house to preserve its appearance and contents and turned it into a museum. All over the house, puzzles sat on shelves, contraptions of all shapes and sizes for all levels of skill.
     & “Hori was truly unique,” Baron told them, "could see patterns in the world others couldn’t, my dear one had a bright mind and a unique vision.” Baron grabbed a particular puzzle off a nearby shelf to show them. “This is one of two. The other is in the palace, in little sovereign Kurono’s playroom I imagine." The old Iridi tried to solve it, but could not recall the solution. “Oh how our Little Light loves these puzzles, Hori must have designed hundreds for Kurono. I like to think that it’s thanks to Hori that our young Sovereign-to-be is so sharp of mind.”
-    & Lupin glanced around the room, eyes searching for images or plans for that prism puzzle. None were visible. Perhaps Hori did not consider it worthy of display — many would agree. The Verido decided it best to ask about it, there was no other way. “Those head prisms are quite something too aren’t they?”
+    & Lupin glanced around the room, eyes searching for images or plans for that prismatic puzzle. None were visible. Perhaps Hori did not consider it worthy of display — many would agree. The Verido decided it best to ask about it, there was no other way. “Those head prisms are quite something too aren’t they?”
     & Baron let out a deep sigh. “Yes. It's a puzzle maker's dream, solving it is very difficult. Our monarch, the Light of our world, discovered its existence and summoned Hori to the palace. The design was to be altered, to make it fit a person’s head, but this was difficult for Hori, especially since her young sproutling {{Noko}} passed on that same year. Imagine, your most prized design used to hurt others! What kind of legacy is that?" The Iridi paused, wondering if these strangers would somehow relay these words to others. One could be killed for speaking ill of the monarchy. Baron observed them carefully for a moment. "What do you colony-folk think of {{Demeri}}?"
     & "Demeri is a tyrant." Lupin said, absent-mindedly, but then the Verido regretted these words. Maybe Baron suspected they were foreigners, this now made it clear, the guards would come and take them away. The rest of their lives would be spent wearing a head of metal, walking on hot sands.
     & The old Iridi laughed, so hard that tears began to flow. "Quite right, quite right. You colonists are such liberals! I envy you."
