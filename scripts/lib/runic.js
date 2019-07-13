@@ -67,12 +67,8 @@ function Runic (raw) {
       let trail = lines[id].substr(1, 1)
       if (char == '$') { html += '<p>' + Ø('operation').request(lines[id].substr(2)).to_markup() + '</p>'; continue }
       if (char == '%') { html += this.media(lines[id].substr(2)); continue }
-      if(char == '•'){ html += '<hr/>'; continue }
       let line = lines[id].substr(2).to_markup()
-      if (!line || line.trim() == '') { continue }
       if (!rune) { console.log(`Unknown rune:${char} : ${line}`) }
-      if (trail != ' ') { console.warn('Runic', 'Non-rune[' + trail + '] at:' + id + '(' + line + ')'); continue }
-
       if (this.stash.is_pop(rune)) { html += this.render_stash() }
       if (rune.stash === true) { this.stash.add(rune, line); continue }
       html += this.render(line, rune)
@@ -97,6 +93,7 @@ function Runic (raw) {
   this.render = function (line = '', rune = null) {
     if (rune && rune.tag == 'img') { return `<img src='media/${line}'/>` }
     if (rune && rune.tag == 'table') { return 'HEY' }
+    if (rune && rune.selfclosing) { return `<${rune.tag}/>` }
 
     return rune ? (rune.tag ? '<' + rune.tag + " class='" + rune.class + "'>" + line + '</' + rune.tag + '>' : line) : ''
   }

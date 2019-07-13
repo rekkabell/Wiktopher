@@ -70,7 +70,7 @@ function Client (story, lexicon) {
   }
 
   this.find_chapter_id = function (index, story = this.story) {
-    return Object.keys(story).indexOf(index)+1
+    return Object.keys(story).indexOf(index) + 1
   }
 
   window.onclick = (el) => { this.click(el) }

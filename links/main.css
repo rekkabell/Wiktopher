@@ -65,7 +65,7 @@ footer wr { width: calc(60% - 120px);margin: 0px auto;padding: 0px 30px;max-widt
 footer wr .subscribe form { display: block;width: 300px;color: black;background: #999;border-radius: 80px;text-decoration: none;;text-align: left;padding-bottom: 10px;padding:10px 15px;margin-bottom:30px; position: relative; margin:0px auto; margin-bottom: 30px}
 footer wr .subscribe form:hover { background:#aaa; }
 footer wr .subscribe form input { background:none; }
-footer wr .subscribe form input::placeholder { color:#555;} { background:none; }
+footer wr .subscribe form input::placeholder { color:#555; background:none;}
 footer wr .subscribe form .button { display: block;color: white;background: #000;border-radius: 80px;text-decoration: none;;text-align: center;margin-bottom: 30px;position: absolute;padding: 5px 15px;text-transform: uppercase;top: 5px;right: 7px;line-height: 22px;font-weight: bold;font-size:11px}
 footer wr .subscribe form .button:hover {background-color: #aa3333; color: #fff; cursor: pointer;}
 footer .credits { padding:45px 60px }
@@ -78,7 +78,7 @@ footer .credits a.about { font-weight: bold; display: inline-block; margin-top:5
 footer .credits a.about:hover { text-decoration: underline; }
 
 columns { display: block;columns: 2;column-gap: 30px;margin-bottom: 45px;margin:0px 10px 30px; padding: 0px 30px }
-columns h2 { display: block;font-size: 30px;color: #fff;margin-bottom: 30px;font-weight: normal;text-transform: uppercase;border-bottom:1px solid white;padding-bottom:20px; break-before: column  }
+columns h2 { display: block;font-size: 30px;color: #fff;margin-bottom: 30px;font-weight: normal;text-transform: uppercase;border-bottom:1px solid white;padding-bottom:20px;  }
 columns p { font-size: 20px;font-weight: normal;line-height: 28px;color: #999;padding-right: 45px;font-family: 'alegreya-regular'}
 columns p a:hover { text-decoration: none }
 columns ul { display: block;margin-left:30px;font-size:18px;margin-bottom:30px;line-height: 26px }
