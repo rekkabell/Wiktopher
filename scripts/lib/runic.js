@@ -3,17 +3,17 @@ function Runic (raw) {
 
   this.runes = {
     '&': { glyph: '&', tag: 'p', class: '' },
-    '~': { glyph: '~', tag: 'list', sub: 'ln', class: 'parent', stash: true },
-    '-': { glyph: '-', tag: 'list', sub: 'ln', class: '', stash: true },
+    '+': { glyph: '~', tag: 'ul', sub: 'li', class: 'parent', stash: true },
+    '-': { glyph: '-', tag: 'ul', sub: 'li', class: '', stash: true },
     '!': { glyph: '!', tag: 'table', sub: 'tr', wrap: 'th', class: 'outline', stash: true },
     '|': { glyph: '|', tag: 'table', sub: 'tr', wrap: 'td', class: 'outline', stash: true },
     '#': { glyph: '#', tag: 'code', sub: 'ln', class: '', stash: true },
     '%': { glyph: '%' },
     '?': { glyph: '?', tag: 'note', class: '' },
     ':': { glyph: ':', tag: 'info', class: '' },
-    '*': { glyph: '*', tag: 'h1', class: '' },
+    '*': { glyph: '*', tag: 'h4', class: '' },
     '=': { glyph: '=', tag: 'h3', class: '' },
-    '+': { glyph: '+', tag: 'hs', class: '' },
+    '•': { glyph: '•', tag: 'hr', class: '', selfclosing: true },
     '>': { glyph: '>', tag: '', class: '' },
     '$': { glyph: '>', tag: '', class: '' }
   }
@@ -67,6 +67,7 @@ function Runic (raw) {
       let trail = lines[id].substr(1, 1)
       if (char == '$') { html += '<p>' + Ø('operation').request(lines[id].substr(2)).to_markup() + '</p>'; continue }
       if (char == '%') { html += this.media(lines[id].substr(2)); continue }
+      if(char == '•'){ html += '<hr/>'; continue }
       let line = lines[id].substr(2).to_markup()
       if (!line || line.trim() == '') { continue }
       if (!rune) { console.log(`Unknown rune:${char} : ${line}`) }
