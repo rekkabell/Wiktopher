@@ -13,7 +13,7 @@
   <script type="text/javascript" src="scripts/lib/runic.js"></script>
   <script type="text/javascript" src="scripts/database/story.tome"></script>
   <script type="text/javascript" src="scripts/database/lexicon.tome"></script>
-  <script type="text/javascript" src="scripts/client.js"></script>
+  <script type="text/javascript" src="scripts/app.js"></script>
   <script type="text/javascript" src="scripts/navi.js"></script>
   <script type="text/javascript" src="scripts/note.js"></script>
 </head>
@@ -25,7 +25,7 @@
   </header>
 
   <core>
-    <div id='client'>
+    <div id='application'>
       <div id='navi'></div>
       <div id='text'></div>
       <div id='note'></div>
@@ -55,8 +55,8 @@
 
   <script type="text/javascript">
 
-    const client = new Client(STORY,LEXICON)
-    client.start()
+    const app = new App(STORY,LEXICON)
+    app.start()
 
     if(window.location.hash == ""){
       window.location.hash = "home"

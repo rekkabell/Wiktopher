@@ -136,7 +136,7 @@ String.prototype.to_markup = function () {
     let name = content.indexOf('|') > -1 ? content.split('|')[0] : content
     let external = (target.indexOf('https:') > -1 || target.indexOf('http:') > -1 || target.indexOf('dat:') > -1)
 
-    let exists = client.note.find(content)
+    let exists = app.note.find(content)
 
     if (external) {
       html = html.replace(`{{${content}}}`, `<a href='${target}' class='external' target='_blank'>${name}</a>`)

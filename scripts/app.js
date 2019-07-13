@@ -1,5 +1,5 @@
 function App (story, lexicon) {
-  this.el = document.getElementById('application')
+  this.el = document.getElementById('app')
   this.text_el = document.getElementById('text')
   this.story = story
   this.lexicon = lexicon

@@ -1,8 +1,8 @@
-function Note (client) {
+function Note (app) {
   this.el = document.getElementById('note')
   this.el.className = 'hidden'
-  this.el.addEventListener('click', () => { client.note.hide() })
-  this.client = client
+  this.el.addEventListener('click', () => { app.note.hide() })
+  this.app = app
 
   this.update = function (target, y) {
     this.el.className = ''
@@ -12,7 +12,7 @@ function Note (client) {
   }
 
   this.find = function (target) {
-    return this.client.lexicon[target.toUpperCase()]
+    return this.app.lexicon[target.toUpperCase()]
   }
 
   this.hide = function () {
