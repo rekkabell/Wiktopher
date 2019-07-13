@@ -680,6 +680,11 @@ SPECTER
   TEXT
     & Name given to those in {*Montore*} who don't have ID. They are considered to not-exist, and cannot enter the city.
 
+HABITANTS OF THE NIGHT
+  TYPE : Misc
+  TEXT
+    & A history book written by {*Aristollo*}, explaining how the {*Iridi*} came to start ingesting {*chloromyce shroos*}.
+
 READER
   TYPE : Misc
   TEXT
