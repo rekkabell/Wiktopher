@@ -342,6 +342,17 @@ WOTH
     & Messenger woths are sturdy creatures, they fit in the palm of your hand. They have excellent memories, and can travel long distances. Many use them as a means of sending messages to other cities. They can carry items many times their own weight.
     % content/fauna.woth.jpg
 
+PAPILION
+  TYPE : Fauna
+  TEXT
+    & Papilions are tiny fuzzy creatures, that have no visible limbs or features. They travel with the wind and in the hairs of passing habitants of the {*Soronan desert*}. It is said that when they find suitable soil, they sink within it and will sprout into {*Hespers*}, fabled creatures of old. A famous expression makes use of these creatures: 'having papilions in your throat', means being kept from speaking due to anxiety. 
+    % content/fauna.papilion.jpg
+
+HESPER
+  TYPE : Fauna
+  TEXT
+    & Hespers are very rare, they bloom into existence every hundred years, but most never see them. They are large winged creatures with soft plumage, they remain in constant flight, soaring on the wind. It is thought that they have short lives, and that they regress to a polyp stage into the earth, to bloom again at a later time. Hespers are thought to be immortal.
+
 VENNEC
   TYPE : Fauna
   TEXT
@@ -433,6 +444,11 @@ CHLOROMYCE SHROO
   TEXT
     & A type of fungi that emits strong phosphorescent light, it grows in caves, underground where there is no light. It is an object of desire for the {*Iridi*}, who have fought wars in its name. 
     % content/flora.chloromyce.shroo.jpg
+
+NUTSHROO
+  TYPE : Flora
+  TEXT
+    & A type of fungi that grows in habited areas, like cities, they even grow on the skin of {*Ilks*}. Many residents promote their growth on their own houses, nutshroos like growing on materials like {*banabo*}. Banabo ofte has colonies of this fungi already present, residents do not strip them of the material, they keep them, this assures a constant supply of food.  
 
 TEAWEET
   TYPE : Flora
