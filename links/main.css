@@ -28,7 +28,7 @@ core #navi list ln.chapter { counter-increment:chapter; }
 core #navi list ln.chapter:before { content:"Ch " counter(chapter) ": "; color:#aaa;  }
 core #navi list ln.chapter.selected:before { color:#000; font-weight: bold }
 core #navi a:hover { text-decoration: underline; cursor: pointer; }
-core #text { width: calc(60% - 120px);margin: 0px auto;max-width: 700px }
+core #text { width: calc(60vw - 120px);margin: 0px auto;max-width: 700px }
 core #text h1 { color: black;text-align: center;font-family: 'alegreya-regular';font-size: 45px;text-transform: capitalize; }
 core #text h2 { color:black; font-size:34px; margin-bottom:20px; }
 core #text hs { color: black;text-align: center;font-family: 'alegreya-regular';font-size: 20px;text-transform: capitalize; margin-bottom:30px; display:block; }
@@ -58,24 +58,24 @@ core list.lexi ln.parent { font-family: 'alegreya-bold' }
 
 #social img { max-width: 2%; border-radius: 3px; margin: 5px }
 
-footer { display: block;background: #b5b5b5;color: black;padding-bottom: 5px;padding: 0px 30px;z-index: 900;position: relative;padding-top:45px }
-footer h1 { font-size: 55px;text-transform: uppercase;margin-bottom: 30px }
-footer p { font-size: 20px;font-weight: normal;line-height: 28px;color: #333;padding-right: 45px;font-family: 'alegreya-regular'; margin-bottom: 30px}
-footer wr { margin: 0px auto;padding: 0px 30px;max-width: 700px; display: block }
-footer wr .subscribe form { display: block;width: 300px;color: black;background: #999;border-radius: 80px;text-decoration: none;;text-align: left;padding-bottom: 10px;padding:10px 15px;margin-bottom:30px; position: relative; margin:0px auto; margin-bottom: 30px}
-footer wr .subscribe form:hover { background:#aaa; }
-footer wr .subscribe form input { background:none; }
-footer wr .subscribe form input::placeholder { color:#555; background:none;}
-footer wr .subscribe form .button { display: block;color: white;background: #000;border-radius: 80px;text-decoration: none;;text-align: center;margin-bottom: 30px;position: absolute;padding: 5px 15px;text-transform: uppercase;top: 5px;right: 7px;line-height: 22px;font-weight: bold;font-size:11px}
-footer wr .subscribe form .button:hover {background-color: #aa3333; color: #fff; cursor: pointer;}
-footer .credits { padding:45px 60px }
-footer .credits a.social { display: inline-block;float: right;padding:7px;margin-left:5px;height:17px }
-footer .credits a.social img { width:20px; filter: invert(100%); }
-footer .credits a.social:hover { opacity: 0.5 }
-footer .credits a.donate { border-radius: 100px; background:#111; color:white; padding:0px 15px; line-height: 30px; display: inline-block; float:right; margin-left:10px;}
-footer .credits a.donate:hover { background:#aa3333; color:black; }
-footer .credits a.about { font-weight: bold; display: inline-block; margin-top:5px; }
-footer .credits a.about:hover { text-decoration: underline; }
+#footer { display: block;background: #b5b5b5;color: black;padding-bottom: 5px;padding: 0px 30px;z-index: 900;position: relative;padding-top:45px; overflow: hidden;}
+#footer h1 { font-size: 55px;text-transform: uppercase;margin-bottom: 30px }
+#footer p { font-size: 20px;font-weight: normal;line-height: 28px;color: #333;padding-right: 45px;font-family: 'alegreya-regular'; margin-bottom: 30px}
+#footer wr { width: calc(60vw - 120px);margin: 0px auto;max-width: 700px; display: block }
+#footer wr .subscribe form { display: block;width: 300px;color: black;background: #999;border-radius: 80px;text-decoration: none;;text-align: left;padding-bottom: 10px;padding:10px 15px;margin-bottom:30px; position: relative; margin:0px auto; margin-bottom: 30px}
+#footer wr .subscribe form:hover { background:#aaa; }
+#footer wr .subscribe form input { background:none; }
+#footer wr .subscribe form input::placeholder { color:#555; background:none;}
+#footer wr .subscribe form .button { display: block;color: white;background: #000;border-radius: 80px;text-decoration: none;;text-align: center;margin-bottom: 30px;position: absolute;padding: 5px 15px;text-transform: uppercase;top: 5px;right: 7px;line-height: 22px;font-weight: bold;font-size:11px}
+#footer wr .subscribe form .button:hover {background-color: #aa3333; color: #fff; cursor: pointer;}
+#footer .credits { padding:45px 60px }
+#footer .credits a.social { display: inline-block;float: right;padding:7px;margin-left:5px;height:17px }
+#footer .credits a.social img { width:20px; filter: invert(100%); }
+#footer .credits a.social:hover { opacity: 0.5 }
+#footer .credits a.donate { border-radius: 100px; background:#111; color:white; padding:0px 15px; line-height: 30px; display: inline-block; float:right; margin-left:10px;}
+#footer .credits a.donate:hover { background:#aa3333; color:black; }
+#footer .credits a.about { font-weight: bold; display: inline-block; margin-top:5px; }
+#footer .credits a.about:hover { text-decoration: underline; }
 
 columns { display: block;columns: 2;column-gap: 30px;margin-bottom: 45px;margin:0px 10px 30px; padding: 0px 30px }
 columns h2 { display: block;font-size: 30px;color: #fff;margin-bottom: 30px;font-weight: normal;text-transform: uppercase;border-bottom:1px solid white;padding-bottom:20px;  }
@@ -91,6 +91,7 @@ img.main { width: 30%;max-width: 30% !important; border-radius: 3px; margin-bott
 @media (max-width: 950px) {
   core #navi { position:relative; width:calc(100% - 30px); max-width:700px; margin:0px auto; margin-bottom:30px; border-bottom:1px solid #ccc; padding-bottom:30px}
   core #text { position:relative; width:calc(100% - 30px); }
+  #footer wr { position:relative; width:calc(100% - 30px); }
   core #note { position:fixed !important; bottom:0px !important; left:0px !important; background:#000; width:calc(100vw - 90px); top:auto !important; padding:30px 45px; color:white; }
   core #note p { max-width:700px; margin:0px auto}
   core #note h2 { max-width: 700px; margin: 0px auto 20px;}
