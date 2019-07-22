@@ -68,14 +68,14 @@ core list.lexi ln.parent { font-family: 'alegreya-bold' }
 #footer wr .subscribe form input::placeholder { color:#555; background:none;}
 #footer wr .subscribe form .button { display: block;color: white;background: #000;border-radius: 80px;text-decoration: none;;text-align: center;margin-bottom: 30px;position: absolute;padding: 5px 15px;text-transform: uppercase;top: 5px;right: 7px;line-height: 22px;font-weight: bold;font-size:11px}
 #footer wr .subscribe form .button:hover {background-color: #aa3333; color: #fff; cursor: pointer;}
-#footer .credits { padding:45px 60px }
-#footer .credits a.social { display: inline-block;float: right;padding:7px;margin-left:5px;height:17px }
-#footer .credits a.social img { width:20px; filter: invert(100%); }
-#footer .credits a.social:hover { opacity: 0.5 }
-#footer .credits a.donate { border-radius: 100px; background:#111; color:white; padding:0px 15px; line-height: 30px; display: inline-block; float:right; margin-left:10px;}
-#footer .credits a.donate:hover { background:#aa3333; color:black; }
-#footer .credits a.about { font-weight: bold; display: inline-block; margin-top:5px; }
-#footer .credits a.about:hover { text-decoration: underline; }
+#footer #credits { padding:45px 60px }
+#footer #credits a.social { display: inline-block;float: right;padding:7px;margin-left:5px;height:17px }
+#footer #credits a.social img { width:20px; filter: invert(100%); }
+#footer #credits a.social:hover { opacity: 0.5 }
+#footer #credits a.donate { border-radius: 100px; background:#111; color:white; padding:0px 15px; line-height: 30px; display: inline-block; float:right; margin-left:10px;}
+#footer #credits a.donate:hover { background:#aa3333; color:black; }
+#footer #credits a.about { font-weight: bold; display: inline-block; margin-top:5px; }
+#footer #credits a.about:hover { text-decoration: underline; }
 
 columns { display: block;columns: 2;column-gap: 30px;margin-bottom: 45px;margin:0px 10px 30px; padding: 0px 30px }
 columns h2 { display: block;font-size: 30px;color: #fff;margin-bottom: 30px;font-weight: normal;text-transform: uppercase;border-bottom:1px solid white;padding-bottom:20px;  }
@@ -90,13 +90,16 @@ img.main { width: 30%;max-width: 30% !important; border-radius: 3px; margin-bott
 
 @media (max-width: 950px) {
   core { padding:30px 15px; }
-  core #navi { position:relative; width:calc(100%); max-width:700px; margin:0px auto; margin-bottom:30px; border-bottom:1px solid #ccc; padding-bottom:30px}
-  core #text { position:relative; width:calc(100%); }
+  core #navi { position:relative; width:100%; max-width:700px; margin:0px auto; margin-bottom:30px; border-bottom:1px solid #ccc; padding-bottom:30px}
+  core #text { position:relative; width:100%; }
   core #note { position:fixed !important; bottom:0px !important; left:0px !important; background:#000; width:calc(100vw - 90px); top:auto !important; padding:30px 45px; color:white; }
   core #note p { max-width:700px; margin:0px auto}
   core #note h2 { max-width: 700px; margin: 0px auto 20px;}
   core #note.hidden { display:none}
   core #note:hover { padding: 35px 45px; cursor: pointer; }
   core #note img { display: none }
-  #footer wr { position:relative; width:calc(100%); }
+  #footer { padding: 30px 15px }
+  #footer wr { position:relative; width:100%; }
+  #footer wr .subscribe form { width:calc(100% - 30px); }
+  #footer #credits { padding:15px 0px; }
 }
