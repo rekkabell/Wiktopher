@@ -34,7 +34,7 @@ core #text h2 { color:black; font-size:34px; margin-bottom:20px; }
 core #text hs { color: black;text-align: center;font-family: 'alegreya-regular';font-size: 20px;text-transform: capitalize; margin-bottom:30px; display:block; }
 core #text hs:before { content:"— "; }
 core #text hs:after { content:" —";}
-core #text img { max-width: 300px; margin:0px auto 30px; display: block }
+core #text img { max-width: 300px; margin:0px auto 30px; display: block; width: 100%}
 core #text p { display: block;max-width: 900px;color: #505050;font-size: 24px;margin: 0px auto 30px auto;line-height: 32px;}
 core #text p.main { font-weight: bold; margin-bottom: 30px;}
 core #text p word { text-decoration: underline; }
@@ -89,13 +89,14 @@ img.main { width: 30%;max-width: 30% !important; border-radius: 3px; margin-bott
 /* CUSTOM */
 
 @media (max-width: 950px) {
-  core #navi { position:relative; width:calc(100% - 30px); max-width:700px; margin:0px auto; margin-bottom:30px; border-bottom:1px solid #ccc; padding-bottom:30px}
-  core #text { position:relative; width:calc(100% - 30px); }
-  #footer wr { position:relative; width:calc(100% - 30px); }
+  core { padding:30px 15px; }
+  core #navi { position:relative; width:calc(100%); max-width:700px; margin:0px auto; margin-bottom:30px; border-bottom:1px solid #ccc; padding-bottom:30px}
+  core #text { position:relative; width:calc(100%); }
   core #note { position:fixed !important; bottom:0px !important; left:0px !important; background:#000; width:calc(100vw - 90px); top:auto !important; padding:30px 45px; color:white; }
   core #note p { max-width:700px; margin:0px auto}
   core #note h2 { max-width: 700px; margin: 0px auto 20px;}
   core #note.hidden { display:none}
   core #note:hover { padding: 35px 45px; cursor: pointer; }
   core #note img { display: none }
+  #footer wr { position:relative; width:calc(100%); }
 }
