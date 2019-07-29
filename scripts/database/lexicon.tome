@@ -17,6 +17,16 @@ SUVALBA SANCTUARY
   TEXT 
     & After the fall of Ministe, some of the surviving Terins created the sanctuary to provide a safe haven for growing sproutlings. It became a seed repository, for all the plants in the Soronan desert.
 
+COLONIES
+  TYPE : Locations
+  TEXT
+    & During the Raids, the Iridi established {{colonies} in far-away camps, used as relief stations for soldiers, but also as temporary camps for captives. These stations were equidistant, getting from one to the next in cover of darkness was possible — a requirement for Iridi soldiers. Most of the camps were evacuated when the raidings ceased, but rumor spread that Bao left two standing. These settlements were built over mines, known for their abundance of chloromyce shroos. 
+
+BASILIK
+  TYPE : Locations
+  TEXT
+    & A library in {*Irideri*}, consisting of books written by its habitants only, with hand-made books. 
+
 MINISTE
   TYPE : Locations
   TEXT 
@@ -40,9 +50,9 @@ ASH PLAINS
 DORAKE'S PASSAGE
   TYPE : Locations
   TEXT 
-    & {*Dorake's passage*} is a long pass south of the Nui Mountain ridge, a pass that has claimed many sandfinners over the years.
+    & {*Dorake's passage*} is a long pass south of the {*Andenuis*} Mountain ridge, a pass that has claimed many sandfinners over the years.
 
-MOUNT NUI
+ANDENUIS
   TYPE : Locations
   TEXT
     & A mountaineous ridge, bordered in the south by the Southern Dust Plains, to the NW by {*Renate*}, and to the NE by {*Edonor*}. On the North end of the Mountain, is the city of {*Irideri*}, the realm of the Iridi. 
@@ -373,6 +383,12 @@ SESHELL KRAB
 
 ~ Flora
 
+CONK SHROO 
+  TYPE : Flora
+  TEXT
+    & Conks are hard, woody, cave-dwelling shroos. They are found in mountainous areas, and used to make a variety of objects. Conks can also be eaten, but the texture makes it difficult to chew.
+    % content/flora.conk.shroo.jpg
+    
 LOOBERRY
   TYPE : Flora
   TEXT
@@ -638,6 +654,11 @@ FOODSTAMPS
   TEXT
     & A patch that if applied to the skin ensures good nutrition, it comes in a variety of flavours mimicking real food. It was invented by the grand leader of Montore {*Monty*}, and helped to stave off hunger during the {*Iridi Raids*}.
 
+GOMINO
+  TYPE : Misc
+  TEXT
+    &  A strategy game, played with flat blocks of wood with squares of varying quantities painted over one face. The goal of the game is to overpower your opponent, by choosing to bid higher in the start or end of each round.
+
 SANDFINNER
   TYPE : Misc
   TEXT
@@ -678,7 +699,7 @@ PATTERN READING
 SPECTER
   TYPE : Misc
   TEXT
-    & Name given to those in {*Montore*} who don't have ID. They are considered to not-exist, and cannot enter the city.
+    & Name given to those in {*Montore*} who don't have ID. They are considered to not-exist, and cannot enter the city. It is also used as an expression, to refer to those who live alone, outside of communities. 
 
 HABITANTS OF THE NIGHT
   TYPE : Misc
