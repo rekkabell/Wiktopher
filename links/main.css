@@ -42,6 +42,7 @@ core #text p word:hover { text-decoration: none; cursor: pointer }
 core #text p word.redlink { color:red; }
 core #text hr { clear:both; display: block;background:#fff;width:8px;height:8px;margin:0px auto 30px;border-radius: 30px; border:1.5px solid #666; margin-top:60px; margin-bottom:60px; }
 core #text ul li { margin-bottom: 10px }
+core #text p a { text-decoration: underline; cursor: pointer; }
 
 core #note { right:0px; transition: all 250ms; }
 core #note.hidden { opacity: 0; }

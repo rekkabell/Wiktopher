@@ -111,7 +111,7 @@ String.prototype.capitalize = function () {
   return this.charAt(0).toUpperCase() + this.slice(1).toLowerCase()
 }
 
-String.prototype.to_url = function () {
+String.prototype.toUrl = function () {
   return this.toLowerCase().replace(/ /g, '+').replace(/[^0-9a-z\+]/gi, '').trim()
 }
 
