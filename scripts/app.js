@@ -39,8 +39,8 @@ function App (story, lexicon) {
     ${nextChapter ? `<p>Continue reading: <a onclick='app.load("${nextChapter}")'>${nextChapter.toTitleCase()}</a></p>` : ''}`
 
     setTimeout(() => {
-      window.scrollTo({ top: 0, behavior: 'smooth' })
-    }, 50)
+      window.scrollTo(0,0)
+    }, 150)
   }
 
   this.click = function (c) {
