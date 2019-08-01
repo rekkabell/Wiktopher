@@ -36,7 +36,8 @@ function App (story, lexicon) {
     <h1>${this.index.toTitleCase()}</h1>
     <hs>Chapter ${this.chapterId(this.index)}</hs>
     ${new Runic(this.story[this.index].BODY).toString()}
-    ${nextChapter ? `<p>Continue reading: <a onclick='app.load("${nextChapter}")'>${nextChapter.toTitleCase()}</a></p>` : ''}`
+    `
+// ${nextChapter ? `<p>Continue reading: <a onclick='app.load("${nextChapter}")'>${nextChapter.toTitleCase()}</a></p>` : ''}
 
     setTimeout(() => {
       window.scrollTo(0,0)
