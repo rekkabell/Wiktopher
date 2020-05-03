@@ -59,17 +59,11 @@ core list.lexi ln.parent { font-family: 'alegreya-bold' }
 
 #social img { max-width: 2%; border-radius: 3px; margin: 5px }
 
-#footer { display: block;background: #b5b5b5;color: black;padding-bottom: 5px;padding: 0px 30px;z-index: 900;position: relative;padding-top:45px; overflow: hidden;}
+#footer { display: block;background: #b5b5b5;color: black;padding-bottom: 5px;padding: 0px 20px;z-index: 900;position: relative; overflow: hidden;}
 #footer h1 { font-size: 55px;text-transform: uppercase;margin-bottom: 30px }
 #footer p { font-size: 20px;font-weight: normal;line-height: 28px;color: #333;padding-right: 45px;font-family: 'alegreya-regular'; margin-bottom: 30px}
 #footer wr { width: calc(60vw - 120px);margin: 0px auto;max-width: 700px; display: block }
-#footer wr .subscribe form { display: block;width: 300px;color: black;background: #999;border-radius: 80px;text-decoration: none;;text-align: left;padding-bottom: 10px;padding:10px 15px;margin-bottom:30px; position: relative; margin:0px auto; margin-bottom: 30px}
-#footer wr .subscribe form:hover { background:#aaa; }
-#footer wr .subscribe form input { background:none; }
-#footer wr .subscribe form input::placeholder { color:#555; background:none;}
-#footer wr .subscribe form .button { display: block;color: white;background: #000;border-radius: 80px;text-decoration: none;;text-align: center;margin-bottom: 30px;position: absolute;padding: 5px 15px;text-transform: uppercase;top: 5px;right: 7px;line-height: 22px;font-weight: bold;font-size:11px}
-#footer wr .subscribe form .button:hover {background-color: #aa3333; color: #fff; cursor: pointer;}
-#footer #credits { padding:45px 60px }
+#footer #credits { padding:25px 60px }
 #footer #credits a.social { display: inline-block;float: right;padding:7px;margin-left:5px;height:17px }
 #footer #credits a.social img { width:20px; filter: invert(100%); }
 #footer #credits a.social:hover { opacity: 0.5 }
