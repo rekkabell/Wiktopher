@@ -664,6 +664,11 @@ SANDFINNER
   TEXT
     &  Those who travel the desert by {*sandfin*}, a vessel powered by wind.
 
+LEAFLING
+  TYPE : Misc
+  TEXT
+    & A young habitant of the Soronan Desert who has lost its leaf, but that is not mature yet.
+
 SPROUTLING
   TYPE : Misc
   TEXT
