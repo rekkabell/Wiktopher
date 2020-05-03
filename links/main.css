@@ -48,7 +48,7 @@ core #note { right:0px; transition: all 250ms; }
 core #note.hidden { opacity: 0; }
 core #note img { max-width: 100% }
 core #note h2 { /*font-family: 'alegreya-bold';*/ margin-top:-30px; line-height: 30px; font-size:20px; }
-core #navi, core #note { position: absolute;top:510px;width:20%; padding-top:5px; color:black; font-size:16px; padding:0px 15px; }
+core #navi, core #note { position: absolute;top:510px;width:20%; padding-top:5px; color:black; font-size:15px; padding:0px 15px; }
 
 core table { border:1px solid #ccc; color:#333; /*font-family: courier*/}
 core table td { padding:10px; }
@@ -59,17 +59,15 @@ core list.lexi ln.parent { /*font-family: 'alegreya-bold'*/ }
 
 #social img { max-width: 2%; border-radius: 3px; margin: 5px }
 
-#footer { display: block;background: #b5b5b5;color: black;padding-bottom: 5px;padding: 0px 20px;z-index: 900;position: relative; overflow: hidden;}
-#footer h1 { font-size: 55px;text-transform: uppercase;margin-bottom: 30px }
-#footer p { font-size: 20px;font-weight: normal;line-height: 28px;color: #333;padding-right: 45px;/*font-family: 'alegreya-regular';*/ margin-bottom: 30px}
+#footer { display: block;background: none;color: black;padding-bottom: 5px;padding: 0px 20px;z-index: 900;position: relative; overflow: hidden;}
+#footer h1 { font-size: 15px;text-transform: uppercase;margin-bottom: 30px }
+#footer p { font-size: 15px;font-weight: normal;line-height: 28px;color: grey;padding-right: 45px;/*font-family: 'alegreya-regular';*/ margin-bottom: 30px}
 #footer wr { width: calc(60vw - 120px);margin: 0px auto;max-width: 700px; display: block }
 #footer #credits { padding:25px 60px }
 #footer #credits a.social { display: inline-block;float: right;padding:7px;margin-left:5px;height:17px }
-#footer #credits a.social img { width:20px; filter: invert(100%); }
+#footer #credits a.social img { width:20px; filter: invert(90%); }
 #footer #credits a.social:hover { opacity: 0.5 }
-#footer #credits a.donate { border-radius: 100px; background:#111; color:white; padding:0px 15px; line-height: 30px; display: inline-block; float:right; margin-left:10px;}
-#footer #credits a.donate:hover { background:#aa3333; color:black; }
-#footer #credits a.about { font-weight: bold; display: inline-block; margin-top:5px; }
+#footer #credits a.about { display: inline-block; margin-top:5px; }
 #footer #credits a.about:hover { text-decoration: underline; }
 
 columns { display: block;columns: 2;column-gap: 30px;margin-bottom: 45px;margin:0px 10px 30px; padding: 0px 30px }
