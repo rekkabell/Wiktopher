@@ -13,7 +13,7 @@ ul { display: block;margin-left:30px; margin-bottom:30px;line-height: 32px }
 ul li { font-size:24px; color: #505050}
 
 header { display: block;position: relative;z-index: 9000;top: 45vh; text-align: center;}
-header h1 { font-size: 55px;text-transform: uppercase; }
+header h1 { font-size: 55px;text-transform: uppercase; color:black; }
 header h2 { color:white; }
 header h2 a:hover { text-decoration: underline; }
 
