@@ -16,6 +16,15 @@ main h1 { color: black;text-align: center; font-size: 40px;text-transform: capit
 main h2 { text-align: center; color: black;text-align: center; font-size: 20px;text-transform: capitalize; margin-bottom:30px; display:block; }
 main hr { clear:both; display: block;background:#fff;width:8px;height:8px;margin:0px auto 30px;border-radius: 30px; border:1.5px solid #666; margin-top:60px; margin-bottom:60px; }
 
-p {color:#505050;font-size: 15px;margin: 0px auto 30px auto;line-height: 32px; }
-ul { display: block;margin-left:30px; margin-bottom:30px;line-height: 32px }
-ul li { font-size:15px; list-style-type:none; color: #505050}
+main p {color:#505050;font-size: 15px;margin: 0px auto 30px auto;line-height: 32px; }
+main ul { display: block;margin-left:30px; margin-bottom:30px;line-height: 32px }
+main ul li { font-size:15px; list-style-type:none; color: #505050}
+
+footer { background: #fff; color: #000; line-height: 30px; font-size: 15px; color: grey; }
+footer .social_twitter { background: url("../media/interface/icon.twitter.png"); }
+footer .social_patreon { background: url("../media/interface/icon.patreon.png"); }
+footer .social_webring { background: url("../media/interface/icon.webring.png"); }
+footer .social_100r { background: url("../media/interface/icon.100r.png"); }
+footer .social_github { background: url("../media/interface/icon.github.png"); }
+footer .social_mastodon { background: url("../media/interface/icon.mastodon.png"); }
+footer .icon { display: inline-block; width: 30px; height: 30px; float:right; filter: invert(50%);background-size: 20px; background-position: center; background-repeat: no-repeat; }
