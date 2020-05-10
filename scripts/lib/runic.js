@@ -118,6 +118,9 @@ String.prototype.toUrl = function () {
 String.prototype.to_path = function () {
   return this.toLowerCase().replace(/ /g, '.').replace(/[^0-9a-z\.]/gi, '').trim()
 }
+String.prototype.to_url = function () {
+  return this.toLowerCase().replace(/ /g, '_').replace(/[^0-9a-z\.]/gi, '').trim()
+}
 
 String.prototype.to_markup = function () {
   html = this
@@ -142,7 +145,7 @@ String.prototype.to_markup = function () {
       html = html.replace(`{{${content}}}`, `<a href='${target}' class='external' target='_blank'>${name}</a>`)
     } else {
       if (!exists) { console.warn('Missing item to lexicon:', content) }
-      html = html.replace(`{{${content}}}`, `<word data='${target}' class='${!exists ? 'redlink' : ''}'>${name}</word>`)
+      html = html.replace(`{{${content}}}`, `<a href='lexicon.html#${name.to_url()}'>${name}</a>`)
     }
   }
   return html
