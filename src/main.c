@@ -8,7 +8,7 @@ char *html_head = "<!DOCTYPE html><html lang='en'><head><meta charset='utf-8'><m
 
 // char *html_header = "<header><a href='chapter_01.html'>Wiktopher</a></header>";
 
-char *html_header = "<header><div class='background'><div class='maintext'><h1>Wiktopher</h1></div></div></header>";
+char *html_header = "<header><div class='background'><div class='maintext'><h1><a href='https://wiktopher.ca' style='text-decoration: none;'>Wiktopher</a></h1></div></div></header>";
 
 char *html_footer = "<footer><a href='https://kokorobot.ca' target='_blank'>Rekka Bellum </a> © 2020<a href='https://www.patreon.com/100' class='icon social_patreon' target='_blank'></a><a href='http://100r.co' class='icon social_100r' target='_blank'></a><a href='https://github.com/rekkabell' class='icon social_github' target='_blank'></a><a href='https://merveilles.town/@rek' class='icon social_mastodon' target='_blank'></a></div></div></footer></body></html>";
 

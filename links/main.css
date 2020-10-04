@@ -29,6 +29,8 @@ footer .social_github { background: url("../media/interface/icon.github.png"); }
 footer .social_mastodon { background: url("../media/interface/icon.mastodon.png"); }
 footer .icon { display: inline-block; width: 30px; height: 30px; float:right; filter: invert(50%);background-size: 20px; background-position: center; background-repeat: no-repeat; }
 
+.col2 { columns: 2 }
+
 @media only screen and (max-width: 840px) {
   header .maintext { font-size: 22px; }
   header .background {image-rendering: auto;}
