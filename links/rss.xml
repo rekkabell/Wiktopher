@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?><rss version='2.0' xmlns:dc='http://purl.org/dc/elements/1.1/'><channel>
+<title>Wiktopher</title>
+<link><![CDATA[https://wiktopher.ca]]></link>
+<description>Wiktopher</description>
+ <image>
+<url>https://wiktopher.ca/media/services/rss.jpg</url>
+<title>Wiktopher — Desert tales</title>
+<link>https://wiktopher.ca</link>
+</image>
+<item>
+  <title>Chapter 1 — Voice of the Ilk</title>
+  <link>https://wiktopher.ca/site/chapter_01.html</link>
+  <guid isPermaLink='false'>chapter_01.html</guid>
+  <pubDate>Mon, 11 Jun 2018 00:00:00 +0900</pubDate>
+  <dc:creator><![CDATA[Rekka Bellum]]></dc:creator>
+  <description>
+<![CDATA[<img src='https://wiktopher.ca/media/content/fauna.ilk.jpg'/>
+<p>In a room, in a house, on the back of a giant, lives a Verido, a teenager whose name is a mixture of two good things: Lu, for the sky, and Pin, a type of winged beetle. "Come on Lupin, keep at it. Keep searching." Lupin said, busy upturning all objects in the house. While proud of this name, Lupin did not choose it. Verido are unique in the way that their names and lineage appear on their skin a few years after they're grown. They take on the appearance of lines, and swirls, and when interpreted by a skilled Reader, they're translated into the common tongue. These patterns are then pricked with a permanent blue colour to add emphasis.</p><p><a href='https://wiktopher.ca/site/chapter_01.html'>Continue reading</a>.</p>]]>
+  </description>
+</item>
+</channel></rss>
