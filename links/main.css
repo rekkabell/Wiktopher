@@ -38,3 +38,19 @@ footer .icon { display: inline-block; width: 30px; height: 30px; float:right; fi
   main > img {max-width: 70%;}
   main h1 {font-size: 25px;}
   main h2 {font-size: 18px;}
+ }
+
+@media (prefers-color-scheme: dark){
+  header h1 a {color: #111}
+  main {background: #111; color: white}
+  body {background: #111}
+  body a {color: white}
+  main h1 { color:white}
+  main h2 { color:white}
+  main hr {border: grey}
+  main a {color: white}
+  main p {color:white}
+  main ul li {color: white}
+  footer { background: #111; color: #000; color: grey}
+
+}
