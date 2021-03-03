@@ -20,6 +20,7 @@ main p {color:#505050;font-size: 15px;margin: 0px auto 30px auto;line-height: 32
 main ul { display: block;margin-left:30px; margin-bottom:30px;line-height: 32px }
 main ul li { font-size:15px; list-style-type:none; color: #505050}
 
+main p > img {max-width: 40%;}
 footer { background: #fff; color: #000; line-height: 30px; font-size: 15px; color: grey; }
 footer .social_twitter { background: url("../media/interface/icon.twitter.png"); }
 footer .social_patreon { background: url("../media/interface/icon.patreon.png"); }
@@ -35,9 +36,10 @@ footer .icon { display: inline-block; width: 30px; height: 30px; float:right; fi
   header .maintext { font-size: 22px; }
   header .background {image-rendering: auto;}
   footer .icon { width: 10px; padding-left: 15px;}
-  main > img {max-width: 70%;}
+  main > img {max-width: 50%;}
   main h1 {font-size: 25px;}
   main h2 {font-size: 18px;}
+  img {max-width: 50%;}
  }
 
 @media (prefers-color-scheme: dark){
