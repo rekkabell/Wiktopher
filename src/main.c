@@ -41,8 +41,8 @@ char *html_header =
     "none;'>Wiktopher</a></h1></div></div></header>";
 
 char *html_footer =
-    "<footer><a href='https://kokorobot.ca' target='_blank'>Rekka Bellum </a> "
-    "© 2020 <a href='https://wiktopher.ca/links/rss.xml' target='_blank'>RSS "
+    "<footer><a href='https://kokorobot.ca' target='_blank'>Rek Bellum </a> "
+    "© 2021 <a href='https://wiktopher.ca/links/rss.xml' target='_blank'>RSS "
     "feed</a>"
     "<a href='https://www.patreon.com/100' class='icon social_patreon' "
     "target='_blank'></a><a href='http://100r.co' class='icon social_100r' "
