@@ -1,4 +1,4 @@
-MIT License
+The source code of this website is under a MIT License
 
 Copyright (c) Rekka Bell
 
