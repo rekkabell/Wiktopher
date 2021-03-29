@@ -6,4 +6,4 @@ The story follows two characters, Lupin and Eka, as they navigate the barren lan
 
 # Extras
 - Support the writing of this story by supporting my studio on [Patreon](https://www.patreon.com/100)
-- This project is licensed under both **MIT** (for the website's source code, see [license](LICENSE.mit.md)) and **BY-NC-SA.4.0** (for the assets and text, see [license](LICENSE.by-nc-sa-4.0.md)).
+- This project is licensed under both **MIT** (for the website's source code, see [license](https://github.com/rekkabell/Wiktopher/blob/master/LICENSE.mit.md)) and **BY-NC-SA.4.0** (for the assets and text, see [license](https://github.com/rekkabell/Wiktopher/blob/master/LICENSE)).
