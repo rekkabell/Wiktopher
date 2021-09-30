@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int chapters = 15;
+int chapters = 16;
 
 char *html_head =
     "<!DOCTYPE html><html lang='en'><head><meta charset='utf-8'><meta "
