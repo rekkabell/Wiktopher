@@ -82,7 +82,7 @@ void build_lexicon() {
 
 void build_include(FILE *f, int ch) {
   char incpath[32];
-  snprintf(incpath, 32, "inc/ch%d.htm", ch + 1);
+  snprintf(incpath, 32, "inc/ch%02d.htm", ch + 1);
   printf("Including %s\n", incpath);
   char buffer[4096];
   FILE *fp = fopen(incpath, "r");
