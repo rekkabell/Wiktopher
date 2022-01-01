@@ -64,7 +64,7 @@ process_chapter() {
 	# Add an HTML ID to the header for easy navigation.
 	/<h1>/ { gsub("<h1>", "<h1 id=\"'"$id"'\">") }
 	# Remove the list of chapters at the beginning of each chapter.
-	/<ul/ { inside_ul = 1 }
+	/<ul class='"'"'col2'"'"'>/ { inside_ul = 1 }
 	!inside_ul
 	/<\/ul>/ { inside_ul = 0 }
 	' "$1"
