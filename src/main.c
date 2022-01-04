@@ -42,7 +42,7 @@ char *html_header =
 
 char *html_footer =
     "<footer><a href='https://kokorobot.ca' target='_blank'>Rek Bellum</a> "
-    "© 2021 <a href='https://wiktopher.ca/links/rss.xml' target='_blank'>RSS "
+    "© 2022 <a href='https://wiktopher.ca/links/rss.xml' target='_blank'>RSS "
     "feed</a>"
     "<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' "
     "target='_blank'> BY-NC-SA-4.0</a>"
