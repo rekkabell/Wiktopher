@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int chapters = 16;
+int chapters = 1;
 
 char *html_head =
     "<!DOCTYPE html><html lang='en'><head><meta charset='utf-8'><meta "
@@ -49,9 +49,9 @@ char *html_footer =
     "<a href='https://www.patreon.com/100' target='_blank' class='icon "
     "social_patreon'</a>"
     "<a href='http://100r.co' target='_blank' class='icon social_100r'</a>"
-    "<a href='https://github.com/rekkabell/Wiktopher' target='_blank' "
-    "class='icon "
-    "social_github'></a>"
+    // "<a href='https://github.com/rekkabell/Wiktopher' target='_blank' "
+    // "class='icon "
+    // "social_github'></a>"
     "<a href='https://merveilles.town/@rek' target='_blank' class='icon "
     "social_mastodon' </a>"
     "</div></div></footer></body></html>";
