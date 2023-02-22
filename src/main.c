@@ -41,8 +41,9 @@ char *html_header =
     "none;'>Wiktopher</a></h1></div></div></header>";
 
 char *html_footer =
-    "<footer><a href='https://kokorobot.ca' target='_blank'>Rek Bellum</a> "
-    "© 2022 <a href='https://wiktopher.ca/links/rss.xml' target='_blank'>RSS "
+    "<footer><a href='https://kokorobot.ca' target='_blank'>Rek Bell</a> "
+    "© 2017-2023 <a href='https://wiktopher.ca/links/rss.xml' "
+    "target='_blank'>RSS "
     "feed</a>"
     "<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' "
     "target='_blank'> BY-NC-SA-4.0</a>"
