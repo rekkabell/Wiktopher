@@ -3,6 +3,7 @@ header .maintext { text-align: center;position: absolute;top: 70%;left: 50%;tran
 header {max-width: 1280px; padding-bottom: 0px; padding-top: 0px; margin: none;}
 header h1 { font-size: 40px; font-weight: bold; text-transform: uppercase; letter-spacing: 6px; font-weight: normal; margin-bottom:15px;}
 
+main img { width:100%; max-width: 800px; margin-bottom: 15px;}
 body {max-width: 800px;margin:0px auto; padding:10px; padding-top: 0px}
 b { font-weight: bold }
 a {color: black; text-decoration: underline;}
